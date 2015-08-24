@@ -1,0 +1,17 @@
+# File types #
+##############
+*.py[co]
+*.sw[opn]
+*.bkup
+*_bkup
+
+# Directories #
+###############
+logs/
+log/
+data/
+
+# Specific files #
+##################
+.project
+.pydevproject
