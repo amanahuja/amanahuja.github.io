@@ -112,7 +112,8 @@ jQuery(document).ready(function($) {
 
 /*----------------------------------------------------*/
 /*	gmaps settings
-------------------------------------------------------*/
+ *	Not currently being used, commenting out. 
+------------------------------------------------------
 
    var map;
 
@@ -167,6 +168,7 @@ jQuery(document).ready(function($) {
    //  	infoWindow: { content: '<p>You can add your address 1 here</p>' } 
    // });
 
+------------------------------------------------------ */
 
 /*----------------------------------------------------*/
 /* Smooth Scrolling
