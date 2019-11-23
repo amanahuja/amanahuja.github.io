@@ -9,7 +9,8 @@ permalink: /bday
 
 <br>
 Use this link to see current location:
-https://maps.app.goo.gl/25siZEZdG2CVdqxx6
+<a href="https://maps.app.goo.gl/25siZEZdG2CVdqxx6">
+https://maps.app.goo.gl/25siZEZdG2CVdqxx6</a>
 
 You can text me at 720 295 2626.
 
