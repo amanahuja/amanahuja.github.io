@@ -7,6 +7,7 @@ permalink: /bday
 
 <div style="font-style: italic">No need to be on time! Check here for an updated location on November 23rd if you're having trouble finding the group!</div>
 
+<br>
 Use this link to see current location:
 https://maps.app.goo.gl/25siZEZdG2CVdqxx6
 
