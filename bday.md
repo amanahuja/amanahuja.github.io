@@ -3,8 +3,13 @@ layout: page
 title: "B'day Picnic"
 permalink: /bday
 ---
-<p> Meet at 11am on Nov 23rd at Lake Merritt / Grand Lake Farmer's Market in Oakland. </p>
+<p> Hi all! We will meet at 11am today at Lake Merritt / Grand Lake Farmer's Market in Oakland. </p>
 
 <div style="font-style: italic">No need to be on time! Check here for an updated location on November 23rd if you're having trouble finding the group!</div>
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Acc0Se6rxgvlNJnJkJioC8U9jq64zIco" width="640" height="480"></iframe><Paste>
+Use this link to see current location:
+https://maps.app.goo.gl/25siZEZdG2CVdqxx6
+
+You can text me at 720 295 2626.
+
+Aman
