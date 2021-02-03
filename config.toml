@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "anatole"
+
+[params] 
+title = "Aman Ahuja"
+author = "Aman Ahuja"
+description = "description here"
+profilePicture = "images/profile.jpg"
+displayMode = "dark"
+
+[menu]
+	[[menu.main]]
+	name = "Home"
+	identifier = "home"
+	weight = 100
+	url = "/"
+
+	[[menu.main]]
+	name = "Posts"
+	identifier = "posts"
+	weight = 200
+	url = "/post/"
+
+	[[menu.main]]
+	name = "About"
+	identifier = "about"
+	weight = 300
+	url = "/about/"
