@@ -1,14 +1,23 @@
-baseURL = "http://amanahuja.github.io/"
+baseURL = "http://amanahuja.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "anatole"
+title = "Hi. I'm Aman."
 
-[params] 
-title = "Aman Ahuja"
-author = "Aman Ahuja"
-description = "description here"
-profilePicture = "images/profile.jpg"
-displayMode = "dark"
+# https://github.com/theNewDynamic/gohugo-theme-ananke
+theme = "ananke"
+
+# New for Ananke
+# ----
+# DefaultContentLanguage = "en"
+# SectionPagesMenu = "main"
+# Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# googleAnalytics = ""
+# enableRobotsTXT = true
+
+# old from theme playing
+# ----
+# author = "Aman"
+# profilePicture = "images/profile.jpg"
+# displayMode = "dark"
 
 [menu]
 	[[menu.main]]
@@ -28,3 +37,25 @@ displayMode = "dark"
 	identifier = "about"
 	weight = 300
 	url = "/about/"
+
+
+[params]
+	  favicon = ""
+	  site_logo = ""
+	  # TODO: add to static directory and add here
+	  description = "q1234 desc"
+	  featured_image = "/images/profile.jpg"
+
+	  # Social: instagram, facebook, youtube, gitlab, mastodon, slack, stackoverflow, rss
+	  linkedin = "https://linkedin.com/in/amanahuja"
+	  twitter = "https://twitter.com/amanqa"
+
+	  # styling
+	  # reference: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+	  background_color_class = "bg-gray"
+	  body_classes = "lato bg-near-white"
+	  # custom_css = ""
+
+	  # content display
+	  recent_posts_number = 3
+	  show_reading_time = true
