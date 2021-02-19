@@ -1,6 +1,6 @@
 ---
 title: "Hi. I'm Aman."
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/utah-aman-hero-resized.jpg'
 description: "Responsible and impactful data products."
 ---
 I help teams translate research and tools into responsible and impactful data products. 
