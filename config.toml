@@ -1,6 +1,6 @@
 baseURL = "http://amanahuja.me/"
 languageCode = "en-us"
-title = "Hi. I'm Aman."
+title = "Aman Ahuja"
 
 # https://github.com/theNewDynamic/gohugo-theme-ananke
 theme = "ananke"
@@ -9,9 +9,9 @@ theme = "ananke"
 # ----
 # DefaultContentLanguage = "en"
 # SectionPagesMenu = "main"
-# Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 2
 # googleAnalytics = ""
-# enableRobotsTXT = true
+enableRobotsTXT = true
 
 # old from theme playing
 # ----
@@ -19,25 +19,30 @@ theme = "ananke"
 # profilePicture = "images/profile.jpg"
 # displayMode = "dark"
 
+# [[menu.main]]
+# name = "Posts"
+# identifier = "posts"
+# weight = 200
+# url = "/post/"
+
 [menu]
-	[[menu.main]]
-	name = "Home"
-	identifier = "home"
-	weight = 100
-	url = "/"
+    [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
 
-	[[menu.main]]
-	name = "Posts"
-	identifier = "posts"
-	weight = 200
-	url = "/post/"
+    [[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
 
-	[[menu.main]]
-	name = "About"
-	identifier = "about"
-	weight = 300
-	url = "/about/"
-
+    [[menu.main]]
+    name = "CMA"
+    identifier = "CMA"
+    weight = 300
+    url = "/covid-modeling-accelerator/"
 
 [params]
 	  favicon = ""
@@ -50,12 +55,12 @@ theme = "ananke"
 	  linkedin = "https://linkedin.com/in/amanahuja"
 	  twitter = "https://twitter.com/amanqa"
 
-	  # styling
+	  # styling throughout site
 	  # reference: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
 	  background_color_class = "bg-gray"
 	  body_classes = "lato bg-near-white"
 	  # custom_css = ""
 
 	  # content display
-	  recent_posts_number = 3
+	  recent_posts_number = 2
 	  show_reading_time = true
