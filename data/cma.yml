@@ -1,0 +1,47 @@
+orgs: 
+  enable: true
+  title: Partners
+  members: 
+    - name  : Rockefeller Foundation (RF)
+      role: Funder, Strategy, Steering Committee
+      emphasis: true
+      link: 
+        link_title: RF Covid-19 Response
+        link_url: "https://www.rockefellerfoundation.org/covid-19-response/"
+      bio : "The Rockefeller Foundation advances new frontiers of science, data, and innovation to solve global challenges related to health, food, power, and economic mobility. The CMA is a part of RF's COVID-19 response."
+    - name  : Society of Medical Decision Making (SMDM)
+      role: Administrator, Subject Matter Expertise, Steering Committeeh
+      emphasis: true
+      link: 
+        link_title: "SMDM website"
+        link_url: "https://smdm.org"
+      bio: SMDM is dedicated to promoting rational and systematic approaches to decision making that will improve the health and clinical care of individuals and assist health policy formation.
+    - name  : Fenris
+      emphasis: true
+      role: Coordination for technical and strategic assistance
+      bio : Fenris is Aman's network and a collective noun for teams assembled and deployed for specific initiatives. 
+      link: 
+        link_title: "Learn more"
+        link_url: "#"
+
+team: 
+  enable  : true
+  title   : The CMA Team
+  members  :
+    - name  : Aman Ahuja
+      image : /images/team/aman_biopic_01.jpg
+      role: Steering Committee, Product Strategy, Project Management
+      bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    - name  : Kamini Iyer
+      image: https://themes.gohugo.io/theme/gohugo-theme-ananke/images/Pope-Edouard-de-Beaumont-1844.jpg
+      role: UI / UX
+      bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    - name  : Louis Potok 
+      role: UI / UX
+      bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    - name  : Daniel Olmstead
+      role: UI / UX
+      bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    - name  : Jordan Kanarek
+      role: UI / UX
+      bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
