@@ -1,4 +1,6 @@
 ---
-title: "manifesto"
-description: "abc"
+title: "My Manifesto"
+tags: 
+  - "Values"
+draft: true
 ---
