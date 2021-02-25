@@ -27,14 +27,15 @@
     {{ end }}
 
     {{/* Taxonomy */}}
-    <div class="pt5">
+    <div class="pt3">
       {{ if .GetTerms "tags" }}
-        Tags: 
           {{ range (.GetTerms "tags") }}
-          <span class="ph1"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></span>
+          <a class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black bg-moon-gray" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
             {{ end }}
       {{ end }}
     </div>
+
+    {{- partial "tags.html" -}} 
 
   </header>
   <div class="fn fl-ns w-50-ns">
