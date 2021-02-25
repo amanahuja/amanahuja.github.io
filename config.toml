@@ -59,7 +59,7 @@ enableRobotsTXT = true
     name = "CMA"
     identifier = "CMA"
     weight = 310
-    url = "/covid-modeling-accelerator/"
+    url = "/cma/"
 
 [params]
   favicon = ""
