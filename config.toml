@@ -59,25 +59,25 @@ enableRobotsTXT = true
     name = "CMA"
     identifier = "CMA"
     weight = 310
-    url = "/covid-modeling-accelerator/"
+    url = "/cma/"
 
 [params]
-	  favicon = ""
-	  site_logo = ""
-	  # TODO: add to static directory and add here
-	  description = "q1234 desc"
-	  featured_image = "/images/profile.jpg"
+  favicon = ""
+  site_logo = ""
+  # TODO: add to static directory and add here
+  description = "Aman Ahuja's website."
 
-	  # Social: instagram, facebook, youtube, gitlab, mastodon, slack, stackoverflow, rss
-	  linkedin = "https://linkedin.com/in/amanahuja"
-	  twitter = "https://twitter.com/amanqa"
+  # Social: instagram, facebook, youtube, gitlab, mastodon, slack, stackoverflow, rss
+  linkedin = "https://linkedin.com/in/amanahuja"
+  twitter = "https://twitter.com/amanqa"
 
-	  # styling throughout site
-	  # reference: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-	  background_color_class = "bg-gray"
-	  body_classes = "lato bg-near-white"
-	  # custom_css = ""
+  # styling throughout site
+  # reference: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-gray"
+  body_classes = "lato bg-near-white"
+  # custom_css = ""
 
-	  # content display
-	  recent_posts_number = 2
-	  show_reading_time = true
+  # content display
+  mainSections = ["posts"]
+  recent_posts_number = 2
+  show_reading_time = true

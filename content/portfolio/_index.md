@@ -1,4 +1,4 @@
 ---
 title: "Portfolio"
-featured_image: '/images/utah-aman-hero-resized.jpg'
+featured_image: '/images/bubble_landscape_010.jpg'
 ---

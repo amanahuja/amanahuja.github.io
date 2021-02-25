@@ -13,7 +13,7 @@ orgs:
       role: Administrator, Subject Matter Expertise, Steering Committeeh
       emphasis: true
       link: 
-        link_title: "SMDM website"
+        link_title: "SMDM Website"
         link_url: "https://smdm.org"
       bio: SMDM is dedicated to promoting rational and systematic approaches to decision making that will improve the health and clinical care of individuals and assist health policy formation.
     - name  : Fenris
@@ -22,7 +22,7 @@ orgs:
       bio : Fenris is Aman's network and a collective noun for teams assembled and deployed for specific initiatives. 
       link: 
         link_title: "Learn more"
-        link_url: "#"
+        link_url: "/fenris/"
 
 team: 
   enable  : true
@@ -32,11 +32,14 @@ team:
       image : /images/team/amanahuja.jpg
       role: Steering Committee, Product Strategy, Project Lead
       bio : Aman is team builder and advisor with 15 years of experience helping organizations implement data tools and develop product strategies.
+      link: 
+        link_title: "Website"
+        link_url: "https://amanahuja.me/"
     - name  : Daniel Olmstead
       image : /images/team/danielolmstead.jpg
       bio : Daniel is a data scientist and designer with two decades of experience telling stories through design, discourse, and data. Although his background is in front-end user interfaces, his more recent projects relied heavily on engineering complex cloud pipelines to build dynamic visualizations out of high-volume, streaming data.
       link: 
-        link_title: "website"
+        link_title: "Website"
         link_url: "https://www.omsteadily.com/"
     - name  : Louis Potok 
       image : /images/team/louispotok.jpg

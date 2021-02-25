@@ -1,7 +1,8 @@
 ---
-title: "Hi. I'm Aman."
-featured_image: '/images/utah-aman-hero-resized.jpg'
-description: "I help build responsible and impactful data products."
+title: "Civil Society"
+tags: 
+  - "Civil Society"
+draft: true
 ---
 I help teams translate research and tools into responsible and impactful data products. 
 

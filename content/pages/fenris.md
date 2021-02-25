@@ -1,7 +1,7 @@
 ---
-title: "Hi. I'm Aman."
-featured_image: '/images/utah-aman-hero-resized.jpg'
-description: "I help build responsible and impactful data products."
+title: "Fenris"
+tags: 
+  - "Fenris"
 ---
 I help teams translate research and tools into responsible and impactful data products. 
 
