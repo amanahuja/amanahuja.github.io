@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div>
-  {{ range .Pages }}
+  {{ range .Paginator.Pages }}
 
 <article class="cf ph3 ph5-ns pv5">
   <header class="fn fl-ns w-50-ns pr4-ns">
@@ -15,22 +15,38 @@
       <font class="f6 ttu tracked gray">Year Completed:</font>
       <time class="f6 ttu tracked dark-gray">{{ .Params.enddate }}</time>
     {{ end }} 
-    <p class="pb4"><a href="{{ .Permalink }}" class="f6">Permalink</a></p>
+
+    <div>
+    <p class="pb4 dim"><a href="{{ .Permalink }}" class="f6">Permalink</a></p>
+
+    {{/* Project Highlights */}}
     {{if .Params.highlights }}
       {{ range .Params.highlights }}
       <div class="f5 f5-ns lh-copy pb2">{{ . }}</div>
       {{ end }}
     {{ end }}
+
+    {{/* Taxonomy */}}
+    <div class="pt5">
+      {{ if .GetTerms "tags" }}
+        Tags: 
+          {{ range (.GetTerms "tags") }}
+          <span class="ph1"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></span>
+            {{ end }}
+      {{ end }}
+    </div>
+
   </header>
   <div class="fn fl-ns w-50-ns">
     <div class="f5 lh-copy measure mt0-ns">
     {{ .Content }} 
     </div>
+
   </div>
 </article>
 
 {{ end}}
 </div>
-{{ template "_internal/pagination.html" . }} 
 
+<div class="tc">{{ template "_internal/pagination.html" . }}</div>
 {{ end }}
