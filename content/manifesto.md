@@ -1,0 +1,4 @@
+---
+title: "manifesto"
+description: "abc"
+---
