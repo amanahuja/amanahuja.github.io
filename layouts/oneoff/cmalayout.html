@@ -20,56 +20,6 @@
 {{/* --- 1: Orgs --- */}}
 {{ if .Site.Data.cma.orgs.enable }} 
 <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-  <section class="cf ph3 ph5-l pv3 pv4-l f2 tc-l center measure-wide lh-copy mid-gray">
-    {{ .Site.Data.cma.orgs.title }} 
-  </section>
-  <aside class="flex-ns flex-wrap justify-around mt5">
-    {{ range $index, $element:= .Site.Data.cma.orgs.members }}
-      <div class="relative w-100 w-30-l mb4 bg-lightest-blue">
-        <div class="cf ph3 ph5-l pt3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
-        {{ if .image }}
-          <img class="db mw-100 o-80 f7"
-               src="{{ .image }}" title="{{ .name }}" alt="[Image of {{ .name }}]">
-        {{ end }} 
-          <h1 class="f4 near-black"> {{ .name }} </h1>
-          <p class="f6">{{ .role }}</p>
-          <p class="f5 lh-copy nested-copy-line-height">{{ .bio }}</p>
-        {{ with .link }}<a class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1" href="{{ .link_url }}" target="_blank">{{ .link_title }}</a>{{ end }}
-        </div>
-      </div>
-      {{ end }} 
-  </aside>
-</article>
-{{ end }} 
-
-{{/* --- 1: Team --- */}}
-{{ if .Site.Data.cma.team.enable }} 
-<article class="pa3 pa4-ns nested-copy-line-height nested-img">
-  <section class="cf ph3 ph5-l pv3 pv4-l f2 tc-l center measure-wide lh-copy mid-gray">
-    {{ .Site.Data.cma.team.title }} 
-  </section>
-  <aside class="flex-ns flex-wrap justify-around mt5">
-    {{ range $index, $element:= .Site.Data.cma.team.members }}
-      <div class="relative w-100 w-30-l mb4 bg-white">
-        <div class="cf ph3 ph5-l pt3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
-        {{ if .image }}
-          <img class="db mw-100 o-80 f7"
-               src="{{ .image }}" title="{{ .name }}" alt="[Image of {{ .name }}]">
-        {{ end }} 
-          <h1 class="f4 near-black"> {{ .name }} </h1>
-          <p class="f6">{{ .role }}</p>
-          <p class="f5 lh-copy nested-copy-line-height">{{ .bio }}</p>
-        {{ with .link }}<a class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1" href="{{ .link_url }}" target="_blank">{{ .link_title }}</a>{{ end }}
-        </div>
-      </div>
-      {{ end }} 
-  </aside>
-</article>
-{{ end }} 
-
-{{/* --- 2: Orgs --- */}}
-{{ if .Site.Data.cma.orgs.enable }} 
-<article class="pa3 pa4-ns nested-copy-line-height nested-img">
   <section class="cf ph3 ph5-l pv3 pv4-l f2 tc-l center measure-wide lh-copy">
     {{ .Site.Data.cma.orgs.title }} 
   </section>

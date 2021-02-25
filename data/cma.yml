@@ -31,16 +31,16 @@ team:
     - name  : Aman Ahuja
       image : /images/team/amanahuja.jpg
       role: Steering Committee, Product Strategy, Project Lead
-      bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    - name  : Louis Potok 
-      image : /images/team/louispotok.jpg
-      bio : Louis is a consultant and entrepreneur with experience across a variety of domains. He has been a behavioral economist focused on financial inclusion, a product manager and data science leader at early-stage software startups, and is currently building Recoolit, a climate-tech startup preventing gigatons of emissions from refrigerant gases.
-      link: 
-        link_title: "LinkedIn"
-        link_url: "https://www.linkedin.com/in/louispotok/"
+      bio : Aman is team builder and advisor with 15 years of experience helping organizations implement data tools and develop product strategies.
     - name  : Daniel Olmstead
       image : /images/team/danielolmstead.jpg
       bio : Daniel is a data scientist and designer with two decades of experience telling stories through design, discourse, and data. Although his background is in front-end user interfaces, his more recent projects relied heavily on engineering complex cloud pipelines to build dynamic visualizations out of high-volume, streaming data.
       link: 
         link_title: "website"
         link_url: "https://www.omsteadily.com/"
+    - name  : Louis Potok 
+      image : /images/team/louispotok.jpg
+      bio : Louis is a consultant and entrepreneur with experience across a variety of domains. He has been a behavioral economist focused on financial inclusion, a product manager and data science leader at early-stage software startups, and is currently building Recoolit, a climate-tech startup preventing gigatons of emissions from refrigerant gases.
+      link: 
+        link_title: "LinkedIn"
+        link_url: "https://www.linkedin.com/in/louispotok/"
