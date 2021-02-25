@@ -4,7 +4,6 @@ featured_image: ''
 slug: "covid-modeling-accelerator"
 aliases: 
   - /cma/
-type: oneoff
 layout: cmalayout
 ---
 #### 2020 - 2021
