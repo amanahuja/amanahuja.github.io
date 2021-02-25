@@ -25,6 +25,11 @@ enableRobotsTXT = true
 # weight = 200
 # url = "/post/"
 
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    mood = "moods"
+
 [menu]
     [[menu.main]]
     name = "Home"
@@ -32,16 +37,28 @@ enableRobotsTXT = true
     weight = 100
     url = "/"
 
+    # [[menu.main]]
+    # name = "About"
+    # identifier = "about"
+    # weight = 200
+    # url = "/about/"
+
     [[menu.main]]
-    name = "About"
-    identifier = "about"
+    name = "Manifesto"
+    #identifier = "manifesto"
     weight = 200
-    url = "/about/"
+    #url = "/manifesto/"
+
+    [[menu.main]]
+    name = "Portfolio"
+    identifier = "Portfolio"
+    weight = 300
+    url = "/Portfolio/"
 
     [[menu.main]]
     name = "CMA"
     identifier = "CMA"
-    weight = 300
+    weight = 310
     url = "/covid-modeling-accelerator/"
 
 [params]
