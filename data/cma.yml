@@ -35,6 +35,12 @@ team:
       link: 
         link_title: "Website"
         link_url: "https://amanahuja.me/"
+    - name  : Kamini Iyer
+      image : /images/team/kaminiiyer.png
+      bio : Kamini often finds herself at the intersection of data, design, and impact. With a background spanning across marketing, graphic design, data analytics, and program management, she guides teams to translate data insights into meaningful experiences and visuals. She is especially focused on lending her expertise to teams that are focused on social impact work.
+      link: 
+        link_title: "Website"
+        link_url: "https://www.kaminiiyer.com/"
     - name  : Daniel Olmstead
       image : /images/team/danielolmstead.jpg
       bio : Daniel is a data scientist and designer with two decades of experience telling stories through design, discourse, and data. Although his background is in front-end user interfaces, his more recent projects relied heavily on engineering complex cloud pipelines to build dynamic visualizations out of high-volume, streaming data.
