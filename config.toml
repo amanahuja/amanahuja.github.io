@@ -78,6 +78,6 @@ enableRobotsTXT = true
   # custom_css = ""
 
   # content display
-  mainSections = ["posts"]
+  mainSections = ["disabledwithfakenamehere"]
   recent_posts_number = 2
   show_reading_time = true

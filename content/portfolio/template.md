@@ -1,13 +1,13 @@
 ---
 title: On Typography
 subtitle: An excerpt from the Form of the Book by Jan Tschichold 
-enddate: Sometime before 1967 
+date: 2017-09-15
+tags: ["tag1", "tag2", "tag3"] 
+categories: ["cat1", "cat2", "cat3"] 
 highlights: 
   - Taxonomy templating includes taxonomy list pages, taxonomy terms pages, and using taxonomies in your single page templates. 
   - Hugo includes support for user-defined groupings of content called taxonomies.
   - Taxonomies are classifications that demonstrate logical relationships between content. See Taxonomies under Content Management if you are unfamiliar with how Hugo leverages this powerful feature.
-tags: ["tag1", "tag2", "tag3"] 
-categories: ["cat1", "cat2", "cat3"] 
 draft: true
 ---
 
