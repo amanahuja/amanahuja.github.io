@@ -1,6 +1,7 @@
 ---
 title: "Peer-to-Peer Energy Trading Platform"
 succinct: "I led a team at The Data Guild in partnership with a major Australian power company, to develop and pilot a peer-to-peer residential energy trading platform in which users with rooftop solar and battery storage could trade excess energy with others in an automated marketplace."
+alternate: "I led a team to design, develop and pilot a peer-to-peer energy trading in South Australia, integrating solar, battery and smart meters with a simple app and an agent-based marketplace."
 date: 2017-09-15
 featured_image: ''
 slug: "p2p-energy-trading"

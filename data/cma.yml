@@ -19,10 +19,10 @@ orgs:
     - name  : Fenris
       emphasis: true
       role: Coordination for technical and strategic assistance
-      bio : Fenris is Aman's network and a collective noun for teams assembled and deployed for specific initiatives. 
+      bio: Fenris was founded by Aman Ahuja to support teams developing responsible data systems for public benefit through collaborative co-design of product strategy, equitable data governance, and targeted technical assistance.
       link: 
-        link_title: "Learn more"
-        link_url: "/"
+        link_title: "Website"
+        link_url: "https://amanahuja.me/"
 
 team: 
   enable  : true

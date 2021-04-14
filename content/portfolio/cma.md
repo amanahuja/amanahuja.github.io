@@ -1,6 +1,6 @@
 ---
 title: "COVID Modeling Accelerator"
-succinct: "Fenris partnered with the Society of Medical Decision Making (SMDM) and Rockefeller Foundation to help a cohort of academic research teams better meet the needs of state and local decision-makers for actionable insights from epidemiological, economic and operational data models."
+excluded-description: "Fenris partnered with the Society of Medical Decision Making (SMDM) and Rockefeller Foundation to help a cohort of academic research teams better meet the needs of state and local decision-makers for actionable insights from epidemiological, economic and operational data models."
 date: 2021-03-31
 featured_image: ''
 slug: "covid-modeling-accelerator"
