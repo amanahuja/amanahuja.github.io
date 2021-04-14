@@ -7,10 +7,10 @@ My clients are on a journey of translating research and a vision into successful
 
 I work with public benefit corporations, non profits, academic research teams, or foundations. These organizations are often part of a civil-public or civil-private collaboration, in sectors such as health and energy.  
 
-My work is driven by three ideals.  
+Three ideas are embedded in all my work and proceses. 
 First, the responsible use of data -- including collection of data, analytical methods, and data governance. 
-Second, in interdisciplinary and inclusionary teams at all levels. 
-Third, in a systems thinking analysis of intervention and impact. 
+Second, interdisciplinary and inclusionary teams at all levels. 
+Third, a systems thinking analysis of intervention and impact. 
 
 ## Fenris
 

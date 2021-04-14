@@ -10,12 +10,12 @@ tags:
   - "Civil Society"
   - "Fenris"
 layout: cmalayout
-draft: false
+draft: true
 ---
 ### Public health officials need better data-driven tools to make critical decisions in the midst of the pandemic
 
 The COVID Modeling Accelerator was created to support a cohort of academic research teams to meet the needs of state and local decision-makers for actionable insights to better respond to the unprecedented challenges of the COVID-19 pandemic.
-
+<!--more--> 
 Fenris partnered with the Society of Medical Decision Making (SMDM) and Rockefeller Foundation to support these academic research teams in user research, product strategy, and UI design. 
 
 ## Overview
