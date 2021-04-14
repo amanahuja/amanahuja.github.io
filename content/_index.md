@@ -14,7 +14,7 @@ First, the responsible use of data -- including collection of data, analytical m
 Second, interdisciplinary and inclusionary teams at all levels. 
 Third, a systems thinking analysis of intervention and impact. 
 
-{{< figure src="images/fenris/fenris_logo_2a_bw.png" alt="Fenris logo" height="100px">}}
+{{< figure class="mh0" src="images/fenris/fenris_logo_2a_bw.png" alt="Fenris logo" height="100px">}}
 
 Fenris is a consultant network founded by Aman Ahuja to support teams developing responsible data systems for public benefit. We work to make these ventures successful and sustainable through collaborative co-design of product strategy, equitable data governance, and targeted technical assistance.
 
