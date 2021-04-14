@@ -10,7 +10,7 @@ theme = "ananke"
 # DefaultContentLanguage = "en"
 # SectionPagesMenu = "main"
 Paginate = 2
-# googleAnalytics = ""
+googleAnalytics = "UA-30448018-1"
 enableRobotsTXT = true
 
 # old from theme playing
