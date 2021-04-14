@@ -24,7 +24,7 @@
       </h3>
 	  <a class="ba br2 dib f7 link mt2 ph2 pv1 
 	    b--moon-gray bg-light-gray hover-bg-moon-gray dark-gray" 
-	    href="#" target="_blank">Send us a message</a>
+	    href="#contact-form">Send us a message</a>
   </div>
 </div>
 
@@ -83,5 +83,14 @@
 </article>
 {{ end }} 
 
+{{/* --- 3: Contact Form --- */}}
+
+{{/* Section on Contact Form */}}
+<div id="contact-form" class="cf pa3 pa4-m pa5-l mw9 center mid-gray">
+
+  {{/* general-contact-form action="https://formspree.io/f/mgerebpb" */}}
+  {{ partial "general-contact-form.html" . }}
+
+</div>
 
 {{ end }}
