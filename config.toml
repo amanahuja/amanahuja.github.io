@@ -49,11 +49,11 @@ enableRobotsTXT = true
     # weight = 200
     #url = "/manifesto/"
 
-    # [[menu.main]]
-    # name = "Portfolio"
-    # identifier = "Portfolio"
-    # weight = 300
-    # url = "/Portfolio/"
+    [[menu.main]]
+    name = "Portfolio"
+    identifier = "Portfolio"
+    weight = 300
+    url = "/Portfolio/"
 
     [[menu.main]]
     name = "CMA"
