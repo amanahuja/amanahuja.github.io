@@ -1,19 +1,14 @@
 {{ define "main" }}
 
-<article class="cf ph3 ph5-l pv3 pv4-l f5 tc-l center measure-wide lh-copy mid-gray">
+<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
   {{ .Content }}
 </article>
 
 {{/* Section on Projects */}}
 
-<div
-  class="bg-lightest-blue"
-  style="">
+<div class="bg-lightest-blue">
 
-<div 
-    id="portfolio-banner" 
-    class="cf pa3 pa4-m pa5-l mw9 center navy"
-  >
+<div id="portfolio-banner" class="cf pa3 pa4-m pa5-l mw9 center navy">
 
   <div class="cf pa3 mw9 center tl">
     <section class="">
@@ -21,11 +16,9 @@
 
     {{ range first 5 ( where .Site.RegularPages.ByDate.Reverse "Section" "portfolio" ) }}
       <div class="fl w-100 w-50-l pa2-l">
-        <p class="f6 lh-copy measure dim tj">
+        <p class="f5 lh-copy measure dim tj">
           <a href="{{ .RelPermalink }}" class="link navy">{{ .Title }}</a><br>
-          <a href="{{ .RelPermalink }}"
-            class="mid-gray"
-            style="text-decoration: none;">{{ .Params.succinct }}</a>
+          <a href="{{ .RelPermalink }}" class="link mid-gray">{{ .Params.succinct }}</a>
         </p>
       </div>
     {{ end }} 
