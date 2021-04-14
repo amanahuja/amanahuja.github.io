@@ -6,36 +6,59 @@
 
 {{/* Section on Projects */}}
 
-<div class="bg-lightest-blue">
+<div id="portfolio-banner" class="cf bg-lightest-blue">
+  <h2 class="mt0 mb4 mb5-ns navy pt4 tc">Project Highlights</h2>
 
-<div id="portfolio-banner" class="cf pa3 pa4-m pa5-l mw9 center navy">
+  <div class="mw9 center navy">
+  <section class="cf pa3 mw9 center tl">
 
-  <div class="cf pa3 mw9 center tl">
-    <section class="">
-      <a href="portfolio" class="link navy"><h2 class="mt0 mb4 mb5-ns">Portfolio</h2></a>
-
-    {{ range first 5 ( where .Site.RegularPages.ByDate.Reverse "Section" "portfolio" ) }}
-      <div class="fl w-100 w-50-l pa2-l">
-        <p class="f5 lh-copy measure dim tj">
-          <a href="{{ .RelPermalink }}" class="link navy">{{ .Title }}</a><br>
-          <a href="{{ .RelPermalink }}" class="link mid-gray">{{ .Params.succinct }}</a>
-        </p>
+  <aside class="flex-ns flex-wrap justify-around mt2">
+      <div class="relative mw6 mb4 ba b--black-10 br3">
+        <a href="cma" class="link navy dim">
+          <div class="ph2 ph3-l pv3 pv4-l f4 tc-l center measure lh-copy">
+              <h1 class="f4 mb2">COVID Modeling Accelerator</h1>
+            <p class="f5 lh-copy nested-copy-line-height">Fenris partnered with the Society of Medical Decision Making (SMDM) and Rockefeller Foundation to help a cohort of academic research teams better meet the needs of state and local decision-makers for actionable insights from epidemiological, economic and operational data models.</p>
+          </div>
+        </a>
       </div>
-    {{ end }} 
+    {{ range first 5 (where ( where .Site.RegularPages.ByDate.Reverse "Section" "portfolio" ) ".Params.succinct" "!=" nil ) }}
+      <div class="relative mw6 mb4 ba b--black-10 br3">
+        <div class="ph2 ph3-l pv3 pv4-l f4 tc-l center measure lh-copy">
+          <h1 class="f4 mb2"> {{ .Title }} </h1>
+          <p class="f5 lh-copy nested-copy-line-height">{{ .Params.succinct }}</p>
+        </div>
+      </div>
+	{{ end }}
+  </aside>
 
     </section>
-  </div>
 </div></div>
 
 
 {{/* Section on clients and testimonials */}}
 <div id="testimonials-banner" class="cf pa3 pa4-m pa5-l mw9 center mid-gray">
-  <div class="cf pa3 mw9 center tl">
-    <h2 id="testimonials">Clients and Testimonials</h2>
+
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+    <h2>Clients</h2>
+    <p>
+    I work with purpose-driven corporations, non profits, academic research teams, or foundations. These organizations are often part of a civil-public or civil-private collaboration, in sectors such as health and energy.
+    </p>
+  </article>
+
+  <div class="cf pa3 mw9 center tc">
+    <div class="fl w-20 dib v-mid"><img height="75px" src="images/logos/rockefeller.png" alt="Rockefeller Foundation"></div>
+    <div class="fl w-20 dib v-mid"><img height="75px" src="images/logos/gsk.svg.png" alt="GSK"></div>
+    <div class="fl w-20 dib v-mid"><img height="75px" src="images/logos/agl.png" alt=""></div>
+    <div class="fl w-20 dib v-mid"><img height="75px" src="images/logos/dataguild.png" alt="The Data Guild"></div>
+    <div class="fl w-20 dib v-mid pt3"><img height="" src="images/logos/datakind.png" alt="DataKind"></div> 
   </div>
-  <p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
+  <div class="cf ph3 pv5 mw9 center tc">
+    <div class="fl w-20 pt4"><img height="50px" src="images/logos/proteus.png" alt="Proteus Digital health"></div>
+    <div class="fl w-20 pt4"><img height="50px" src="images/logos/changehealthcare.png" alt="Emdeon / Change health"></div>
+    <div class="fl w-20"><img height="100px" src="images/logos/usaid2.png" alt="USAID"></div>
+    <div class="fl w-20"><img height="100px" src="images/logos/google_org.png" alt="Google.org"></div>
+    <div class="fl w-20"><img height="100px" src="images/logos/pge.png" alt="PG&E"></div> 
+  </div>
 
 </div>
 
