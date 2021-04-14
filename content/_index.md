@@ -9,12 +9,12 @@ Their tools leverage data and statistical models for public benefit. They bring 
 
 **My job is to help them on that journey.**
 
-
-Three ideas are embedded in all my work and proceses. 
+Three ideas are embedded in all my work and processes. 
 First, the responsible use of data -- including collection of data, analytical methods, and data governance. 
 Second, interdisciplinary and inclusionary teams at all levels. 
 Third, a systems thinking analysis of intervention and impact. 
 
-## Fenris
+{{< figure src="images/fenris/fenris_logo_2a_bw.png" alt="Fenris logo" height="100px">}}
 
 Fenris is a consultant network founded by Aman Ahuja to support teams developing responsible data systems for public benefit. We work to make these ventures successful and sustainable through collaborative co-design of product strategy, equitable data governance, and targeted technical assistance.
+
