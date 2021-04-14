@@ -10,7 +10,7 @@ tags:
   - "Civil Society"
   - "Fenris"
 layout: cmalayout
-draft: true
+draft: false
 ---
 ### Public health officials need better data-driven tools to make critical decisions in the midst of the pandemic
 
