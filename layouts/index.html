@@ -13,7 +13,7 @@
   <section class="cf pa3 mw9 center tl">
 
   <aside class="flex-ns flex-wrap justify-around mt2">
-      <div class="relative mw6 mb4 ba b--black-10 br3">
+      <div class="relative mw6 mb4">
         <a href="cma" class="link navy dim">
           <div class="ph2 ph3-l pv3 pv4-l f4 tc-l center measure lh-copy">
               <h1 class="f4 mb2">COVID Modeling Accelerator</h1>
@@ -22,7 +22,7 @@
         </a>
       </div>
     {{ range first 5 (where ( where .Site.RegularPages.ByDate.Reverse "Section" "portfolio" ) ".Params.succinct" "!=" nil ) }}
-      <div class="relative mw6 mb4 ba b--black-10 br3">
+      <div class="relative mw6 mb4">
         <div class="ph2 ph3-l pv3 pv4-l f4 tc-l center measure lh-copy">
           <h1 class="f4 mb2"> {{ .Title }} </h1>
           <p class="f5 lh-copy nested-copy-line-height">{{ .Params.succinct }}</p>
