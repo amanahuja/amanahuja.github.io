@@ -22,7 +22,7 @@ orgs:
       bio : Fenris is Aman's network and a collective noun for teams assembled and deployed for specific initiatives. 
       link: 
         link_title: "Learn more"
-        link_url: "/fenris/"
+        link_url: "/"
 
 team: 
   enable  : true
