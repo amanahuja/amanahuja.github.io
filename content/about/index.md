@@ -1,11 +1,11 @@
 ---
 title: "About"
-description: "About Aman and about this website"
-draft: true
+description: "About Aman and information on this website"
+draft: false
 ---
 Thanks for your interest in learning more about me and this website. 
 
-{{< figure src="/images/team/amanahuja.jpg" alt="Aman profile photo" class="center w-50 o-90">}}
+{{< figure src="/images/team/amanahuja.jpg" alt="Aman profile photo" class="center w-50 o-90 tc f6" title="I should definitely replace this photo with one in which I am not wearing sunglasses.">}}
 
 A short bio I often reuse: 
 
