@@ -73,7 +73,7 @@ enableRobotsTXT = true
 
   # styling throughout site
   # reference: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-gray"
+  background_color_class = "bg-fa-blue"
   body_classes = "lato bg-near-white"
   custom_css = ["assets/custom.css"]
 
