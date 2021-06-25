@@ -17,8 +17,8 @@
     </article>
   </div>
 
-<div class="bg-lightest-blue tc" >
-  <div class="cf pa3 pa4-m pa5-l mw9 center navy measure-wide" >
+<div class="bg-fa-red-d tc" >
+  <div class="cf pa3 pa4-m pa5-l mw9 center fa-light-gray measure-wide" >
       <h3 class="mt0 mb2">
         We are bringing together teams that build and support sustainable data initiatives in civil society. Reach out to us below to join the conversation. 
       </h3>
@@ -37,7 +37,7 @@
   </section>
   <aside class="flex-ns flex-wrap justify-around mt2">
     {{ range $index, $element:= .Site.Data.cma.orgs.members }}
-      <div class="relative mw6 mb4 bg-mid-gray ba b--black-10 light-gray br3">
+      <div class="relative mw6 mb4 bg-fa-blue ba b--black-10 fa-light-gray br3">
         <div class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy">
         {{ if .image }}
           <img class="br-100 w4 dib ba b--black-05 pa2"
@@ -48,7 +48,7 @@
           <p class="f5 lh-copy nested-copy-line-height">{{ .bio }}</p>
         {{ with .link }}
 	  <a class="ba br2 dib f7 link mt2 ph2 pv1 
-	    b--moon-gray bg-light-gray hover-bg-moon-gray dark-gray" 
+	    b--moon-gray bg-fa-light-gray hover-bg-moon-gray fa-dark-gray" 
 	    href="{{ .link_url }}" target="_blank">{{ .link_title }}</a>
 	{{ end }}
         </div>

@@ -13,6 +13,7 @@
   <section class="cf pa3 mw9 center tl">
 
   <aside class="flex-ns flex-wrap justify-around">
+    
       <div class="relative mw6 mb4">
         <a href="cma" class="link fa-light-gray dim">
           <div class="ph2 ph3-l pv3 pv4-l f4 tc-l center measure lh-copy">
@@ -21,6 +22,7 @@
           </div>
         </a>
       </div>
+
     {{ range first 5 (where ( where .Site.RegularPages.ByDate.Reverse "Section" "portfolio" ) ".Params.succinct" "!=" nil ) }}
       <div class="relative mw6 mb4">
         <div class="ph2 ph3-l pv3 pv4-l f4 tc-l center measure lh-copy">
