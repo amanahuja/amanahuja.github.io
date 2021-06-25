@@ -37,11 +37,11 @@ enableRobotsTXT = true
     weight = 100
     url = "/"
 
-    # [[menu.main]]
-    # name = "About"
-    # identifier = "about"
-    # weight = 200
-    # url = "/about/"
+    [[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
 
     # [[menu.main]]
     # name = "Manifesto"
