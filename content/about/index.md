@@ -11,21 +11,23 @@ A short bio I often reuse:
 
 > Aman is a consultant, advisor and team builder with 15 years of experience helping organizations implement data tools and develop product strategies. He has worked with values-aligned initiatives in the life sciences, health, and energy sectors. In recent years his work addresses challenges at the organizational and sector level in civil society, including academic product teams, non-profits, and foundations. Aman is a member of The Data Guild, a co-founder of the San Francisco Bay Area chapter of DataKind, and leads the Fenris network.
 
-Visitors may check out these and other organizations that have been influential in my career on my **"Thank You Wall"** (coming soon).
+Visitors may check out these and other organizations that have been influential in my career on my **"Thank You Wall"** ([coming soon](https://github.com/amanahuja/amanahuja.github.io/issues/1)).
 
 Another good place to read about my work is on [my Linkedin profile](https://linkedin.com/in/amanahuja). 
 
 ## Motivations and Manifesto
 My goal is to increase civil society’s capacity for the effective and responsible use of data. 
 
-**Manifesto** : (Coming soon)
+**Manifesto**: ([coming soon](https://github.com/amanahuja/amanahuja.github.io/issues/2))
 
 ## Technical information
 
-* Built using [Hugo](https://gohugo.io), using [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) theme.
-* Hosted on Github Pages; [view public repo](https://github.com/amanahuja/amanahuja.github.io/).
-* Content written in markdown, composed on [obsidian.md](https://obsidian.md/)
-* Author: me. 
+* Built using [Hugo](https://gohugo.io), using [Ananke](https://github.com/theNewDynamic/gohugo-theme-ananke) theme, and hosted on Github Pages. 
+* View [public code repo](https://github.com/amanahuja/amanahuja.github.io/) and my [task kanban](https://github.com/amanahuja/amanahuja.github.io/projects/1).
+* Content written in markdown, ideas composed with [obsidian.md](https://obsidian.md/). 
+* Author: me. Thanks to [Alex Wagner](https://alexwagner.work/) for helping me with writing initial content, and *Dave Dunlop* for technical wizardry.
 
-If you have spotted a bug, mistake, or would like to make a request for some reason, please consider [submitting an issue](https://github.com/amanahuja/amanahuja.github.io/issues).
+*Privacy and tracking*: This website currently uses Google web analytics, although [I'd love to move away from GA](https://github.com/amanahuja/amanahuja.github.io/issues/3). No other trackers are used.
+
+If you spot a bug, mistake, or would like to make a request, please consider [submitting an issue](https://github.com/amanahuja/amanahuja.github.io/issues).
 
