@@ -6,6 +6,6 @@ succinct: "We helped a California county design governance and infrastructure to
 featured_image: ''
 tags:
   - "public sector"
-draft: false
+draft: true
 ---
 

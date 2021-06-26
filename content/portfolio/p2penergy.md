@@ -8,7 +8,7 @@ slug: "p2p-energy-trading"
 tags:
   - "energy"
   - "The Data Guild"
-draft: false
+draft: true
 ---
 
 I led a team at The Data Guild in partnership with AGL, a major Australian power company, to develop and pilot a peer-to-peer residential energy trading platform in which users with rooftop solar and battery storage could trade excess energy with others in an automated marketplace.
