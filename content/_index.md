@@ -16,5 +16,5 @@ Third, a systems thinking analysis of intervention and impact.
 
 {{< figure class="mh0" src="images/fenris/fenris_logo_2a_bw.png" alt="Fenris logo" height="100px">}}
 
-Fenris is a consultant network founded by Aman Ahuja to support teams developing responsible data systems for public benefit. We work to make these ventures successful and sustainable through collaborative co-design of product strategy, equitable data governance, and targeted technical assistance.
+Fenris is a consultant network founded by Aman Ahuja to support teams developing responsible data systems for public benefit. We work to make these ventures successful and sustainable through collaborative co-design of product strategy, equitable data governance, and targeted technical assistance. More information about Fenris will be [made available soon](https://github.com/amanahuja/amanahuja.github.io/issues/5).
 
