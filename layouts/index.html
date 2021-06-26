@@ -23,12 +23,12 @@
         </a>
       </div>
 
-    {{ range first 5 (where ( where .Site.RegularPages.ByDate.Reverse "Section" "portfolio" ) ".Params.succinct" "!=" nil ) }}
+    {{ range first 5 (where ( where .Site.RegularPages.ByDate.Reverse "Section" "portfolio" ) ".Params.cardsummary" "!=" nil ) }}
       <div class="relative mw6 mb4">
-        <div class="ph2 ph3-l pv3 pv4-l f4 tc-l center measure lh-copy">
+        <a href="" class="link dim fa-light-gray"><div class="ph2 ph3-l pv3 pv4-l f4 tc-l center measure lh-copy">
           <h1 class="f4 mb2"> {{ .Title }} </h1>
-          <p class="f5 lh-copy nested-copy-line-height">{{ .Params.succinct }}</p>
-        </div>
+          <p class="f5 lh-copy nested-copy-line-height">{{ .Params.cardsummary }}</p>
+        </div></a>
       </div>
 	{{ end }}
   </aside>

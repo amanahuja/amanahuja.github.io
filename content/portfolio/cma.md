@@ -10,6 +10,9 @@ tags:
   - "Civil Society"
   - "Fenris"
 layout: cmalayout
+highlights:
+- Building data tools for public health decision makers during the Covid-19 pandemic
+- Initiative was a partnership between Fenris, the Society of Medical Decision Making (SMDM) and Rockefeller Foundation
 draft: false
 ---
 ### Public health officials need better data-driven tools to make critical decisions in the midst of the pandemic
