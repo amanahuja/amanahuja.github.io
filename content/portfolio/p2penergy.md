@@ -18,4 +18,4 @@ In the first phase of this project we worked with our Australia-based client to 
 On this project I served as a strategist and project manager through both phases, and led a combined team composed from the Guild, our client, and strategic partners.
 
 Supplementary documents: 
-* [Project one-pager \[PDF\]]("media/TDG_CaseStudy_P2P.pdf") published by The Data Guild
+* [Project one-pager \[PDF\]](/media/TDG_CaseStudy_P2P.pdf) published by The Data Guild
