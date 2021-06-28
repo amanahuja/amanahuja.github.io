@@ -1,19 +1,19 @@
 ---
 title: "DataKind SF Bay Area Chapter"
 slug: "datakind-sf"
-date: 2014-01-01
-succinct: "I founded the San Francisco Bay Area chapter of DataKind and helped develop sustainable networks and processes. I continue to volunteer and consult with DataKind and the Bay Area chapter."
-featured_image: ''
+date: 2016-01-01
+cardsummary: "I founded the San Francisco Bay Area chapter of DataKind and helped develop sustainable networks and processes. I continue to advise and consult with DataKind Global and my home chapter."
 tags:
-  - "civil society"
-categories: ["cat1", "cat2", "cat3"] 
-highlights: 
-  - Taxonomy templating includes taxonomy list pages, taxonomy terms pages, and using taxonomies in your single page templates. 
-  - Hugo includes support for user-defined groupings of content called taxonomies.
-  - Taxonomies are classifications that demonstrate logical relationships between content. See Taxonomies under Content Management if you are unfamiliar with how Hugo leverages this powerful feature.
-draft: true
+  - "Civil Society"
+  - "Non Profit"
+  - "Public Sector"
+draft: false
 ---
+I founded the San Francisco Bay Area chapter of DataKind in 2013, and served as one of the chapter leaders for several years. I helped develop sustainable networks and processes for the chapter, and executed strategies for managing and training volunteers, building and supporting networks of organization-partners, and various operations. 
 
-TYPOGRAPHY, even when poorly executed, can never be taken for granted; nor is it ever accidental. Indeed, beautifully typeset pages are always the result of long experience. Now and then they even attain the rank of great artistic achievement. But the art of typesetting stands apart from expressive artwork, because the appeal is not limited to a small circle. It is open to everyone's critical judgment, and nowhere does this judgment carry more weight. Typography that cannot be read by everybody is useless. Even for someone who constantly ponders matters of readability and legibility, it is difficult to determine whether something can be read with ease, but the average reader will rebel at once when the type is too small or otherwise irritates the eye; both are signs of a certain illegibility already.
+I continue to advise and consult with DataKind Global and the Bay Area chapter. 
 
-All typography consists of letters. These appear either in the form of a smoothly running sentence or as an assembly of lines, which may even have contrasting shapes. Good typography begins, and this is no minor matter, with the typesetting of a single line of text in a book or a newspaper. Using exactly the same typeface, it is possible to create either a pleasant line, easily read, or an onerous one. Spacing, if it is too wide or too compressed, will spoil almost any typeface.
+
+{{< figure class="w-50 center" src="/images/logos/datakind_logo_orange.png" alt="DataKind logo" >}}
+[DataKind](https://www.datakind.org/) brings together data scientists with leading social change organizations for pro-bono collaborations to improve social impact. The [DataKindSF chapter](https://www.datakind.org/chapters/datakind-sf) supports goverment, non profits, and other social change organizations with a presence in San Francisco, Alameda, San Mateo, Santa Clara, and other counties in the SF Bay Area. 
+
