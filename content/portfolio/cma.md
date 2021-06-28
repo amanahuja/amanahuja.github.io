@@ -8,7 +8,7 @@ aliases:
   - /cma/
 tags:
   - "Civil Society"
-  - "Fenris"
+  - "Public Sector"
 layout: cmalayout
 highlights:
 - Building data tools for public health decision makers during the Covid-19 pandemic

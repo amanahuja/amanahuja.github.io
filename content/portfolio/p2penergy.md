@@ -3,7 +3,7 @@ title: "Peer-to-Peer Energy Trading Platform"
 slug: "p2p-energy-trading"
 date: 2017-09-15
 tags:
-  - "energy"
+  - "Energy"
   - "The Data Guild"
 cardsummary: "I led a team at The Data Guild to design, develop and pilot a peer-to-peer energy trading in South Australia, integrating solar, battery and smart meters with a simple app and an agent-based marketplace."
 draft: false

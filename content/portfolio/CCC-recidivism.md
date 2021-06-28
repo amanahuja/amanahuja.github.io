@@ -4,8 +4,8 @@ slug: "recidivism-data-sharing"
 date: 2018-01-01
 cardsummary: "We helped a California county design governance and infrastructure to improve data collection, analysis and information sharing across agencies and contracted service providers towards improved reentry services and reduced recidivism."
 tags:
-  - "public sector"
-  - "data governance"
+  - "Public Sector"
+  - "Data Governance"
 draft: false
 ---
 Fenris helped a California county office design governance and infrastructure to improve data collection, analysis and information sharing across agencies and contracted service providers towards improved reentry services and reduced recidivism.
