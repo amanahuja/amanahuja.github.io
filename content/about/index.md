@@ -7,13 +7,13 @@ Thanks for your interest in learning more about me and this website.
 
 {{< figure src="/images/team/amanahuja.jpg" alt="Aman profile photo" class="center w-50 o-90 tc f6" title="I should definitely replace this photo with one in which I am not wearing sunglasses.">}}
 
-A short bio I often reuse: 
+A short bio: 
 
 > Aman is a consultant, advisor and team builder with 15 years of experience helping organizations implement data tools and develop product strategies. He has worked with values-aligned initiatives in the life sciences, health, and energy sectors. In recent years his work addresses challenges at the organizational and sector level in civil society, including academic product teams, non-profits, and foundations. Aman is a member of The Data Guild, a co-founder of the San Francisco Bay Area chapter of DataKind, and leads the Fenris network.
 
 Visitors may check out these and other organizations that have been influential in my career on my **"Thank You Wall"** ([coming soon](https://github.com/amanahuja/amanahuja.github.io/issues/1)).
 
-Another good place to read about my work is on [my Linkedin profile](https://linkedin.com/in/amanahuja). 
+Another place to read about my work is on [my Linkedin profile](https://linkedin.com/in/amanahuja). 
 
 ## Motivations and Manifesto
 My goal is to increase civil society’s capacity for the effective and responsible use of data. 
