@@ -27,7 +27,7 @@ My goal is to increase civil society’s capacity for the effective and responsi
 * Content written in markdown, ideas composed with [obsidian.md](https://obsidian.md/). 
 * Author: me. Thanks to [Alex Wagner](https://alexwagner.work/) for helping me with writing initial content, and *Dave Dunlop* for technical wizardry.
 
-*Privacy and tracking*: This website currently uses Google web analytics, although [I'd love to move away from GA](https://github.com/amanahuja/amanahuja.github.io/issues/3). No other trackers are used.
+*Privacy and tracking*: This website currently uses Google web analytics, although [I'd like to transition](https://github.com/amanahuja/amanahuja.github.io/issues/3). No other trackers are used.
 
 If you spot a bug, mistake, or would like to make a request, please consider [submitting an issue](https://github.com/amanahuja/amanahuja.github.io/issues).
 
