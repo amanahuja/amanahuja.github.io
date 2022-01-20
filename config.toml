@@ -55,12 +55,6 @@ enableRobotsTXT = true
     weight = 300
     url = "/Portfolio/"
 
-    [[menu.main]]
-    name = "CMA"
-    identifier = "CMA"
-    weight = 310
-    url = "/cma/"
-
 [params]
   favicon = ""
   site_logo = ""
