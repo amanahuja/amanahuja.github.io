@@ -22,7 +22,7 @@ orgs:
       bio: Fenris was founded by Aman Ahuja to support teams developing responsible data systems for public benefit through collaborative co-design of product strategy, equitable data governance, and targeted technical assistance.
       link: 
         link_title: "Website"
-        link_url: "https://amanahuja.me/"
+        link_url: "https://gofenris.com/"
 
 team: 
   enable  : true
