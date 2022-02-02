@@ -13,18 +13,6 @@ Paginate = 10
 googleAnalytics = "UA-30448018-1"
 enableRobotsTXT = true
 
-# old from theme playing
-# ----
-# author = "Aman"
-# profilePicture = "images/profile.jpg"
-# displayMode = "dark"
-
-# [[menu.main]]
-# name = "Posts"
-# identifier = "posts"
-# weight = 200
-# url = "/post/"
-
 [taxonomies]
     tag = "tags"
     category = "categories"
@@ -75,3 +63,8 @@ enableRobotsTXT = true
   mainSections = ["disabledwithfakenamehere"]
   recent_posts_number = 2
   show_reading_time = true
+
+[sitemap] 
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
