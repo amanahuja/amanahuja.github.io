@@ -1,6 +1,5 @@
 # File types #
 ##############
-*.py[co]
 *.sw[opn]
 *.bkup
 *_bkup
@@ -9,8 +8,11 @@
 ###############
 logs/
 log/
+/public/
+/resources/_gen/
+tags
 
 # Specific files #
 ##################
 .project
-.pydevproject
+PROJECT_NOTE
