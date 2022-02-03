@@ -5,21 +5,19 @@ title = "Aman Ahuja"
 # https://github.com/theNewDynamic/gohugo-theme-ananke
 theme = "amanophonic"
 
-# New for Ananke
-# ----
-# DefaultContentLanguage = "en"
-# SectionPagesMenu = "main"
-Paginate = 10
+Paginate = 4
 googleAnalytics = "UA-30448018-1"
 enableRobotsTXT = true
 
 [params]
+  # General info
   description = "Aman Ahuja's website."
-
-  # amanophonic
   orgName = "Aman Ahuja"
+
+  # base style
   favicon = "/img/favicon.ico?v=0"
   logo = "/img/blogophonic-mark-dark.png"
+
   # font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -27,19 +25,20 @@ enableRobotsTXT = true
 
   # basic color options: use only color names as shown in the
   # "Color Palette" section of http://tachyons.io/docs/themes/skins/
-  background_color_class = "bg-fa-blue"
-  body_classes = "lato bg-near-white"
   custom_css = ["assets/custom.css"]
+  body_classes = "lato bg-near-white"
   siteBgColor = "near-white"
-  sidebarBgColor = "light-gray"
-  headlineColor = "dark-pink"
-  headingColor = "near-black"
   textColor = "dark-gray"
-  sidebarTextColor = "mid-gray"
   bodyLinkColor = "blue"
+
+  sidebarBgColor = "light-gray"
+  sidebarTextColor = "mid-gray"
+  headlineColor = "red"
+  headingColor = "near-black"
   navLinkColor = "near-black"
   sidebarLinkColor = "near-black"
-  footerTextColor = "silver"
+  footerTextColor = "gray"
+
   buttonTextColor = "near-white"
   buttonBgColor = "black"
   buttonHoverTextColor = "white"
@@ -48,23 +47,19 @@ enableRobotsTXT = true
 
   # show/hide social icons in site header/footer
   # content display
-  mainSections = ["disabledwithfakenamehere"]
   recent_posts_number = 2
-  show_reading_time = true
+  show_reading_time = false
+
   socialInHeader = false
   socialInFooter = true
 
 [social]
-  # social accounts (username only)
-  facebook = ""
-  facebook_admin = "" # Facebook Page Admin ID for Domain Insights
   github = "amanahuja"
-  instagram = ""
   linkedin = "amanahuja"
   medium = ""
   twitter = "amanqa"
   youtube = ""
-  # no SVG: rss = "alsdkf"
+  # no SVG: rss = "index.xml"
 
 [taxonomies]
   category = "categories"
