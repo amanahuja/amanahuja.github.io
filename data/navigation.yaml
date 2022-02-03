@@ -1,0 +1,24 @@
+header:
+  - name: Home
+    title: Home Page
+    url: /
+  - name: About
+    title: About Aman Ahuja
+    url: /about/
+  - name: Blog
+    title: Blog
+    url: /blog/
+  - name: Contact
+    title: Contact Information
+    url: /contact/
+  - name: Portfolio
+    title: Projects and other work
+    url: /portfolio/
+  - name: Elements
+    title: Element Page
+    url: /elements/
+
+footer:
+  - name: RSS
+    title: RSS Feed
+    url: /index.xml

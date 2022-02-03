@@ -1,16 +1,22 @@
 ---
-title: "Example Template for Portolio entry"
+title: "Example Template for Portfolio entry"
+subtitle: "Fenris partnered with the Society of Medical Decision Making (SMDM) and Rockefeller Foundation to help a cohort of academic research teams better meet the needs of state and local decision-makers for actionable insights from epidemiological, economic and operational data models."
+highlights: "\
+  - Building data tools for public health decision makers during the Covid-19 pandemic
+  - Initiative was a partnership between Fenris, the Society of Medical Decision Making (SMDM) and Rockefeller Foundation"
+excerpt: "Fenris partnered with the Society of Medical Decision Making (SMDM) and Rockefeller Foundation to help a cohort of academic research teams better meet the needs of state and local decision-makers for actionable insights from epidemiological, economic and operational data models."
+date: 2022-01-01
+author: Aman Ahuja
+images:
+  - /images/cma_splash.png
 slug: "change-this-slug"
-date: 2020-01-01
-succinct: "I helped a US public policy think tank to define objectives and roadmaps for a multi-stakeholder initiative that advances public discourse surrounding property rights insecurity and loss in the United States."
-featured_image: ''
 tags:
-  - "civil society"
-categories: ["cat1", "cat2", "cat3"] 
-highlights: 
-  - Taxonomy templating includes taxonomy list pages, taxonomy terms pages, and using taxonomies in your single page templates. 
-  - Hugo includes support for user-defined groupings of content called taxonomies.
-  - Taxonomies are classifications that demonstrate logical relationships between content. See Taxonomies under Content Management if you are unfamiliar with how Hugo leverages this powerful feature.
+  - "Civil Society"
+  - "Public Sector"
+series:
+  - "Fenris"
+categories: 
+  - "Projects"
 draft: true
 ---
 

@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Aman Ahuja"
 
 # https://github.com/theNewDynamic/gohugo-theme-ananke
-theme = "ananke"
+theme = "amanophonic"
 
 # New for Ananke
 # ----
@@ -13,56 +13,63 @@ Paginate = 10
 googleAnalytics = "UA-30448018-1"
 enableRobotsTXT = true
 
-[taxonomies]
-    tag = "tags"
-    category = "categories"
-    mood = "moods"
-
-[menu]
-    [[menu.main]]
-    name = "Home"
-    identifier = "home"
-    weight = 100
-    url = "/"
-
-    [[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-
-    # [[menu.main]]
-    # name = "Manifesto"
-    #identifier = "manifesto"
-    # weight = 200
-    #url = "/manifesto/"
-
-    [[menu.main]]
-    name = "Portfolio"
-    identifier = "Portfolio"
-    weight = 300
-    url = "/Portfolio/"
-
 [params]
-  favicon = ""
-  site_logo = ""
-  # TODO: add to static directory and add here
   description = "Aman Ahuja's website."
 
-  # Social: instagram, facebook, youtube, gitlab, mastodon, slack, stackoverflow, rss
-  linkedin = "https://linkedin.com/in/amanahuja"
-  twitter = "https://twitter.com/amanqa"
+  # amanophonic
+  orgName = "Aman Ahuja"
+  favicon = "/img/favicon.ico?v=0"
+  logo = "/img/blogophonic-mark-dark.png"
+  # font options: sans-serif or serif
+  # for more http://tachyons.io/docs/typography/font-family/
+  textFontFamily = "sans-serif"
+  headingFontFamily = "sans-serif"
 
-  # styling throughout site
-  # reference: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  # basic color options: use only color names as shown in the
+  # "Color Palette" section of http://tachyons.io/docs/themes/skins/
   background_color_class = "bg-fa-blue"
   body_classes = "lato bg-near-white"
   custom_css = ["assets/custom.css"]
+  siteBgColor = "near-white"
+  sidebarBgColor = "light-gray"
+  headlineColor = "dark-pink"
+  headingColor = "near-black"
+  textColor = "dark-gray"
+  sidebarTextColor = "mid-gray"
+  bodyLinkColor = "blue"
+  navLinkColor = "near-black"
+  sidebarLinkColor = "near-black"
+  footerTextColor = "silver"
+  buttonTextColor = "near-white"
+  buttonBgColor = "black"
+  buttonHoverTextColor = "white"
+  buttonHoverBgColor = "blue"
+  borderColor = "moon-gray"
 
+  # show/hide social icons in site header/footer
   # content display
   mainSections = ["disabledwithfakenamehere"]
   recent_posts_number = 2
   show_reading_time = true
+  socialInHeader = false
+  socialInFooter = true
+
+[social]
+  # social accounts (username only)
+  facebook = ""
+  facebook_admin = "" # Facebook Page Admin ID for Domain Insights
+  github = "amanahuja"
+  instagram = ""
+  linkedin = "amanahuja"
+  medium = ""
+  twitter = "amanqa"
+  youtube = ""
+  # no SVG: rss = "alsdkf"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
 
 [sitemap] 
   changefreq = "monthly"
