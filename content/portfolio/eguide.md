@@ -4,6 +4,8 @@ excerpt: "I worked with the Electricity Growth and Use in Developing Economies (
 slug: "eguide-api"
 date: 2020-06-01
 author: Aman Ahuja
+images:
+  - /images/logos/eguide.png
 tags:
   - "Energy"
   - "Civil Society"
