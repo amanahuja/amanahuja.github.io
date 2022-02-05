@@ -15,8 +15,8 @@ enableRobotsTXT = true
   orgName = "Aman Ahuja"
 
   # base style
-  favicon = "/img/favicon.ico?v=0"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/images/favicon/favicon.ico?v=0"
+  logo = "/images/logos/amanahuja_me.png"
 
   # font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
@@ -27,23 +27,44 @@ enableRobotsTXT = true
   # "Color Palette" section of http://tachyons.io/docs/themes/skins/
   custom_css = ["assets/custom.css"]
   body_classes = "lato bg-near-white"
-  siteBgColor = "near-white"
-  textColor = "dark-gray"
-  bodyLinkColor = "blue"
 
+  # color notes
+  # favicon / logo : light-gray + black + white
+  # accent : dark-green #137752
+  # background: near-white: #F4F4F4
+  # text: dark-gray: #333333
+  # logo font: lora
+
+  # 1 
+  siteBgColor = "near-white" 
+  textColor = "dark-gray"  
+  bodyLinkColor = "dark-green"
+  headlineColor = "near-black" 
+  headingColor = "near-black"
+  # headlineColor = "dark-green"
+  # headingColor = "dark-green"
+  
+  # 2
   sidebarBgColor = "light-gray"
   sidebarTextColor = "mid-gray"
-  headlineColor = "red"
-  headingColor = "near-black"
   navLinkColor = "near-black"
+   
+  # 3
+  buttonTextColor = "dark-green"
+  buttonBgColor = "moon-gray"
+  buttonHoverTextColor = "moon-gray"
+  buttonHoverBgColor = "dark-green"
+  borderColor = "moon-gray"
+
+  # buttonTextColor = "near-white"
+  # buttonBgColor = "black"
+  # buttonHoverTextColor = "white"
+  # buttonHoverBgColor = "blue"
+  # borderColor = "moon-gray"
+
+  # more
   sidebarLinkColor = "near-black"
   footerTextColor = "gray"
-
-  buttonTextColor = "near-white"
-  buttonBgColor = "black"
-  buttonHoverTextColor = "white"
-  buttonHoverBgColor = "blue"
-  borderColor = "moon-gray"
 
   # show/hide social icons in site header/footer
   # content display
