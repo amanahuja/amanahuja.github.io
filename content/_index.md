@@ -8,7 +8,6 @@ description: >
   Second, interdisciplinary and inclusionary teams at all levels. 
   Third, a systems lens on intervention and impact. 
 images:
-  - img/unicorn-megaphone.png
 show_action_link: true
 action_link: /about
 action_label: "More about me &rarr;"
