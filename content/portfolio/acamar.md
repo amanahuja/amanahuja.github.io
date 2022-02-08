@@ -5,7 +5,7 @@ excerpt: "I led a team at The Data Guild to design and champion a platform for c
 date: 2018-09-15
 author: Aman Ahuja
 images: 
-  - ""
+  - "https://c2.staticflickr.com/4/3805/10193364234_530ccacdb6_b.jpg"
 slug: "acamar-platform"
 tags:
   - "Life Sciences"

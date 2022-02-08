@@ -4,6 +4,8 @@ subtitle: "Aligning on governance and infrastructure across county agencies"
 excerpt: "We helped a California county design governance and infrastructure to improve data collection, analysis and information sharing across agencies and contracted service providers towards improved reentry services and reduced recidivism."
 date: 2018-03-15
 author: Aman Ahuja
+images: 
+  - https://assets.propublica.org/legacy/images/articles/wk_doj_080707.jpg
 slug: "recidivism-data-sharing"
 tags:
   - "Public Sector"
