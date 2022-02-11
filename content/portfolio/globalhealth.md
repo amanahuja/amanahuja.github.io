@@ -29,7 +29,7 @@ Additional support was provided through:
 * Development of assets and training for user research as part of the G.h product development life-cycle
 * Recommendations on engineering process and resourcing
 
-## About Global.health
+### About Global.health
 
 ![Global.health logo](/images/logos/gh-logo-alt.png)
 
