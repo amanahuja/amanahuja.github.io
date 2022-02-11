@@ -1,14 +1,11 @@
 ---
 title: "Example Template for Portfolio entry"
 subtitle: "Fenris partnered with the Society of Medical Decision Making (SMDM) and Rockefeller Foundation to help a cohort of academic research teams better meet the needs of state and local decision-makers for actionable insights from epidemiological, economic and operational data models."
-highlights: "\
-  - Building data tools for public health decision makers during the Covid-19 pandemic
-  - Initiative was a partnership between Fenris, the Society of Medical Decision Making (SMDM) and Rockefeller Foundation"
 excerpt: "Fenris partnered with the Society of Medical Decision Making (SMDM) and Rockefeller Foundation to help a cohort of academic research teams better meet the needs of state and local decision-makers for actionable insights from epidemiological, economic and operational data models."
-date: 2022-01-01
+date: 1999-01-01
 author: Aman Ahuja
 images:
-  - /images/cma_splash.png
+  - /images/some_images.png
 slug: "change-this-slug"
 tags:
   - "Civil Society"
@@ -17,6 +14,7 @@ series:
   - "Fenris"
 categories: 
   - "Projects"
+layout: single-sidebar
 draft: true
 ---
 
