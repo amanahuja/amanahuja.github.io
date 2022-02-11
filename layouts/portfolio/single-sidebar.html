@@ -25,7 +25,7 @@
 <aside class="page-sidebar" role="complementary">
   {{ .Scratch.Set "sidebar" .Site.Data.sidebar_content.portfolio.single_sidebar }}
   {{ partial "shared/sidebar-content.html" . }}
-  {{ .Scratch.Set "details" "open" }}
+  {{ .Scratch.Set "details" "closed" }}
   {{ partial "shared/post-details.html" . }}
 </aside>
 {{ end }}
