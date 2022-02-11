@@ -15,7 +15,7 @@ series:
 categories: 
   - "Projects"
 layout: single-sidebar
-draft: true
+draft: false
 ---
 
 Fenris worked with Global.health leadership team to help align product development with long-term strategic objectives and on delivering value for the sector. 
