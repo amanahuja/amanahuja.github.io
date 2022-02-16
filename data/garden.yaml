@@ -1,0 +1,12 @@
+name: name in garden data config
+enableToc: true
+enableLinkPreview: true
+description: > 
+  Description from Garden config data file
+page_title:
+  "Page title from Garden config data"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/amanqa
+  - link_name: Github
+    link: https://github.com/amanahuja
