@@ -6,11 +6,3 @@ author: Aman
 date: 2022-02-15
 draft: true
 ---
-# slug: garden
-# layout: list-grid
-
-Placeholder
-lkasjdf
-alsdkflaskdj
-laksjdf
-
