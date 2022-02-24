@@ -1,7 +1,8 @@
 <script src="https://cdn.jsdelivr.net/npm/d3@6"></script>
 <h3>Interactive Graph</h3>
-<div id="graph-container" class="ba bw1 br3 b--gray grow pointer">
-</div>
+<div id="graph-container" class="ba bw1 br3 b--gray grow pointer"></div>
+<!-- todo: move the above class definitions outside this file for modularity --> 
+
 <style>
     :root {
         --g-node: var(--secondary);
@@ -11,7 +12,10 @@
         --g-link-active: #5a7282;
     }
 </style>
+
 <script>
+async function run() {
+  const { index, links, content } = await fetchData()
   const curPage = {{ strings.TrimRight "/" .Page.Permalink }}.replace({{strings.TrimRight "/" .Site.BaseURL }}, "")
   const pathColors = {{$.Site.Data.graphConfig.paths}}
   let depth = {{$.Site.Data.graphConfig.depth}}
@@ -226,12 +230,15 @@
       .attr("x1", d => d.source.x)
       .attr("y1", d => d.source.y)
       .attr("x2", d => d.target.x)
-      .attr("y2", d => d.target.y);
+      .attr("y2", d => d.target.y)
     node
       .attr("cx", d => d.x)
-      .attr("cy", d => d.y);
+      .attr("cy", d => d.y)
     labels
       .attr("x", d => d.x)
-      .attr("y", d => d.y);
+      .attr("y", d => d.y)
   });
+}
+
+run()
 </script>
