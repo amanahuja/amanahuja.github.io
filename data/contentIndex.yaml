@@ -27,7 +27,7 @@
         **If you decide to overwrite the `/content` folder completely, don't remove the `/content/templates` folder!**
 
         Head over to Options > Core Plugins and enable the Templates plugin. Then go to Options > Hotkeys and set a hotkey for 'Insert Template' (I recomment `[cmd]+T`). That way, when you create a new note, you can just press the hotkey for a new template and be ready to go!
-    lastmodified: 2022-02-15T18:33:34.824572234-08:00
+    lastmodified: 2022-02-22T18:22:23.820358801-08:00
 /config:
     title: Configuration
     content: "## Configuration\nQuartz is designed to be extremely configurable. You can find the bulk of the configuration scattered throughout the repository depending on how in-depth you'd like to get.\n\nThe majority of configuration can be be found under `data/config.yaml`. An annotated example configuration is shown below.\n\n```yaml\nname: Your name here! # Shows in the footer\nenableToc: true # Whether to show a Table of Contents\nenableLinkPreview: true # whether to render card previews for links\ndescription: Page description to show to search engines\npage_title: Quartz Example Page # Default Page Title\n\nlinks: # Links to show in footer\n  - link_name: Twitter\n    link: https://twitter.com/_jzhao\n  - link_name: Github\n    link: https://github.com/jackyzha0\n```\n\n### Graph View\nTo customize the Interactive Graph view, you can poke around `data/graphConfig.yaml`.\n\n```yaml\nenableLegend: false # automatically generate a legend\nenableDrag: true # allow dragging nodes in the graph\nenableZoom: true # allow zooming and panning the graph\ndepth: -1 # how many neighbours of the current node to show (-1 is all nodes)\npaths: # colour specific nodes path off of their path\n  - /moc: \"#4388cc\"\n```\n\n\n## Styling\nWant to go even more in-depth? You can add custom CSS styling and change existing colours through editing `assets/custom.scss`. If you'd like to target specific parts of the site, you can add ids and classes to the HTML partials in `/layouts/partials`. \n\n### Partials\nPartials are what dictate what actually gets rendered to the page. Want to change how pages are styled and structured? You can edit the appropriate layout in `/layouts`.\n\nFor example, the structure of the home page can be edited through `/layouts/index.html`. To customize the footer, you can edit `/layouts/partials/footer.html`\n\nMore info about partials on [Hugo's website.](https://gohugo.io/templates/partials/)\n\nStill having problems? Checkout our [FAQ and Troubleshooting guide](garden/troubleshooting.md)."
@@ -106,7 +106,7 @@
 
         **The goal of Quartz is to make hosting your own public digital garden free and simple.** You don't even need your own website. Quartz does all of that for you and gives your own little corner of the internet.
     lastmodified: 2022-02-15T14:44:57-08:00
-/preview-changes:
+/preview_changes:
     title: Preview Changes
     content: |-
         If you'd like to preview what your Quartz site looks like before deploying it to the internet, here's exactly how to do that!

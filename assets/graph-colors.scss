@@ -1,0 +1,22 @@
+// base graph function
+:root {
+  --lt-colours-light: var(--light) !important;
+  --lt-colours-lightgray: var(--lightgray) !important;
+  --lt-colours-dark: var(--secondary) !important;
+  --lt-colours-secondary: var(--tertiary) !important;
+  --lt-colours-gray: var(--outlinegray) !important;
+}
+
+// custom css for graph via quarts
+:root {
+  --light: #faf8f8;
+  --dark: #141021;
+  --secondary: #284b63;
+  --tertiary: #84a59d;
+  --visited: #afbfc9;
+  --primary: #f28482;
+  --gray: #4e4e4e;
+  --lightgray: #f0f0f0;
+  --outlinegray: #dadada;
+}
+
