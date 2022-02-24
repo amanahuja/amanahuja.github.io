@@ -1,5 +1,5 @@
 name: name in garden data config
-enableToc: true
+enableToc: false
 enableLinkPreview: true
 description: > 
   Description from Garden config data file
