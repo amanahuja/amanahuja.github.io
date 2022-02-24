@@ -5,6 +5,9 @@ title = "Aman Ahuja"
 # https://github.com/theNewDynamic/gohugo-theme-ananke
 theme = "amanophonic"
 
+# check this for compatibility with quartz backlinks
+relativeURLs = false
+
 Paginate = 4
 googleAnalytics = "UA-30448018-1"
 enableRobotsTXT = true
