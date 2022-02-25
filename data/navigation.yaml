@@ -1,7 +1,4 @@
 header:
-  - name: Home
-    title: Home Page
-    url: /
   - name: About
     title: About Aman Ahuja
     url: /about/
@@ -11,6 +8,9 @@ header:
   - name: Portfolio
     title: Projects and other work
     url: /portfolio/
+  - name: Garden
+    title: Data and civil society
+    url: /garden/
 
 footer:
   - name: RSS
