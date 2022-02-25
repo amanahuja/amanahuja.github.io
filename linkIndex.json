@@ -1,0 +1,29 @@
+{
+  "index": {
+    "links": {
+      "/why-is-civil-society-important": [
+        {
+          "source": "/why-is-civil-society-important",
+          "target": "/so-whats-different-about-civil-society-data-initiatives",
+          "text": "So what's different about civil society data initiatives?"
+        }
+      ]
+    },
+    "backlinks": {
+      "/so-whats-different-about-civil-society-data-initiatives": [
+        {
+          "source": "/why-is-civil-society-important",
+          "target": "/so-whats-different-about-civil-society-data-initiatives",
+          "text": "So what's different about civil society data initiatives?"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/why-is-civil-society-important",
+      "target": "/so-whats-different-about-civil-society-data-initiatives",
+      "text": "So what's different about civil society data initiatives?"
+    }
+  ]
+}
