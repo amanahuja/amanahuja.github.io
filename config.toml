@@ -12,6 +12,10 @@ Paginate = 4
 googleAnalytics = "UA-30448018-1"
 enableRobotsTXT = true
 
+ignoreFiles = [
+  "/content/garden/_*"
+]
+
 [params]
   # General info
   description = "Aman Ahuja's website."
