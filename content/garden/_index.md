@@ -1,7 +1,7 @@
 ---
-title: "Garden Home xxx"
-description: "garden description DPCS"
-subtitle: "subtitle garden home DPCS"
+title: "Data initiatives in civil society"
+description: ""
+subtitle: "a digital garden"
 author: Aman
 date: 2022-02-15
 draft: false
