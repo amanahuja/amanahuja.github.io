@@ -16,4 +16,3 @@ show_disqus_comments: false
 ---
 
 ** No content for the blog index. This file provides front matter for the blog including the layout and boolean options. **
-Projects, talks, and initiatives in my portfolio here.

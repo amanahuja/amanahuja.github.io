@@ -2,7 +2,7 @@
 title: "Data initiatives in civil society"
 description: ""
 subtitle: "a digital garden"
-author: Aman
+author: Aman Ahuja
 date: 2022-02-15
 draft: false
 ---
