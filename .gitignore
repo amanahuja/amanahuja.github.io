@@ -17,5 +17,5 @@ tags
 .project
 .hugo_build.lock
 PROJECT_NOTE
-static/linkIndex.json
-static/contentIndex.json
+# static/linkIndex.json
+# static/contentIndex.json
