@@ -1,5 +1,5 @@
 ---
-title: "Why is civil society important?"
+title: "Why Civil Society matters"
 author: Aman
 date: 2022-02-24
 draft: false
@@ -24,7 +24,7 @@ Most organizations in civil society inreasingly operate in digital spaces and wo
 
 I have worked with many such organizations that are struggling to use data effectively, and responsibly. I've seen civil society initiatives attempt to build data-centric tools that are centered in civil society values, and not merely transplants, or short-lived donations, from tech-savvy private sector companies. We've sought ways of making our work resilient, financially sustainable, and appropriately governed. 
 
-Important factors make data initiatives in civil society very different from government projects or for-profit products --> [So what's different about civil society data initiatives?](so-whats-different-about-civil-society-data-initiatives). New approaches and expertise must be developed to meet these challenges and opportunities.
+Important factors make data initiatives in civil society very different from government projects or for-profit products --> [So what's different about civil society data initiatives?](whats-different-about-civil-society-data-initiatives). New approaches and expertise must be developed to meet these challenges and opportunities.
 
 These aren't problems to be solved, so much as issues to be managed, and some guiding principles. **Recognizable patterns** emerge, which can be seen in the sector as a whole, and by individual organizations and teams, that suggest ways in which we can think usefully about how to better builders, better funders and supporter, and better participants in these initiatives.
 
