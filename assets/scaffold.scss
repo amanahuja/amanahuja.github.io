@@ -41,6 +41,14 @@ h1, h2, h3, h4, h5, h6 {
     @extend .#{$headlineColor} ;
   }
 }
+
+// added aa
+// .alink {
+// 	@extend .#{$bodyLinkColor};
+// }
+.alink { @extend .link, .dim  ;} 
+.alink { @extend .#{$bodyLinkColor}; }
+
 .site-brand,
 .site-links a,
 .site-header .social-icon-links a,
