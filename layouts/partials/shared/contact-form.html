@@ -9,6 +9,7 @@
     <textarea rows="6" name="message" id="message" placeholder="Please tell me a little about yourself and what you are interested in chatting about." required></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="{{ .Params.Name | title }} Submission" />
   </fieldset>
-  <input type="submit" value="{{ if .Params.submit_button_label }}{{ .Params.submit_button_label }}{{ end }}">
+  <input type="submit" value="{{ if .Params.submit_button_label }}{{ .Params.submit_button_label }}{{ end }}" class="mr4-l">
   {{ if .Params.show_poweredby_formspree }}<small class="db dib-l ml4-l">Powered by <a href="https://formspree.io" target="_blank">Formspree</a></small>{{ end }}
+  <small class="db dib-l black-60">(Please complete the CAPTCHA on the next page.)</small>
 </form>
