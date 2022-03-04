@@ -1,4 +1,7 @@
 header:
+  - name: Home
+    title: Home
+    url: /
   - name: About
     title: About Aman Ahuja
     url: /about/
