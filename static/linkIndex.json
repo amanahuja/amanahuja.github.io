@@ -1,21 +1,19 @@
 {
   "index": {
     "links": {
-      "/": [
-        {
-          "source": "/",
-          "target": "/why-is-civil-society-important",
-          "text": "\"Why is civil society important?\""
-        }
-      ],
-      "/whats-different-about-civil-society-data-initiatives": [
+      "/garden/whats-different-about-civil-society-data-initiatives": [
         {
           "source": "/whats-different-about-civil-society-data-initiatives",
           "target": "/why-is-civil-society-important",
           "text": "the use of data in civil society"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/portfolio/recidivism-data-sharing/",
+          "text": "US county that we worked with"
         }
       ],
-      "/why-is-civil-society-important": [
+      "/garden/why-is-civil-society-important": [
         {
           "source": "/why-is-civil-society-important",
           "target": "/whats-different-about-civil-society-data-initiatives",
@@ -24,14 +22,14 @@
       ]
     },
     "backlinks": {
-      "/whats-different-about-civil-society-data-initiatives": [
+      "/garden/whats-different-about-civil-society-data-initiatives": [
         {
           "source": "/why-is-civil-society-important",
           "target": "/whats-different-about-civil-society-data-initiatives",
           "text": "So what's different about civil society data initiatives?"
         }
       ],
-      "/why-is-civil-society-important": [
+      "/garden/why-is-civil-society-important": [
         {
           "source": "/",
           "target": "/why-is-civil-society-important",
@@ -47,18 +45,13 @@
   },
   "links": [
     {
-      "source": "/",
-      "target": "/why-is-civil-society-important",
-      "text": "\"Why is civil society important?\""
-    },
-    {
-      "source": "/whats-different-about-civil-society-data-initiatives",
-      "target": "/why-is-civil-society-important",
+      "source": "/garden/whats-different-about-civil-society-data-initiatives",
+      "target": "/garden/why-is-civil-society-important",
       "text": "the use of data in civil society"
     },
     {
-      "source": "/why-is-civil-society-important",
-      "target": "/whats-different-about-civil-society-data-initiatives",
+      "source": "/garden/why-is-civil-society-important",
+      "target": "/garden/whats-different-about-civil-society-data-initiatives",
       "text": "So what's different about civil society data initiatives?"
     }
   ]

@@ -16,30 +16,13 @@
 
 <script>
 async function run() {
-  // functions to handle prefixes
-  const prefixWithGarden = s => s.startsWith("/garden") ? s : `/garden${s}`
-  const prefixObjectKeys = obj => {
-    return Object.keys(obj).reduce((accum, cur) => {
-      return renameProp(cur, prefixWithGarden(cur), accum)
-    }, obj)
-  }
-  const renameProp = (oldProp, newProp, { [oldProp]: old, ...others }) => ({
-    [newProp]: old,
-    ...others
-  })
 
-  // fetch index and content data from json files
-  let { index, links, content } = await fetchData()
+  // fetch data from Json files, fetchData defined in head
+  const { index, links, content } = await fetchData()
 
   const curPage = {{ strings.TrimRight "/" .Page.Permalink }}.replace({{strings.TrimRight "/" .Site.BaseURL }}, "")
   const pathColors = {{$.Site.Data.graphConfig.paths}}
   let depth = {{$.Site.Data.graphConfig.depth}}
-
-  // remap all links to be prefixed with /garden
-  index.backlinks = prefixObjectKeys(index.backlinks)
-  index.links = prefixObjectKeys(index.links)
-  links = links.map(l => ({...l, source: prefixWithGarden(l.source), target: prefixWithGarden(l.target)}))
-  content = prefixObjectKeys(content)
 
   const parseIdsFromLinks = (links) => [...(new Set(links.flatMap(link => ([link.source, link.target]))))]
 
@@ -180,7 +163,7 @@ async function run() {
       const neighbours = parseIdsFromLinks([...(index.links[d.id] || []), ...(index.backlinks[d.id] || [])])
       const neighbourNodes = d3.selectAll(".node").filter(d => neighbours.includes(d.id))
       const currentId = d.id
-      const linkNodes = d3.selectAll(".link").filter(l => l?.source.id === currentId || l?.target.id === currentId)
+      const linkNodes = d3.selectAll(".link").filter(d => d.source.id === currentId || d.target.id === currentId)
 
       // highlight neighbour nodes
       neighbourNodes
@@ -209,7 +192,7 @@ async function run() {
         .attr("fill", color)
 
       const currentId = d.id
-      const linkNodes = d3.selectAll(".link").filter(l => l?.source.id === currentId || l?.target.id === currentId)
+      const linkNodes = d3.selectAll(".link").filter(d => d.source.id === currentId || d.target.id === currentId)
 
       linkNodes
         .transition()
