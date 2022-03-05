@@ -15,6 +15,7 @@ tags
 # Specific files #
 ##################
 .project
+.vim
 .hugo_build.lock
 PROJECT_NOTE
 # static/linkIndex.json
