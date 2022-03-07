@@ -11,9 +11,9 @@ header:
   - name: Portfolio
     title: Projects and other work
     url: /portfolio/
-  - name: Garden
-    title: Data and civil society
-    url: /garden/
+#   - name: Garden
+#     title: Data and civil society
+#     url: /garden/
 
 footer:
   - name: RSS
