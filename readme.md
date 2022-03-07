@@ -1,7 +1,7 @@
 
 # amanahuja's website
 
-Website published at: amanahuja.me
+Website published at: [amanahuja.me](https://amanahuja.me)
 
 ## Technical overview
 
