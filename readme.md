@@ -19,8 +19,10 @@ report issues here: https://github.com/amanahuja/amanahuja.github.io/issues
 Leverages Jacky's Quartz for obsidian-like knowledge graph and backlinks. 
 https://github.com/jackyzha0/quartz
 
-Requires hugo-obsidian to build an index.
-https://github.com/jackyzha0/hugo-obsidian
+Uses `hugo-obsidian` to build an index.
+* [hugo-obsidian](https://github.com/jackyzha0/hugo-obsidian) creates two JSON files as output: `static/linkIndex.json` and `static/contentIndex.json`. The script is available as a github action. See the quartz repo readme for details. 
+* My own setup requires modifications to these indexes. These are scripted in python `clean_index_paths.py`. 
+* Also consider: https://github.com/trojblue/Obsidian-wiki-fix to fix link styles for quarz, if needed. 
 
 To serve locally:
 ```
