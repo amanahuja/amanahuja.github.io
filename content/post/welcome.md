@@ -1,8 +1,9 @@
 ---
-title: "Welcome"
-date: 2020-11-10T15:36:45-08:00
+title: "Welcome to 'Posts'"
+date: 2022-03-01
+author: Aman Ahuja
 draft: true
 ---
 
-Will this work oob? 
+A new experimental section of my website, experimental. 
 
