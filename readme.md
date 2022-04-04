@@ -24,8 +24,27 @@ Uses `hugo-obsidian` to build an index.
 * My own setup requires modifications to these indexes. These are scripted in python `clean_index_paths.py`. 
 * Also consider: https://github.com/trojblue/Obsidian-wiki-fix to fix link styles for quarz, if needed. 
 
-To serve locally:
+## Doing stuff
+
+**Build quartz files before publishing.**
+
+There's a helper script in this repo called `makequartz.sh`. The key idea is: 
 ```
 hugo-obsidian -input=content -output=static -index -root=.
-hugo server
 ```
+
+
+**To publicly publish a draft with ngrok**
+
+Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels. See [docs](ngrok.com/docs). 
+```
+# start ngrok
+$ ngrok http 1313
+
+# get id from stdout
+# e.g. https://7fb1-24-15-121-5.ngrok.io
+
+# serve hugo on the IP
+hugo serve -D --debug -b https://7fb1-24-15-121-5.ngrok.io --appendPort=false
+```
+
