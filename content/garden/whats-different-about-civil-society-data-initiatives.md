@@ -21,14 +21,15 @@ I'm talking about the technical infrastructures, the agile methodologies and the
 
 In fact, there are really important differences between a civil society data initiatives and those at a for-profit organization, or one run by the government. And these differences require that we evaluate carefully any direct application of familiar tools or methods, and that, in fact, we may need to build new approaches entirely. 
 
-And this understanding -- that civil society is different, that the problems it tries to solve are different, that the values and principles we need to carry in its work are different, and that together we have to really identify these differences and plan for them -- this undertanding allows us to see the whole sector with new perspective, one that is not just wary of pitfalls but is also full of fresh ideas and opportunities. 
+And this understanding -- that civil society is different, that the problems it tries to solve are different, that the values and principles we need to carry in its work are different, and that together we have to really identify these differences and plan for them -- this undertanding allows us to see the whole sector with new perspective, one that is not just wary of pitfalls but is also full of fresh [ideas and opportunities](opportunities.md).
 
 {{<pullquote >}}
 This understanding allows us to see the whole sector with new perspective, one that is not just wary of pitfalls, but also full of fresh ideas and opportunities and a renewed promise. 
 {{< /pullquote >}}
 
-##### Multiple teams collaborating
-
+I have described a few of the differences below, with examples, to illustrate how these differences can impact the design, the team composition, the sustainability, and the impact of the tool or product.  
+   
+#### Multi-stakeholder teams
 Civil society data initiatives are often multi-team collaborative efforts with a complexity of incentives and power-dynamics. 
 
 One [US county that we worked with](/portfolio/recidivism-data-sharing/) was aware that understanding recidivism requires bringing together information from many organizations. An individual's interactions with the justice system over time may include the Sheriff's office, the courts, prison, the probation office, community based organizations (CBOs) and more. Whether or not they recidivate, they may encounter many of these multiple times. 
@@ -41,19 +42,35 @@ The county justice system _as a whole_ may benefit from better understanding how
 
 But who would get all that data? How will it be used, and who will decide how to use it? How can we ensure that such a system would be used for the benefit of the community, and not against it? 
 
-##### The user, the data subject and the stakeholders
+Consider
+* Unequal power dynamics
+* Alignining on objectives
 
-Placeholder.
-"User-centered design" remains for many people a mantra against all design problems. But when, say, a nonprofit organization builds a tool, it may find that it's _not clear who the user even is._
+##### The user, the data principal and the stakeholders
+
+Consider these definitions: 
+* The *user* is the individual interacting with the tool or product, for whom a user interface has been created. 
+* The *data principal* or subject is the persons or entities that are described by the data, or who are directly affected by the decisions and actions enabled by the tool.
+* The *stakeholders* are many, but include the funder and other vested organizations. 
+
+For a data product at, say, NetFlix, we might say that: I am the user, since I select and watch the movie; I am the data principal, since data is collected about my preferences and those of other users; and I am the funder, since I pay the monthly subscription to the NetFlix company. 
+
+In the recidivism example above, these entities are not the same. Although this happens in all sectors, the nature of work in civil society makes this common or default case.  And for these organizations, for instance NGOs working with refugees or journalists investigating corrpution, this dynamic leads to threat models, governance challenges, and design patterns that are more important and challenging. 
+
+> "User-centered design" and other approaches in a _product mindset_ must be applied carefully or rebuilt entirely in such contexts. 
+
 
 ##### Rethinking the role of data
-
-Placeholder.
+The purpose or role of data in the project may be fundamentally different
 
 ##### Data, truth and reality
-Placeholder.
+Data sources must be treated as imperfect representations of reality
 
 ##### Funding, sustainability, and the project lifecycle
-Placeholder.
+Have different funding and sustainability models than we see in the private and public sectors.
 
 
+With these 
+[Unique Challenges](challenges.md)
+[Opportunities and Aspirations](opportunities.md)
+[Building Capacity](building_capacity.md)
