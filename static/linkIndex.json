@@ -47,11 +47,23 @@
           "text": "Empowered Leaders"
         }
       ],
+      "/garden/template": [
+        {
+          "source": "/template",
+          "target": "/filename",
+          "text": "to this page"
+        }
+      ],
       "/garden/whats-different-about-civil-society-data-initiatives": [
         {
           "source": "/whats-different-about-civil-society-data-initiatives",
           "target": "/why-is-civil-society-important",
           "text": "the use of data in civil society"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/opportunities",
+          "text": "ideas and opportunities"
         },
         {
           "source": "/whats-different-about-civil-society-data-initiatives",
@@ -123,6 +135,13 @@
           "text": "Empowered Leaders"
         }
       ],
+      "/garden/filename": [
+        {
+          "source": "/template",
+          "target": "/filename",
+          "text": "to this page"
+        }
+      ],
       "/garden/governance": [
         {
           "source": "/pillars-of-capacity",
@@ -138,6 +157,11 @@
         }
       ],
       "/garden/opportunities": [
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/opportunities",
+          "text": "ideas and opportunities"
+        },
         {
           "source": "/whats-different-about-civil-society-data-initiatives",
           "target": "/opportunities",
@@ -233,9 +257,19 @@
       "text": "Empowered Leaders"
     },
     {
+      "source": "/garden/template",
+      "target": "/garden/filename",
+      "text": "to this page"
+    },
+    {
       "source": "/garden/whats-different-about-civil-society-data-initiatives",
       "target": "/garden/why-is-civil-society-important",
       "text": "the use of data in civil society"
+    },
+    {
+      "source": "/garden/whats-different-about-civil-society-data-initiatives",
+      "target": "/garden/opportunities",
+      "text": "ideas and opportunities"
     },
     {
       "source": "/garden/whats-different-about-civil-society-data-initiatives",
