@@ -21,5 +21,7 @@ There are many reasons why an initiative may be
 
 There are good reasons for an initiative to shut down, of course. It may have achieved its stated purpose. Or it may be unsuccessful due to an incorrect theory of change, or have become irrelevant.
 
-Whatever the reason, good or bad, there are important considerations for the end of its [lifecycle](healthy-life-cycles.md).
+Good reasons or bad reasons, there are important considerations for the end of a data initiative [lifecycle](healthy-life-cycles.md).
+
+Pillars 
 

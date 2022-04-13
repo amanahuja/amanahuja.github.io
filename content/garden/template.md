@@ -22,6 +22,12 @@ List of links:
 * Internal link: [to this page](filename.md) will be added to the graph. 
 * external link: [to some site](https://othersite.com) are removed by quartz. 
 
+an image
+{{< garden-image 
+  src="/images/utah-aman-hero-resized.jpg"
+  title="title"
+  caption="caption" >}}
+
 References and recommended reading: 
 * Include this section 
 * author, ["link"](https://gofenris.com) (2000). 

@@ -6,7 +6,7 @@ tags:
 draft: false
 ---
 
-## Unique Challenges faced by Civil Society
+## Challenges faced by Civil Society data initiatives
 
 When we speak of building capacity in the sector, we refer to strengthening the institutions, approaches, and methods by which these data initiatives might be more successful, less harmful, and provide sustained and meaningful benefit to society. We speak of addressing risks like prosecution of journalists, currupt funding, and misinformation in civil discourse. We speak of the role, a leading role or a supporting role, that data might play in the way we tackle the great problems of our time, such as the rise of authoritarianism and climate change. 
 
