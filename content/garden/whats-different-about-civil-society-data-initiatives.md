@@ -6,9 +6,8 @@ draft: false
 ---
 
 {{% inset %}}
-Civil society data initiatives: 
-* Are often multi-team collaborative efforts with a complexity of incentives
-  and power-dynamics
+Compared to those in other sectors, civil society's data initiatives: 
+* Are often multi-team collaborative efforts with a complexity of incentives and power-dynamics
 * These are each different groups: the "user", the "data subject", the "stakeholder". 
 * The purpose or role of data in the project may be fundamentally different
 * Data sources must be treated as imperfect representations of reality
@@ -23,11 +22,12 @@ In fact, there are really important differences between a civil society data ini
 
 And this understanding -- that civil society is different, that the problems it tries to solve are different, that the values and principles we need to carry in its work are different, and that together we have to really identify these differences and plan for them -- this undertanding allows us to see the whole sector with new perspective, one that is not just wary of pitfalls but is also full of fresh [ideas and opportunities](opportunities.md).
 
-{{<pullquote >}}
+{{< pullquote >}}
 This understanding allows us to see the whole sector with new perspective, one that is not just wary of pitfalls, but also full of fresh ideas and opportunities and a renewed promise. 
 {{< /pullquote >}}
 
-I have described a few of the differences below, with examples, to illustrate how these differences can impact the design, the team composition, the sustainability, and the impact of the tool or product.  
+---
+I have described a few of the differences below, with examples, to illustrate how these differences can impact the design, the team composition, the sustainability, and the impact of the tool or product. 
    
 #### Multi-stakeholder teams
 Civil society data initiatives are often multi-team collaborative efforts with a complexity of incentives and power-dynamics. 
@@ -59,7 +59,6 @@ In the recidivism example above, these entities are not the same. Although this 
 
 > "User-centered design" and other approaches in a _product mindset_ must be applied carefully or rebuilt entirely in such contexts. 
 
-
 ##### Rethinking the role of data
 The purpose or role of data in the project may be fundamentally different
 
@@ -69,8 +68,6 @@ Data sources must be treated as imperfect representations of reality
 ##### Funding, sustainability, and the project lifecycle
 Have different funding and sustainability models than we see in the private and public sectors.
 
+--- 
 
-With these 
-[Unique Challenges](challenges.md)
-[Opportunities and Aspirations](opportunities.md)
-[Building Capacity](building_capacity.md)
+Together, these kinds of differences present [opportunities](opportunities.md) and [challenges](challenges.md) for the use of data that are unique to the sector, not often seen in profit-motivated corporations, private ventures, or government offices. These present good reason to reconsider appropriating approaches and tools from other contexts, and to assume that they will be just as successful here.Instead, civil society must address these needs by [building internal capacity](building_capacity.md) for data initiatives. 
