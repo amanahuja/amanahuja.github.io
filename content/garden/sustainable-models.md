@@ -26,3 +26,5 @@ Some of the reasons a data initiative may not sustain for its intended duration 
 There are good reasons for an initiative to shut down, of course. It may have achieved its stated purpose. Or it may be unsuccessful due to an incorrect theory of change, or have become irrelevant. Whatever the cause, there are important considerations at the end of a data initiative [lifecycle](healthy-life-cycles.md).
 
 **Resilience**
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
