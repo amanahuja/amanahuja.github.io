@@ -1,7 +1,7 @@
 ---
 title: What's different about civil society data initiatives?
 author: Aman
-date: 2022-02-24
+date: 2022-02-02
 draft: false
 ---
 
