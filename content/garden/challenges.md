@@ -1,15 +1,14 @@
 ---
-title: "Unique Challenges"
+title: "Challenges"
 date: 2022-02-15
 tags:
 - draft
 draft: false
 ---
 
-## Challenges faced by Civil Society data initiatives
+*There are many challenges faced by civil society and its institutions. This discussion highlights just a few of those issues and focuses specifically on challenges to the responsible and effective use of data in the sector.*
 
-When we speak of building capacity in the sector, we refer to strengthening the institutions, approaches, and methods by which these data initiatives might be more successful, less harmful, and provide sustained and meaningful benefit to society. We speak of addressing risks like prosecution of journalists, currupt funding, and misinformation in civil discourse. We speak of the role, a leading role or a supporting role, that data might play in the way we tackle the great problems of our time, such as the rise of authoritarianism and climate change. 
-
+#### Challenges faced by Civil Society data initiatives
 
 In the social sector, there is a higher bar for success, not a lower one. There is a greater need for fairness, accountability and transparency than in other sectors. The cost of failure is higher, and incrementalism can be more damaging than beneficial. 
 
@@ -24,4 +23,18 @@ Journalism, media
 
 advocacy and activism
 * threat models
+
+Sustainability means, of course, financial sustainability, but also many other factors that determine the ability of an data initiative to remain successful and continue to provide value or deliver impact, for the intended duration. 
+
+Many projects are designed as experimental, or short term by nature, requiring an initial infusion of resources for a pre-determined duration, usually 3 years or less. In fact, most efforts are intentionally designed in this way. This is sometimes appropriate, and can help launch and derisk new approaches. But having this be a default mode of operation and intention leads to many problems for civil society as a whole.
+
+Some of the reasons a data initiative may not sustain for its intended duration are: 
+* **Funding runs out**, and the team is unable to secure new funding. 
+* **Team members leave the project**. This type of instability can be caused by lack of career options for the team, poor or insufficient leadership, or simply because students graduate. Bus factor risk can exacerbate the impact of team turnover.
+* **Leaders lose interest**. Inventive structures and motivation are skewed towards innovation and building, especially for leaders in academic institutions. Many leaders aren't interested or well-suited to managing teams, sustaining operations. 
+* **Takeover**: The organization or project is absorbed, usually by a funder or sponsor. This can be subtle, as when board seats are captured to redirect resources. 
+* The **absence or instability of legal structure** can be the downfall of initiatives. For example, when the initiative has no clear owner, or when there are problems in attaining desired legal status and fiscal sponsorship.
+
+There are good reasons for an initiative to shut down, of course. It may have achieved its stated purpose. Or it may be unsuccessful due to an incorrect theory of change, or have become irrelevant. Whatever the cause, there are important considerations at the end of a data initiative [lifecycle](healthy-life-cycles.md).
+
 

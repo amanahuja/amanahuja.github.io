@@ -16,8 +16,8 @@ At the center of this section are the [Six Pillars](pillars-of-capacity.md) that
   title="Outline sketch of content"
   caption="Simplified sketch of the content in this section." >}}
 
-I
+On each page I will provide the key ideas, examples to help illustrate the concepts, and references to further reading on the topic.
 
-This area is experimental and a work in progress. Feedback on form or content is very welcome, as are direct contributions, which can be made through the [github repo](https://github.com/amanahuja/amanahuja.github.io/tree/main/content/garden).
+Lost? A great place to start is ["Why is civil society important?"](why-is-civil-society-important.md).
 
-Tip: Try navigating using the interactive graph below. A great place to start is ["Why is civil society important?"](why-is-civil-society-important.md).
+*This area is experimental and a work in progress. Feedback on form or content is very welcome, as are direct contributions, which can be made through the [github repo](https://github.com/amanahuja/amanahuja.github.io/tree/main/content/garden).*

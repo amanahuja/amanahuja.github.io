@@ -6,13 +6,14 @@ tags:
 draft: false
 ---
 
-## Building Capacity
+When we speak of building capacity in the sector, we refer to **strengthening** the institutions, approaches, and methods by which these data initiatives might be more successful, less harmful, and provide sustained and meaningful benefit to society. We speak of **addressing risks** like the persecution of journalists, currupt funding, and misinformation in civil discourse. We speak of advancing and **enabling the role of data**, a leading role or a supporting role, in tackle the great problems of our time, such as the rise of authoritarianism and climate change. 
 
-Capacity for effective and responsible data products in civil society. 
+This capacity must be built not only at singular organizations, but collectively and systemically throughout civil society and in partnerships with the public and private sector. 
 
-Core mission for Fenris. 
+{{< pullquote >}}
+Building such capacity is a great endeavor. It requires structural solutions and rethinking fundamental instititions and ecosystems at the heart of civil society. 
+{{< /pullquote >}}
 
+Developing and advancing this vision, for building capacity in the civil society for the effective and responsible use of data, is a core objective for Fenris. 
 
-How do we do it? 
-[Pillars of Capacity](pillars-of-capacity.md)
-
+How do we do it? Through the [Six Pillars](pillars-of-capacity.md).
