@@ -20,3 +20,5 @@ There are six pillars into which we can organize the work of [building capacity]
 5. [Digital Infrastructure](digital-infrastructure.md)
 6. [Empowered Leaders](empowered-leaders.md)
 
+To improve outcomes for data product initiatives, civil society must not just meet standards set by the private sector, it will have to surpass them. It will need to find solutions that bolster instead of compromise its [values and principles](values.md). The differences that [make the sector unique](whats-different-about-civil-society-data-initiatives.md) will be leveraged as strengths rather than weaknesses. 
+

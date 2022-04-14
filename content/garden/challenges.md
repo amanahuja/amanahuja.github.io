@@ -8,33 +8,40 @@ draft: false
 
 *There are many challenges faced by civil society and its institutions. This discussion highlights just a few of those issues and focuses specifically on challenges to the responsible and effective use of data in the sector.*
 
-#### Challenges faced by Civil Society data initiatives
+In the social sector, there is a higher bar for success than there is in other sectors. There is a greater need for fairness, accountability and transparency when working with vulnerable populations, in social services, and in domains such as criminal justice. The cost of failure is higher, and incrementalism can be more damaging than beneficial. 
 
-In the social sector, there is a higher bar for success, not a lower one. There is a greater need for fairness, accountability and transparency than in other sectors. The cost of failure is higher, and incrementalism can be more damaging than beneficial. 
+{{% inset %}}
+When I was chapter leader at DataKindSF, we would often get inquiries from local universities and schools; they were looking for "social good" projects through which students could practice basic skills. They hoped to use engagements with local nonprofits and charities as a way of showing real world experience on resumes, typically when applying for jobs at "real" companies. 
 
+While I sought ways to support good intentions and opportunities for exposure, I also saw this as frustratingly backwards. For profit jobs, in most cases, are simpler, more compartmentalized, and come with structure, training and mentoring opportunities. They utilize data that are more trustworthy and more complete, and apply them in problem spaces that have simple causal chains that are easy to understand.
 
-To improve outcomes for these types of data product initiatives, civil society must not just meet standards set by the private sector, it will have to surpass them. 
+Perhaps, instead, we should see an internship at a for-profit corporation as a way to learn basic skills in preparation for a job at a non profit? 
+{{% /inset %}}
 
-Academia
-* see dpcs notes
-
-Journalism, media
-* monetization
-
-advocacy and activism
-* threat models
-
-Sustainability means, of course, financial sustainability, but also many other factors that determine the ability of an data initiative to remain successful and continue to provide value or deliver impact, for the intended duration. 
-
-Many projects are designed as experimental, or short term by nature, requiring an initial infusion of resources for a pre-determined duration, usually 3 years or less. In fact, most efforts are intentionally designed in this way. This is sometimes appropriate, and can help launch and derisk new approaches. But having this be a default mode of operation and intention leads to many problems for civil society as a whole.
-
-Some of the reasons a data initiative may not sustain for its intended duration are: 
+Challenges and issues that may cause a data initiative to fail: 
 * **Funding runs out**, and the team is unable to secure new funding. 
 * **Team members leave the project**. This type of instability can be caused by lack of career options for the team, poor or insufficient leadership, or simply because students graduate. Bus factor risk can exacerbate the impact of team turnover.
 * **Leaders lose interest**. Inventive structures and motivation are skewed towards innovation and building, especially for leaders in academic institutions. Many leaders aren't interested or well-suited to managing teams, sustaining operations. 
 * **Takeover**: The organization or project is absorbed, usually by a funder or sponsor. This can be subtle, as when board seats are captured to redirect resources. 
 * The **absence or instability of legal structure** can be the downfall of initiatives. For example, when the initiative has no clear owner, or when there are problems in attaining desired legal status and fiscal sponsorship.
 
-There are good reasons for an initiative to shut down, of course. It may have achieved its stated purpose. Or it may be unsuccessful due to an incorrect theory of change, or have become irrelevant. Whatever the cause, there are important considerations at the end of a data initiative [lifecycle](healthy-life-cycles.md).
+I'm intentionally and dangerously grouping under the term "civil society" a plurality of organizations and initiatives that are completely different from each other, and that face very different challenges. 
 
+**For example...**
 
+Data tools in academic contexts and universities: 
+* Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
+* see notes on DPCS, CMA, routes. 
+
+Data system used by journalists, activists and for civil discource: 
+* Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
+* threat models
+* monetization
+
+Data products created by non profits and NGOs: 
+* Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
+* 
+
+**Meeting the challenge**
+
+In [building sector capacity](building_capacity.md) in the sector, these are the types of challenges we can and must address. 
