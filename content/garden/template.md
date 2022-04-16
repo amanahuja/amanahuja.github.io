@@ -28,6 +28,6 @@ an image
   title="title"
   caption="caption" >}}
 
-References and recommended reading: 
+**References and recommended reading**
 * Include this section 
 * author, ["link"](https://gofenris.com) (2000). 
