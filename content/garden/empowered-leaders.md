@@ -6,10 +6,6 @@ tags:
 draft: false
 ---
 
-{{% inset %}}
-Leadership is one of the DPCS Pillars. [(Pillars).](pillars-of-capacity.md)
-{{% /inset %}}
-
 As civil society moves to increasingly data-centric and data-driven modes of doing work and making change, we face new challenges in stewarding and governing the assets that underlie and power those efforts.
 
 New types of leaders are emerging to meet these challenges, but few resources are available to inform governance, stewardship and long-term responsible leadership in data-centric missions and ventures.
