@@ -6,8 +6,6 @@ tags:
 draft: false
 ---
 
-## Governance Frameworks
-
 To address governance issues for a specific data initiative we need to understand: 
 * The policy landscape as it relates to the initiative.
 * The regulatory environment
