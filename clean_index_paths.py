@@ -28,6 +28,9 @@ import json
 datadir = 'static'
 quartz_content_dir = 'content/garden/' # this is currently hardcoded
 
+# blacklist of paths to ignore
+blacklist = ['template', ] 
+
 """
 Helper Functions
 """
@@ -43,7 +46,11 @@ def add_prefix(s):
 def smart_prefix(path):
     """Checks head of path, calls add_prefix or returns False"""
     ss = path.rstrip('/')
-    
+  
+    # ignore list
+    if any(badhat in ss for badhat in blacklist):
+        return False
+
     head, tail = os.path.split(ss)
     if head == '/': 
         return add_prefix(tail)
