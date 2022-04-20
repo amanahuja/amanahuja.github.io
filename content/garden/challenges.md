@@ -27,13 +27,19 @@ Challenges and issues that may cause a data initiative to fail:
 
 I'm intentionally and dangerously grouping under the term "civil society" a plurality of organizations and initiatives that are completely different from each other, and that face very different challenges. 
 
-**For example...**
+### For example...
 
-Data tools in academic contexts and universities: 
-* Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
-* see notes on DPCS, CMA, routes. 
+**Data tools in academic contexts and universities.**
+Many tools to address social, climate and environmental challenges are created by academic teams. These teams have strong domain knowledge, understanding of the relevant datasets and models, and their work is connected with other research teams through networks and peer review. They are innovative and constantly breaking new conceptual ground. 
 
-Data system used by journalists, activists and for civil discource: 
+However, most such teams:
+* Lack proficiencies to translate proven ideas into effective tools and products, skills like user-centred design and software development. To make these tools sustainable, they need experience in developing organizational structure, business strategy, and team building.
+* Are not incentivized to acquire such skills. They are often strongly hierarchical teams, with leaders that are motivated by novel work, peer recognition and publishing research. While many teams strive to develop tools with real and lasting impact, they are still constrained by these incentive structures in early phases and often even after they spin-out into independent organizations. 
+
+Some of the ways in which we can improve success rate of data products in these contexts is through more informed grant-making, "innovation lab" programs that specialize in civil society data products, expanding career opportunities for students and post-docs, and by expanding the scope of on-campus support like the tech transfer office. 
+
+**Data systems for journalists, activists and for civil discource**
+
 * Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
 * threat models
 * monetization
@@ -42,6 +48,14 @@ Data products created by non profits and NGOs:
 * Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
 * 
 
-**Meeting the challenge**
+### Ethical issues in data systems
+When chased blindly and without understanding, data technologies have been shown to be deeply problematic. They can reinforce power imbalances, exacerbate biases and fallacies in assessing value, and they may make invalid assumptions, especially in socially complex domains. Over time, they can make permanent and opaque societal and racial prejudice. 
+
+There are many organizations doing great work in understanding and highlighting these issues, such as [Data & Society](https://datasociety.net/) and [Data for Black Lives](https://d4bl.org/). In addition to the resources at those websites, notable resources include: 
+* "Algorithms of oppression" by Safiya Noble. (Book).  
+* “Digital democracy, analogue politics” by Nanjala Nyabola. (Book).
+* [What Algorithmic Injustice Looks Like in Real Life](https://www.propublica.org/article/what-algorithmic-injustice-looks-like-in-real-life),  ProPublica, May 24, 2016. A well written article highlighting these issues in criminal justice. 
+
+### Meeting these challenges
 
 In [building sector capacity](building_capacity.md) in the sector, these are the types of challenges we can and must address. 
