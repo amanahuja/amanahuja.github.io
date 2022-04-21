@@ -22,3 +22,4 @@ There are six pillars into which we can organize the work of [building capacity]
 
 To improve outcomes for data product initiatives, civil society must not just meet standards set by the private sector, it will have to surpass them. It will need to find solutions that bolster instead of compromise its [values and principles](values.md). The differences that [make the sector unique](whats-different-about-civil-society-data-initiatives.md) will be leveraged as strengths rather than weaknesses. 
 
+I see these Six Pillars of Building Capacity as "connective tissue" rather than a theory of change. I don't intend to propose through these pillars a lever for change or intention, but instead ideas that are woven throughout the work that I do. 
