@@ -27,9 +27,9 @@ Challenges and issues that may cause a data initiative to fail:
 
 I'm intentionally and dangerously grouping under the term "civil society" a plurality of organizations and initiatives that are completely different from each other, and that face very different challenges. 
 
-### For example...
+### For example
 
-**Data tools in academic contexts and universities.**
+**Data tools in academic contexts and universities**
 Many tools to address social, climate and environmental challenges are created by academic teams. These teams have strong domain knowledge, understanding of the relevant datasets and models, and their work is connected with other research teams through networks and peer review. They are innovative and constantly breaking new conceptual ground. 
 
 However, most such teams:
@@ -39,15 +39,13 @@ However, most such teams:
 
 Some of the ways in which we can improve success rate of data products in these contexts is through more informed grant-making, "innovation lab" programs that specialize in civil society data products, expanding career opportunities for students and post-docs, and by expanding the scope of on-campus support like the tech transfer office. 
 
-**Data systems for journalists, activists and for civil discource**
+**Data systems for journalists, activists and for civil discourse**
+There is increasing awareness of issues in this space, due to work by Edward Snowden and the Freedom of the Press Foundation, and global movements like Black Lives Matter and the Arab Spring. These highlight the ways in which digital technologies intersect with protest and free democratic voice, and underscore the nature of the threat models for these actions. These conditions highlight the need for independent and trustworthy technical infrastructure for civil society data tools ([Pillar Three](digital-infrastructure.md). 
 
-* Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
-* threat models
-* monetization
-
-Data products created by non profits and NGOs: 
-* Lorem ipsum dolor sit amet, consetetur sadipscing elitrm
-* 
+Journalists are also creating new types of data products. Consider
+* The COVID Tracking Project, which emerged as an independent and vital source of information about the pandemic at a time when the CDC and other government institutions were unable to lead and when public trust in them was low. Started by reporters at The Atlantic and run largely by volunteers, this was a quintessential civil society effort until the Biden administration was able to transition. CTP helped create standards, provided recommendations, and provided data at a time when COVID dashboards were viewed by the public more often than the weather. 
+* The emergence of data journalism. About much more than building interactive visualizations, this growth represents the role that data is playing in political conversations and in guiding public opinion. 
+* Journalists and activists are driving the generation of new datasets to increase transparency, awareness and direct action; data about infrastructure and water supply, energy sources, carbon emissions, climate impact, property evictions, and more. 
 
 ### Ethical issues in data systems
 When chased blindly and without understanding, data technologies have been shown to be deeply problematic. They can reinforce power imbalances, exacerbate biases and fallacies in assessing value, and they may make invalid assumptions, especially in socially complex domains. Over time, they can make permanent and opaque societal and racial prejudice. 
@@ -60,3 +58,4 @@ There are many organizations doing great work in understanding and highlighting 
 ### Meeting these challenges
 
 In [building sector capacity](building_capacity.md) in the sector, these are the types of challenges we can and must address. 
+
