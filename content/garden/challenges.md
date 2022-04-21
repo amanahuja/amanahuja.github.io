@@ -33,8 +33,9 @@ I'm intentionally and dangerously grouping under the term "civil society" a plur
 Many tools to address social, climate and environmental challenges are created by academic teams. These teams have strong domain knowledge, understanding of the relevant datasets and models, and their work is connected with other research teams through networks and peer review. They are innovative and constantly breaking new conceptual ground. 
 
 However, most such teams:
-* Lack proficiencies to translate proven ideas into effective tools and products, skills like user-centred design and software development. To make these tools sustainable, they need experience in developing organizational structure, business strategy, and team building.
+* Lack proficiencies to translate proven ideas into effective tools and products, skills like user-centered design and software development. To make these tools sustainable, they need experience in developing organizational structure, business strategy, and team building.
 * Are not incentivized to acquire such skills. They are often strongly hierarchical teams, with leaders that are motivated by novel work, peer recognition and publishing research. While many teams strive to develop tools with real and lasting impact, they are still constrained by these incentive structures in early phases and often even after they spin-out into independent organizations. 
+* Put in terms of life cycle of risks academic teams tend to focus first on technical risk, and secondarily on impact risk, and few of them are equipped to think about adoption risk and scale risk. 
 
 Some of the ways in which we can improve success rate of data products in these contexts is through more informed grant-making, "innovation lab" programs that specialize in civil society data products, expanding career opportunities for students and post-docs, and by expanding the scope of on-campus support like the tech transfer office. 
 
