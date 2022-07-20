@@ -16,7 +16,9 @@ categories:
 layout: single-sidebar
 draft: false
 ---
-I worked with the Electricity Growth and Use in Developing Economies (e-GUIDE) Initiative to help set objectives, design an approach and implement a first version of their public-facing API.
+Aman worked with the Electricity Growth and Use in Developing Economies (e-GUIDE) Initiative to help set objectives, design an approach and implement a first version of their public-facing API.
+
+The Fenris engagement helped center the team’s collaborations and Initiative partnerships. Following best practices for user-centered API design, we helped the team challenge their own assumptions about the value and utility of the consumption prediction models. Aman also provided technical mentorship and collaboration with the engineering lead. 
 
 ### About the organization
 

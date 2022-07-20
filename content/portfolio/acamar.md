@@ -18,7 +18,7 @@ layout: single-sidebar
 draft: false
 ---
 
-The Guild worked with one of the largest pharmaceutical companies in the world to develop a new approach to data sharing in clinical research.  The immediate objective was to decrease the time and increase the efficiency of clinical trials, and design principles centered openness, transparency, and improved outcomes for patients. 
+The Guild worked with one of the largest pharmaceutical companies in the world to develop a new approach to data sharing in clinical research. The immediate objective was to decrease the time and increase the efficiency of clinical trials. We developed design principles that centered openness, transparency, and improved outcomes for patients. 
 
 The approach centered an open technical platform with independent governance to guarantee the compliance, quality, and interoperability of software offerings in clinical trials. By working at the center of clinical data systems and their partners, the Guild identified a range of new data- and AI-enabled clinical research capabilities.
 
