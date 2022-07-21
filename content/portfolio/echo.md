@@ -31,4 +31,4 @@ Fenris collaborated with Project ECHO team on a needs assessment, data strategy 
 **Project ECHO** - https://hsc.unm.edu/echo/
 > The ECHO model was developed at the University of New Mexico and builds local communities around the world through a scalable learning framework.
 
-This project was funded and supported by [DataKind](http://www.datakind.org) and Rockefeller Foundation (RF). 
+This project was funded and supported by [DataKind](http://www.datakind.org) and Rockefeller Foundation (RF). One-pager was developed with Kamini Iyer.

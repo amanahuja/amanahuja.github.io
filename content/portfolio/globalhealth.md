@@ -1,8 +1,8 @@
 ---
-title: "Data product strategy ands support for Global.health"
+title: "Data product strategy and support for Global.health"
 subtitle: ""
 excerpt: >
-  Fenris worked with Global.health leadership team to help align product development with long-term strategic objectives and on delivering value for the sector. 
+  Fenris worked with the Global.health leadership team to help align product development with long-term strategic objectives and to deliver value for the sector. 
 date: 2022-01-01
 author: Aman Ahuja
 images:
@@ -18,7 +18,7 @@ layout: single-sidebar
 draft: false
 ---
 
-Fenris worked with Global.health leadership team to help align product development with long-term strategic objectives and on delivering value for the sector. 
+Fenris worked with the Global.health leadership team to help align product development with long-term strategic objectives and to deliver value for the sector. 
 
 Our team helped G.h leaders refine a vision through a series of workshops. With the product team, we co-developed programs and objectives that were consistent with this vision and with constraints. Inviting input from advisors and stakeholders, a *strategic product roadmap* with a three-year horizon was drafted for G.h, and aligned with funding opportunities.
 
