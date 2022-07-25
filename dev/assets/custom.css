@@ -1,0 +1,35 @@
+
+/*
+  Additional colors added by AA 
+  prefix `fa-`
+  --fa-red:  #fb4b4b;
+  --fa-red-lighter:  #ff8077;
+  --fa-red-darker:  #c10023;
+  --fa-blue:  #043454;
+  --fa-blue-lighter:  #3b5d81;
+  --fa-blue-darker:  #000d2b;
+  --fa-dark-gray:  #526471;
+  --fa-mid-gray:  #e1e2e1;
+  --fa-light-gray:  #f5f5f6;
+*/
+
+.fa-red { color: #fb4b4b; }
+.fa-red-l { color: #ff8077; }
+.fa-red-d { color: #c10023; }
+.fa-blue { color: #043454; }
+.fa-blue-l { color: #3b5d81; }
+.fa-blue-d { color: #000d2b; }
+.fa-dark-gray { color:  #526471; }
+.fa-mid-gray { color:  #e1e2e1; }
+.fa-light-gray { color:  #f5f5f6; }
+.fa-black-d { color: rgba(0,0,0,0.85); }
+.fa-black-l { color: rgba(0,0,0,0.50); }
+
+.bg-fa-red { background-color: #fb4b4b; }
+.bg-fa-red-l { background-color: #ff8077; }
+.bg-fa-red-d { background-color: #c10023; }
+.bg-fa-dark-gray { background-color: #526471; }
+.bg-fa-light-gray { background-color: #f5f5f6; }
+.bg-fa-blue { background-color: #043454; } 
+.bg-fa-blue-l { background-color: #3b5d81; }
+.bg-fa-blue-d { background-color: #000d2b; }

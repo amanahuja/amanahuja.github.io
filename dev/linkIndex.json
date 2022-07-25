@@ -1,0 +1,482 @@
+{
+  "index": {
+    "links": {
+      "/garden/building_capacity": [
+        {
+          "source": "/building_capacity",
+          "target": "/pillars-of-capacity",
+          "text": "Six Pillars"
+        }
+      ],
+      "/garden/challenges": [
+        {
+          "source": "/challenges",
+          "target": "/building_capacity",
+          "text": "building sector capacity"
+        }
+      ],
+      "/garden/ecosystem-network": [
+        {
+          "source": "/ecosystem-network",
+          "target": "/pillars-of-capacity",
+          "text": "Six Pillars"
+        },
+        {
+          "source": "/ecosystem-network",
+          "target": "/scaffolding-orgs",
+          "text": "Scaffolding Orgs"
+        }
+      ],
+      "/garden/empowered-leaders": [
+        {
+          "source": "/empowered-leaders",
+          "target": "/pillars-of-capacity",
+          "text": "(Pillars)."
+        }
+      ],
+      "/garden/opportunities": [
+        {
+          "source": "/opportunities",
+          "target": "/challenges",
+          "text": "challenges"
+        }
+      ],
+      "/garden/pillars-of-capacity": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/opportunities",
+          "text": "opportunities"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/challenges",
+          "text": "challenges"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/building_capacity",
+          "text": "building capacity"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/healthy-life-cycles",
+          "text": "Healthy Life-cycles"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/sustainable-models",
+          "text": "Sustainable Models"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/governance",
+          "text": "Governance"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/ecosystem-network",
+          "text": "Ecosystem / Network"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/digital-infrastructure",
+          "text": "Digital Infrastructure"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/empowered-leaders",
+          "text": "Empowered Leaders"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/values",
+          "text": "values and principles"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/whats-different-about-civil-society-data-initiatives",
+          "text": "make the sector unique"
+        }
+      ],
+      "/garden/sustainable-models": [
+        {
+          "source": "/sustainable-models",
+          "target": "/healthy-life-cycles",
+          "text": "lifecycle"
+        }
+      ],
+      "/garden/whats-different-about-civil-society-data-initiatives": [
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/why-is-civil-society-important",
+          "text": "the use of data in civil society"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/opportunities",
+          "text": "ideas and opportunities"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/portfolio/recidivism-data-sharing/",
+          "text": "US county that we worked with"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/opportunities",
+          "text": "opportunities"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/challenges",
+          "text": "challenges"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/building_capacity",
+          "text": "building internal capacity"
+        }
+      ],
+      "/garden/why-is-civil-society-important": [
+        {
+          "source": "/why-is-civil-society-important",
+          "target": "/opportunities",
+          "text": "opportunities"
+        },
+        {
+          "source": "/why-is-civil-society-important",
+          "target": "/whats-different-about-civil-society-data-initiatives",
+          "text": "So what's different about civil society data initiatives?"
+        }
+      ]
+    },
+    "backlinks": {
+      "/garden/building_capacity": [
+        {
+          "source": "/challenges",
+          "target": "/building_capacity",
+          "text": "building sector capacity"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/building_capacity",
+          "text": "building capacity"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/building_capacity",
+          "text": "building internal capacity"
+        }
+      ],
+      "/garden/challenges": [
+        {
+          "source": "/",
+          "target": "/challenges",
+          "text": "challenges faced"
+        },
+        {
+          "source": "/opportunities",
+          "target": "/challenges",
+          "text": "challenges"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/challenges",
+          "text": "challenges"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/challenges",
+          "text": "challenges"
+        }
+      ],
+      "/garden/desired_future_state": [
+        {
+          "source": "/",
+          "target": "/desired_future_state",
+          "text": "desired future"
+        }
+      ],
+      "/garden/digital-infrastructure": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/digital-infrastructure",
+          "text": "Digital Infrastructure"
+        }
+      ],
+      "/garden/ecosystem-network": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/ecosystem-network",
+          "text": "Ecosystem / Network"
+        }
+      ],
+      "/garden/empowered-leaders": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/empowered-leaders",
+          "text": "Empowered Leaders"
+        }
+      ],
+      "/garden/filename": [
+        {
+          "source": "/template",
+          "target": "/filename",
+          "text": "to this page"
+        }
+      ],
+      "/garden/governance": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/governance",
+          "text": "Governance"
+        }
+      ],
+      "/garden/healthy-life-cycles": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/healthy-life-cycles",
+          "text": "Healthy Life-cycles"
+        },
+        {
+          "source": "/sustainable-models",
+          "target": "/healthy-life-cycles",
+          "text": "lifecycle"
+        }
+      ],
+      "/garden/opportunities": [
+        {
+          "source": "/",
+          "target": "/opportunities",
+          "text": "opportunities before us"
+        },
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/opportunities",
+          "text": "opportunities"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/opportunities",
+          "text": "ideas and opportunities"
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/opportunities",
+          "text": "opportunities"
+        },
+        {
+          "source": "/why-is-civil-society-important",
+          "target": "/opportunities",
+          "text": "opportunities"
+        }
+      ],
+      "/garden/pillars-of-capacity": [
+        {
+          "source": "/",
+          "target": "/pillars-of-capacity",
+          "text": "Six Pillars"
+        },
+        {
+          "source": "/building_capacity",
+          "target": "/pillars-of-capacity",
+          "text": "Six Pillars"
+        },
+        {
+          "source": "/ecosystem-network",
+          "target": "/pillars-of-capacity",
+          "text": "Six Pillars"
+        },
+        {
+          "source": "/empowered-leaders",
+          "target": "/pillars-of-capacity",
+          "text": "(Pillars)."
+        }
+      ],
+      "/garden/principles": [
+        {
+          "source": "/",
+          "target": "/principles",
+          "text": "principles"
+        }
+      ],
+      "/garden/scaffolding-orgs": [
+        {
+          "source": "/ecosystem-network",
+          "target": "/scaffolding-orgs",
+          "text": "Scaffolding Orgs"
+        }
+      ],
+      "/garden/sustainable-models": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/sustainable-models",
+          "text": "Sustainable Models"
+        }
+      ],
+      "/garden/values": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/values",
+          "text": "values and principles"
+        }
+      ],
+      "/garden/whats-different-about-civil-society-data-initiatives": [
+        {
+          "source": "/pillars-of-capacity",
+          "target": "/whats-different-about-civil-society-data-initiatives",
+          "text": "make the sector unique"
+        },
+        {
+          "source": "/why-is-civil-society-important",
+          "target": "/whats-different-about-civil-society-data-initiatives",
+          "text": "So what's different about civil society data initiatives?"
+        }
+      ],
+      "/garden/why-is-civil-society-important": [
+        {
+          "source": "/",
+          "target": "/why-is-civil-society-important",
+          "text": "civil society"
+        },
+        {
+          "source": "/",
+          "target": "/why-is-civil-society-important",
+          "text": "\"Why is civil society important?\""
+        },
+        {
+          "source": "/whats-different-about-civil-society-data-initiatives",
+          "target": "/why-is-civil-society-important",
+          "text": "the use of data in civil society"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/garden/building_capacity",
+      "target": "/garden/pillars-of-capacity",
+      "text": "Six Pillars"
+    },
+    {
+      "source": "/garden/challenges",
+      "target": "/garden/building_capacity",
+      "text": "building sector capacity"
+    },
+    {
+      "source": "/garden/ecosystem-network",
+      "target": "/garden/pillars-of-capacity",
+      "text": "Six Pillars"
+    },
+    {
+      "source": "/garden/ecosystem-network",
+      "target": "/garden/scaffolding-orgs",
+      "text": "Scaffolding Orgs"
+    },
+    {
+      "source": "/garden/empowered-leaders",
+      "target": "/garden/pillars-of-capacity",
+      "text": "(Pillars)."
+    },
+    {
+      "source": "/garden/opportunities",
+      "target": "/garden/challenges",
+      "text": "challenges"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/opportunities",
+      "text": "opportunities"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/challenges",
+      "text": "challenges"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/building_capacity",
+      "text": "building capacity"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/healthy-life-cycles",
+      "text": "Healthy Life-cycles"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/sustainable-models",
+      "text": "Sustainable Models"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/governance",
+      "text": "Governance"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/ecosystem-network",
+      "text": "Ecosystem / Network"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/digital-infrastructure",
+      "text": "Digital Infrastructure"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/empowered-leaders",
+      "text": "Empowered Leaders"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/values",
+      "text": "values and principles"
+    },
+    {
+      "source": "/garden/pillars-of-capacity",
+      "target": "/garden/whats-different-about-civil-society-data-initiatives",
+      "text": "make the sector unique"
+    },
+    {
+      "source": "/garden/sustainable-models",
+      "target": "/garden/healthy-life-cycles",
+      "text": "lifecycle"
+    },
+    {
+      "source": "/garden/whats-different-about-civil-society-data-initiatives",
+      "target": "/garden/why-is-civil-society-important",
+      "text": "the use of data in civil society"
+    },
+    {
+      "source": "/garden/whats-different-about-civil-society-data-initiatives",
+      "target": "/garden/opportunities",
+      "text": "ideas and opportunities"
+    },
+    {
+      "source": "/garden/whats-different-about-civil-society-data-initiatives",
+      "target": "/garden/opportunities",
+      "text": "opportunities"
+    },
+    {
+      "source": "/garden/whats-different-about-civil-society-data-initiatives",
+      "target": "/garden/challenges",
+      "text": "challenges"
+    },
+    {
+      "source": "/garden/whats-different-about-civil-society-data-initiatives",
+      "target": "/garden/building_capacity",
+      "text": "building internal capacity"
+    },
+    {
+      "source": "/garden/why-is-civil-society-important",
+      "target": "/garden/opportunities",
+      "text": "opportunities"
+    },
+    {
+      "source": "/garden/why-is-civil-society-important",
+      "target": "/garden/whats-different-about-civil-society-data-initiatives",
+      "text": "So what's different about civil society data initiatives?"
+    }
+  ]
+}
