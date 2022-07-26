@@ -13,7 +13,9 @@ googleAnalytics = "UA-30448018-1"
 enableRobotsTXT = true
 
 ignoreFiles = [
-  #"/content/garden/_ind*"
+    "/content/templates/*",
+    "/content/private/*",
+    #"/content/garden/_ind*"
 ]
 
 [params]
@@ -100,10 +102,24 @@ ignoreFiles = [
   filename = "sitemap.xml"
 
 [markup]
-  [markup.goldmark]
+    [markup.tableOfContents]
+        endLevel = 3
+        ordered = true
+        startLevel = 2
+    [markup.highlight]
+	# style = "solarized-light"
+        noClasses = false
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = true
+        hl_Lines = ""
+        lineAnchors = ""
+        lineNoStart = 1
+        lineNos = true
+        lineNumbersInTable = true
+        style = "dracula"
+    [frontmatter]
+        lastmod = ["lastmod", ":git", "date", "publishDate"]
+        publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
-      unsafe=true
-
-#   [markup.highlight]
-#     style = "solarized-light"
-     
+        unsafe = true

@@ -25,7 +25,8 @@ import os
 import json
 
 ### Set option
-datadir = 'static'
+# datadir = 'static'
+datadir = os.path.join('assets', 'indices')
 quartz_content_dir = 'content/garden/' # this is currently hardcoded
 
 # blacklist of paths to ignore

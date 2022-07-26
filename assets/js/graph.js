@@ -1,5 +1,5 @@
 async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
-	//
+
   // functions to handle prefixes
   const prefixWithGarden = s => s.startsWith("/garden") ? s : `/garden${s}`
   const prefixObjectKeys = obj => {
@@ -11,7 +11,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     [newProp]: old,
     ...others
   })
-
 
   let {
   depth,
@@ -36,7 +35,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   index.links = prefixObjectKeys(index.links)
   links = links.map(l => ({...l, source: prefixWithGarden(l.source), target: prefixWithGarden(l.target)}))
   content = prefixObjectKeys(content)
-
 
   const parseIdsFromLinks = (links) => [
     ...new Set(links.flatMap((link) => [link.source, link.target])),

@@ -1,7 +1,17 @@
 name: name in garden data config
-enableToc: false
-enableLinkPreview: false
-description: > 
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: false
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: false
+GitHubLink: https://github.com/amanahuja/
+description:
   Description from Garden config data file
 page_title:
   "Page title from Garden config data"
@@ -10,3 +20,4 @@ links:
     link: https://twitter.com/amanqa
   - link_name: Github
     link: https://github.com/amanahuja
+  - link_name: Twitter
