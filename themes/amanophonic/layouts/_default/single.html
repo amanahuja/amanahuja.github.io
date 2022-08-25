@@ -9,19 +9,13 @@
         {{ if .CurrentSection.Params.show_post_date }}<p class="f7 db mv0 ttu">{{ .PublishDate.Format "January 2, 2006" }}</p>{{ end }}
       </header>
       <section class="post-body pt5 pb4">
+        <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
-        {{ .Scratch.Set "details" "closed" }}
-        {{ partial "shared/post-details.html" . }}
+	</div>
       </section>
       <footer class="post-footer">
-        {{ partial "shared/post-pagination.html" . }}
       </footer>
     </article>
-    {{ if .CurrentSection.Params.show_disqus_comments }}
-    <div class="post-comments pa0 pa4-l mt4">
-      {{ template "_internal/disqus.html" . }}
-    </div>
-    {{ end }}
   </section>
 </main>
 {{ end }}
