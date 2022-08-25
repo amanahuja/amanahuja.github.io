@@ -16,6 +16,9 @@ header:
 #     url: /garden/
 
 footer:
+  - name: Privacy
+    title: Privacy Policy
+    url: /privacy-policy
   - name: RSS
     title: RSS Feed
     url: /index.xml
