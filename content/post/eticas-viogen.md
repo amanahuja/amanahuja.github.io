@@ -14,7 +14,7 @@ categories:
 - 
 # layout options: single or single-sidebar
 layout: single
-draft: false
+draft: true
 ---
 
 ## Overview
@@ -29,12 +29,12 @@ The Eticas report calls out many issues and biases with VioGén: that victims mu
 
 Attempting to use algorithms to assess the risk of a repeat offense has precedent, particularly for bail and recidivism, and there is plenty written on the topic. The discussion centers around fairness and racial outcomes, strategies for assessing the performance or accuracy of the algorithm, and how algorithmic approaches compare with human judgement. These are important conversations as the use of such systems increases worldwide. 
 
-
-comments
+Comments
 * What does a low score mean anyway? 
 * 95% do not change the score
 * What are alternatives actually? Procuderal? human - driven? 
 * combination? 
+
 ## Quick Reference
 
 **About the external audit initiative**
@@ -57,14 +57,11 @@ comments
 * Read [the report](https://eticasfoundation.org/es/la-fundacion-eticas-realiza-una-auditoria-externa-e-independiente-del-sistema-viogen/) on the Eticas website. 
 * The audit used quantitative methods (statistical study of data that could be obtained independently) combined with qualitative methods (interviews, research)
 
-
 ### What can we learn about external algorithmic audits from this? 
 
 Why are AIA's important? 
 
 What's going on with AIAs currently? 
-
-
 
 Report offered some learnings Lessons learned about the audit approach and methodology
 * adjust expectations on the avail data
