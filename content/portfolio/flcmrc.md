@@ -22,8 +22,9 @@ In the summer of 2002, betweeen my sophomore and junior years of undergrad, I wo
 
 ### About the organizations
 
+**DisplayTech**
+Displaytech was a startup that spun out of the FLC-MRC. The company specialized in using ferroelectric liquid crystal (FLC) microdisplays. At the time (early 2000s) their technology was impressive in achieving high resolution and very fast switching, and had applications in handheld digital cameras and in rear-projection TVs. The company was located in Longmont, Colorado. 
+
 **FLC-MRC** - URL to Condensed Matter Laboratory
 The Ferroelectric Liquid Crystal Material Research Center (FLC-MRC) was located at the University of Colorado at Boulder. It was part of the Condensed Matter Laboratory in the dept of Physics.
 
-**DisplayTech**
-Displaytech was a startup that spun out of the FLC-MRC. The company specialized in using ferroelectric liquid crystal (FLC) microdisplays. At the time (early 2000s) their technology was impressive in achieving high resolution and very fast switching, and had applications in handheld digital cameras and in rear-projection TVs. The company was located in Longmont, Colorado. 
