@@ -5,7 +5,7 @@ excerpt: "This was an early and formative experience of the relationship between
 date: 2022-08-30
 author: "Aman Ahuja"
 images:
-- 
+- images/posts/flcmrc_01.png
 series:
 - project-learnings
 tags:
@@ -16,6 +16,14 @@ categories:
 layout: single
 draft: false
 ---
+
+
+{{< post-image 
+  src="/images/posts/flcmrc_01.png" 
+  title="title alkdsjfldaskjf"
+  caption="caption alkdsjfldaskjf" >}}
+
+{{ picture images/posts/flcmrc_01.png }} 
 
 [Part of a series of posts [reflecting on past projects](/series/project-learnings/)].
 
