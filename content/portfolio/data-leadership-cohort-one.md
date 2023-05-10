@@ -3,7 +3,7 @@ title: "Data Leadership Cohort"
 excerpt: "The first-ever Data Leadership Cohort is designed to provide an opportunity for emerging data leaders to meet, learn, and build connections with each other as they work through challenges and opportunities in governing data resources, designing data-intensive platforms, and procuring data systems."
 date: 2022-08-02
 author: Aman Ahuja
-slug: "datakind-leadership-cohort"
+slug: "data-leadership-cohort"
 images:
   - /images/peer-learning-ico.png
 tags:
