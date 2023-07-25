@@ -1,8 +1,8 @@
 ---
-title: "Product strategy for development of dengue public health tools"
-subtitle: ""
+title: "Product Support for an International Initiative on Pandemic Prevention"
+subtitle: "Fenris supported team leads and key stakeholders to understand incentives and product design"
 excerpt: >
-  Fenris provided strategic support to the team and product leads, bolstering an initiative to develop computational tools for public health decision making around dengue / arborvirus disease.
+  Supported product leadership and user research to help improve data-driven public health tools related to arbovirus disease affected by climate-change. Worked with teams in the Washington DC, Bangalore, Pune, and Rio de Janeiro.
 date: 2023-01-15
 author: Aman Ahuja
 tags:
@@ -13,27 +13,21 @@ series:
 categories: 
   - "Projects"
 layout: single-sidebar
-draft: true
+draft: false
 ---
 
-### About the Pandemic Prevention Institute
+### About the Initiative
 
+A major initiative with millions of dollars in funding was launched to develop computational tools for public health decisions related to disease pathogens affected by climate change. The host institute developed partnerships around the world, focusing on areas where conditions such as rising temperatures, flooding, and changing habitats are critical factors to disease prevention and response. 
 
-Sr. Advisor to product leads
-* Support leadership in the development of PPI product
-* Focus areas may include: product strategy and vision development, product user engagement plan, implementation roadmaps, and planning integration between PPI tools, including GeoSeeq, internal tools, and those developed by partners and contractors.
-* Meet once a week for 60-90 minutes, additional meetings and work sessions as needed.
-* Provide technical writing and/or comms support, strategic frameworks where requested.
-* Monthly retainer, from September to April, excluding 4 weeks.
+Developing effective tools required collaboration between multiple stakeholders contributing data, hospitals and other providers, academics and epidemiological experts, and as a collaborator-client, local government agencies. 
 
-User Research
-* Develop a research learning agenda in collaboration with product leads (Sam, Leo) and proof of concept team (Jim and TBD).
-* Identify and execute a research plan, which may include focus groups and discussions, one- on-one interviews.
-* Synthesize learnings and prioritize product implications with product leads.
-* Summarize and present outcomes to leadership and product team(s)
+The initial phases of work centered on developing ecosystems in Bangalore, Pune, Rio de Janeiro and Bahia. Data and modeling work looked at dengue & arborvirus disease. 
 
-Persona, requirements definition, and mock-ups
-* Help define product functional requirements from the user perspective
-* Develop key personas for the product vision
-* Propose the critical UX components, including sketched mockups and hero stories, where appropriate
-* Provide related recommendations
+### Fenris support
+
+Fenris provided strategic and product support to the team and product leads. We served as advisors in the development of the product roadmap, user/stakeholder engagement plan, user research, and synthesis of learnings and priorities. 
+
+We worked with several different teams, including technical and modeling teams assembled by the funder / host institute, and in-country experts on public policy and implementation.
+
+Work was executed in two phases over nine months. 
