@@ -1,5 +1,5 @@
 ---
-title: "Product Support for an International Initiative on Pandemic Prevention"
+title: "International Initiative on Pandemic Prevention"
 subtitle: "Fenris supported team leads and key stakeholders to understand incentives and product design"
 excerpt: >
   Supported product leadership and user research to help improve data-driven public health tools related to arbovirus disease affected by climate-change. Worked with teams in the Washington DC, Bangalore, Pune, and Rio de Janeiro.

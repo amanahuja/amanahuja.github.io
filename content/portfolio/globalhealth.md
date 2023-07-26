@@ -1,6 +1,6 @@
 ---
-title: "Data product strategy and support for Global.health"
-subtitle: ""
+title: "Global.health"
+subtitle: "Aligning product development with strategic objectives."
 excerpt: >
   Fenris worked with the Global.health leadership team to help align product development with long-term strategic objectives and to deliver value for the sector. 
 date: 2022-01-01
