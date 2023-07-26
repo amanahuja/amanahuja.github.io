@@ -84,8 +84,9 @@ ignoreFiles = [
   github = "amanahuja"
   linkedin = "amanahuja"
   medium = ""
-  twitter = "amanqa"
+  twitter = ""
   youtube = ""
+  mastodon = "amanqa"
   # no SVG: rss = "index.xml"
 
 [taxonomies]
