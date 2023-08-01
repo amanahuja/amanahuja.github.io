@@ -1,5 +1,5 @@
 ---
-title: "Global Hub for Pandemic Collaboration"
+title: "A digital space for global collaboration on Epidemic and Pandemic Intelligence" 
 subtitle: "Fenris ran a series of six workshops to help team align on vision, objectives, product concept, and a three-year strategic roadmap."
 excerpt: >
   Fenris ran a series of six workshops to help team align on vision, objectives, product concept, and a three-year strategic roadmap.
@@ -20,14 +20,14 @@ draft: false
 
 Our client was a well-resourced and internationally recognized team working
 with governments and major stakeholders around the world to create a digital
-space for collaboration, for the global pandemic intelligence community. 
+space that supports collaboration among the global epidemic intelligence community. 
 
-The project's stated objective was to build
+The project's stated objective was to create
 > "A digital environment where subject experts and the epidemic and pandemic
 > intelligence community converge to communicate, cultivate ideas and
 > co-develop, to rapidly generate and provide community-driven solutions to
 > address existing challenges and needs in the domain of data, analytics, and
-> evidence-based decision-making.
+> evidence-based decision-making."
 
 Through a short in-depth engagement, the Fenris team led a series of six
 workshops with the team to help them align on vision, objectives, product
