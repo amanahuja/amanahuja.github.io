@@ -6,7 +6,7 @@ excerpt: >
 date: 2023-06-01
 author: Aman Ahuja
 images:
-  - None
+  - /images/globe_dots_1.svg
 tags:
   - "civil society"
   - "public health"
