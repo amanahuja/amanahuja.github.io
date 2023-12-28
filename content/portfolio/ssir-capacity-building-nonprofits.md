@@ -9,7 +9,7 @@ images:
   - 
 tags:
   - "nonprofit"
-  - "DPLC"
+  - "civil society"
 series:
   - "Aman"
 categories: 
@@ -17,8 +17,7 @@ categories:
 layout: single-sidebar
 draft: false
 ---
-
-This pandel discussion explored themes of building capacity for advanced data skills at nonprofits, the strategies for scaling such capacity system-wide, and the importance of multiplier organizations in the sector. 
+This panel discussion explored themes of building capacity for advanced data skills at nonprofits, the strategies for scaling such capacity system-wide, and the importance of multiplier organizations in the sector. 
 
 The panel, incorporating experts from diverse sectors, was moderated by Kevin Miller from the Microsoft Cities Team, alongside Kauser Razvi from Strategic Urban Solutions, Kathryn Pettit from The Urban Institute, and Aman Ahuja from Fenris. 
 
