@@ -4,6 +4,8 @@ subtitle: ""
 excerpt: ""
 date: 2018-12-14
 author: Aman Ahuja
+images:
+  - /images/cea_facility_01.png
 slug: "change-this-slug"
 tags:
 series:
