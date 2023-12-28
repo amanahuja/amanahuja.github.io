@@ -6,7 +6,7 @@ excerpt: >
 date: 2019-05-01
 author: Aman Ahuja
 images:
-  - images/panel_02_software.png
+  - images/panel_03_software.png
 tags:
   - "public health"
   - "civil society"
