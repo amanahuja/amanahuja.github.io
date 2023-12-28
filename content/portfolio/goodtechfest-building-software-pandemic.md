@@ -2,11 +2,11 @@
 title: 'Panel: "Building Software in a Pandemic"'
 subtitle: "Panelist and moderator at Good Tech Fest, May 2021"
 excerpt: >
-  In this talk Aman introduced practical and ethical considerations in data science application, approached from a historical context. The lecture was supported by Berkeley Institute for Data Science and the Data, Society and Inference Seminar. 
+  This panel focused on the urgent development of software tools during the COVID-19 pandemic, from conception to deployment, shedding light on the collaborative nature of software development in times of crisis.
 date: 2019-05-01
 author: Aman Ahuja
 images:
-  - 
+  - images/panel_02_software.png
 tags:
   - "public health"
   - "civil society"

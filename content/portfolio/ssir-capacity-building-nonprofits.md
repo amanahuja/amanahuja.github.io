@@ -2,11 +2,11 @@
 title: 'Panel: "Capacity Building at Nonprofits"'
 subtitle: "Speaker and Panelist, SSIR Data on Purpose Conference, Feb 2019"
 excerpt: >
-  In this talk Aman introduced practical and ethical considerations in data science application, approached from a historical context. The lecture was supported by Berkeley Institute for Data Science and the Data, Society and Inference Seminar. 
+  Panel at the SSIR Conference discussed strategies for nonprofits to grow internal capacity for data initiatives, and explored the roles of organizations engaged in cross-sector capacity building. 
 date: 2019-02-01
 author: Aman Ahuja
 images:
-  - 
+  - images/panel_03_nonprofits.png
 tags:
   - "nonprofit"
   - "civil society"
