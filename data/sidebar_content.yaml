@@ -10,7 +10,7 @@ portfolio: # must match the slug of your blog
   list_sidebar: # for list-sidebar layout
     image:
     title: Project Portfolio
-    description: "Learn about me from my past work. This section contains past projects, and will be expanded to include advisory roles, talks, and publications."
+    description: "Learn about me from my past work. This section contains highlights of my past projects, and also includes advisory roles, [talks](/categories/talks), and [publications](/categories/papers)."
     paragraph_two: "Please feel free to [contact me](/contact) with any inquiries."
     text_link_label: Subscribe via RSS
     text_link_url: /index.xml
