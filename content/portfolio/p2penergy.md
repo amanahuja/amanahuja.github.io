@@ -8,7 +8,8 @@ slug: "p2p-energy-trading"
 images: 
   - "https://www.australiansolarquotes.com.au/wp-content/uploads/2015/09/8193261049_b1b871542f_k.jpg"
 tags:
-  - "Energy"
+  - "product"
+  - "energy"
   - "The Data Guild"
 series: 
   - "The Data Guild"
