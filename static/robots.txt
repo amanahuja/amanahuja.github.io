@@ -1,0 +1,35 @@
+# robots.txt
+# Bots, crawlers and search engines that honor the Robots Exclusion Protocol
+# will comply with access constraints specified here.
+
+# The list of AI Data Scrapers below is based on the Dark Visitors robots.txt
+# see https://darkvisitors.com
+
+# https://darkvisitors.com/agents/anthropic-ai
+User-agent: anthropic-ai
+Disallow: /
+
+# https://darkvisitors.com/agents/ccbot
+User-agent: CCBot
+Disallow: /
+
+# https://darkvisitors.com/agents/facebookbot
+User-agent: FacebookBot
+Disallow: /
+
+# https://darkvisitors.com/agents/google-extended
+User-agent: Google-Extended
+Disallow: /
+
+# https://darkvisitors.com/agents/gptbot
+User-agent: GPTBot
+Disallow: /
+
+# https://darkvisitors.com/agents/omgilibot
+User-agent: omgilibot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+

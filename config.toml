@@ -9,7 +9,7 @@ theme = "amanophonic"
 relativeURLs = false
 
 Paginate = 4
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 ignoreFiles = [
   #"/content/garden/_ind*"
