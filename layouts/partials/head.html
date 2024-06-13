@@ -17,7 +17,12 @@
   {{ $styles := resources.Get "scaffold.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 
+  <!-- Offen --> 
+  <script async src="https://analytics.pafnuty.com/script.js" data-account-id="94baf2cf-08b9-4197-b631-5affae83eb42"></script>
+
   <!-- Matomo -->
+  <!-- Disable for testing, pending remove ---
+	  ----
   <script type="text/javascript">
     var _paq = window._paq = window._paq || [];
     /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -35,5 +40,7 @@
     })();
   </script>
   <!-- End Matomo Code -->
+  ---
+  --> 
 
 </head>
