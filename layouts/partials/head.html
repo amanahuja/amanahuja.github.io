@@ -17,10 +17,7 @@
   {{ $styles := resources.Get "scaffold.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 
-  <!-- Offen --> 
-  <!-- <script async src="https://analytics.pafnuty.com/script.js" data-account-id="94baf2cf-08b9-4197-b631-5affae83eb42"></script> -->
-
-  <!-- Matomo: Disable for testing, pending remove --> 
+  <!-- Matomo: updated June 13 2024 --> 
   <script type="text/javascript">
 		var _paq = window._paq = window._paq || [];
 		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -29,28 +26,12 @@
 		_paq.push(['trackPageView']);
 		_paq.push(['enableLinkTracking']);
 		(function() {
-			var u="https://analytics.pafnuty.com/";
+			var u="//analytics.pafnuty.com/";
 			_paq.push(['setTrackerUrl', u+'matomo.php']);
 			_paq.push(['setSiteId', '1']);
 			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
 			g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
 		})();
-  </script>
-  <script>
-  // var _paq = window._paq = window._paq || [];
-  // /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  // _paq.push(['trackPageView']);
-  // _paq.push(['enableLinkTracking']);
-  // (function() {
-  //   var u="https://analytics.pafnuty.com/";
-  //   _paq.push(['setTrackerUrl', u+'matomo.php']);
-  //   _paq.push(['setSiteId', '2']);
-  //   var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-  //        g.type='text/javascript'; 
-  //        g.async=true; 
-  //        g.src=u+'matomo.js'; 
-  //        s.parentNode.insertBefore(g,s);
-  // })();
   </script>
   <!-- End Matomo Code -->
 
