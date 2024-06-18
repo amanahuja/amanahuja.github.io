@@ -12,7 +12,6 @@ Paginate = 4
 enableRobotsTXT = false
 
 ignoreFiles = [
-  #"/content/garden/_ind*"
 ]
 
 [params]
