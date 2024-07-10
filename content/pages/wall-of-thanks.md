@@ -82,13 +82,29 @@ draft: false
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
-      <p class="f6 lh-copy measure">
+      <p class="f6 lh-copy measure b">The Guild</p>
+      <p class="f6 lh-copy measure">All my colleagues at The Data Guild, who are still and always will be invaluable colleagues. And the Guild itself, for daring to be more.</p>
+      <ul class="list pl0 lh-copy f6">
+        <li class="dib mr2 b">Beau</li>
+        <li class="dib mr2 b">Denise</li>
+        <li class="dib mr2 b">Dave</li>
+        <li class="dib mr2 b">Christopher</li>
+        <li class="dib mr2 b">Paul</li>
+        <li class="dib mr2 b">Chris</li>
+        <li class="dib mr2 b">Louis</li>
+        <li class="dib mr2 b">Cam</li>
+        <li class="dib mr2 ">...and many more.</li>
+      </ul>
+    </div>
+    <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
+      <p class="f6 lh-copy measure">These amazing supporters and thinkers:
       </p>
       <ul class="list pl0 f6">
         <li class="pv1 link dim mid-gray"><a class="link dim mid-gray b" target="new" href="https://intertidal.agency">Kate Wing</a></li>
         <li class="pv1 link dim mid-gray"><a class="link dim mid-gray b" target="new" href="https://etachov.io/">Evan Tachovsky</a></li>
         <li class="pv1 link dim mid-gray b"><a class="link dim mid-gray" target="new" href="https://www.linkedin.com/in/jakeporway/">Jake Porway</a></li>
         <li class="pv1 link dim mid-gray b"><a class="link dim mid-gray" target="new" href="https://www.thinktwice.consulting/">Gabi Fitz</a></li>
+        <li class="pv1 link mid-gray b">Mohit Arora</a></li>
         <li class="pv1 mid-gray b">Arian Lalezari</li>
       </ul>
       </p>
