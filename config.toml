@@ -8,11 +8,13 @@ theme = "amanophonic"
 # check this for compatibility with quartz backlinks
 relativeURLs = false
 
-Paginate = 4
 enableRobotsTXT = false
 
 ignoreFiles = [
 ]
+
+[pagination]
+  pagerSize = 4
 
 [params]
   # General info
