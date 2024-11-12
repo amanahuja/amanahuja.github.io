@@ -81,7 +81,6 @@ ignoreFiles = [
   socialInHeader = false
   socialInFooter = true
 
-[social]
   github = "amanahuja"
   linkedin = "amanahuja"
   medium = ""
