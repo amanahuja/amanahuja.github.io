@@ -14,8 +14,7 @@ ignoreFiles = [
 ]
 
 [pagination]
-  Paginate = 4
-  # pagerSize = 4
+  pagerSize = 4
 
 [params]
   # General info
