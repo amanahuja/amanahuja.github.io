@@ -8,7 +8,9 @@ theme = "amanophonic"
 # check this for compatibility with quartz backlinks
 relativeURLs = false
 
-Paginate = 4
+[pagination] 
+  Paginate = 4
+
 enableRobotsTXT = false
 
 ignoreFiles = [
@@ -79,14 +81,14 @@ ignoreFiles = [
   socialInHeader = false
   socialInFooter = true
 
-[social]
-  github = "amanahuja"
-  linkedin = "amanahuja"
-  medium = ""
-  twitter = ""
-  youtube = ""
-  mastodon = "amanqa"
-  # no SVG: rss = "index.xml"
+  [params.social]
+    github = "amanahuja"
+    linkedin = "amanahuja"
+    medium = ""
+    twitter = ""
+    youtube = ""
+    mastodon = "amanqa"
+    # no SVG: rss = "index.xml"
 
 [taxonomies]
   category = "categories"
