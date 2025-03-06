@@ -14,7 +14,8 @@ ignoreFiles = [
 ]
 
 [pagination]
-  pagerSize = 4
+  Paginate = 4
+  # pagerSize = 4
 
 [params]
   # General info
@@ -81,13 +82,14 @@ ignoreFiles = [
   socialInHeader = false
   socialInFooter = true
 
-  github = "amanahuja"
-  linkedin = "amanahuja"
-  medium = ""
-  twitter = ""
-  youtube = ""
-  mastodon = "amanqa"
-  # no SVG: rss = "index.xml"
+  [params.social]
+    github = "amanahuja"
+    linkedin = "amanahuja"
+    medium = ""
+    twitter = ""
+    youtube = ""
+    mastodon = "amanqa"
+    # no SVG: rss = "index.xml"
 
 [taxonomies]
   category = "categories"
