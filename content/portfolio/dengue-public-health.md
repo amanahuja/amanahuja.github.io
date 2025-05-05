@@ -11,7 +11,8 @@ tags:
   - "Civil Society"
   - "public health"
 series:
-  - "Fenris"
+- "Fenris"
+- "epidemiology"
 categories: 
   - "Projects"
 layout: single-sidebar
