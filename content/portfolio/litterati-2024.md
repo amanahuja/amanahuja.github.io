@@ -1,14 +1,14 @@
 ---
-title: "Waste reduction and advocacy with Litterati"
-excerpt: "Reflecting on our work in 2023 to support Litterati's pioneering efforts to understand the magnitude and causes of litter around the world."
-subtitle: "Reflecting on our work in 2023 to support Litterati's advocacy pioneering efforts to understand the magnitude and causes of litter around the world."
-date: 2024-01-15
+title: "Understanding the geospatial distrubtion of Litter (2024)"
+excerpt: "Reflecting on our work in 2024 to support Litterati's pioneering efforts to understand the magnitude and causes of litter around the world."
+subtitle: "Reflecting on our work in 2024 to support Litterati's pioneering efforts to understand the magnitude and causes of litter around the world."
+date: 2025-01-10
 author: Aman Ahuja
 images:
  - "images/waste_around_the_world.webp"
-slug: "litterati-2023"
 tags:
-- Policy
+- "Policy"
+- "litter"
 series:
 - "Fenris"
 categories: 
@@ -17,11 +17,27 @@ layout: single-sidebar
 draft: true
 ---
 
+todo
+* new image
+* update excerpt -- right now 2023 = 2024
+* remove old copy from below
+* don't mention KBT? 
+* mention Benji Malgueno
+* update notes litterati-engagement2024
+
+
+
+
 {{< figure class="idb center w-50 mw-100" 
   src="/images/waste_around_the_world.webp" 
     alt="Waste around the world image" >}}
 
+Litterati and Keep Britain Tidy Project 2024
 
+In 2024, Fenris collaborated with Litterati and Keep Britain Tidy (KBT) to conduct a comprehensive geospatial analysis of litter distribution across the United Kingdom. The project focused on providing actionable insights to stakeholders for improving waste management policies and interventions.
+
+2023 copy
+ 
 In 2023, Fenris grew our partnership with Litterati to conduct geospatial analysis aimed to quantify litter in locations across Europe, Africa, and South America. The analysis and reports were instrumental in providing stakeholders with actionable data for policy and waste management initiatives.
 
 With partners and clients, including World Bank and Keep Britain Tidy, this work aimed to better understand sources of waste, the impact of various interventions and waste management strategies. Our research was able to characterise litter through real-world observations, capturing litter object types, materials, and brands. 
@@ -44,8 +60,8 @@ Litterati ([Litterati.org](https://litterati.org)): Providing The World’s Litt
 
 > Empowering people to create a cleaner planet by turning information into actionable insight.
 
+Fenris is a proud partner and we continue to work with Litterati beyond 2023. Follow Fenris' work with Litterati across the years: [series/litter/](/series/litter)
 
-Fenris is a proud partner and we continue to work with Litterati beyond 2023. 
 <!-- 
 Technologies Used
 * Geospatial Tools: QGIS, ArcGIS for spatial analysis and mapping.

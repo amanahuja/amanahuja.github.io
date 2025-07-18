@@ -6,14 +6,15 @@ excerpt: >
 date: 2023-06-01
 author: Aman Ahuja
 images:
-  - /images/globe_dots_1.svg
+- /images/globe_dots_1.svg
 tags:
-  - "civil society"
-  - "public health"
+- "epidemiology"
+- "civil society"
+- "public health"
 series:
-  - "Fenris"
+- "Fenris"
 categories: 
-  - "Projects"
+- "Projects"
 layout: single-sidebar
 draft: false
 ---
