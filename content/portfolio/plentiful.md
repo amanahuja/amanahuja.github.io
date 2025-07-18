@@ -1,7 +1,6 @@
 ---                                                                                                                                                                               
-title: "Building Equitable Food Systems Through Data and Strategy"                                                                                                                
-excerpt: "Strategic consulting and data analysis to enhance dignity in charitable food distribution, including survey design for food-insecure individuals and platform development for
-service providers."                                                                                                                                                               
+title: "Equitable Food Systems by improving information flows"                                                                                                                
+excerpt: "Fenris helped launch a new revenue channel and improved strategic alignment for a client working with charitable food systems."                                                                                                                                                               
 subtitle: "Responsible data stewardship and strategic alignment for social impact in food security"                                                                               
 date: 2024-10-15                                                                                                                                                                  
 author: Aman Ahuja                                                                                                                                                                
@@ -15,7 +14,7 @@ categories:
 layout: single-sidebar                                                                                                                                                            
 ---                                                                                                                                                                               
                                                                                                                                                                                   
-Fenris partnered with Plentiful with our three-phase engagement model to strengthen their data strategy and expand their impact in charitable food
+Fenris partnered with Plentiful using our three-phase engagement model to strengthen their data strategy and expand their impact in charitable food
 systems. Working closely with their leadership team, we focused on responsible data stewardship while developing new service offerings and platform concepts.                     
                                                                                                                                                                                   
 Our engagement centered on two key initiatives: designing and analyzing a comprehensive survey of food-insecure individuals in New York City, and facilitating strategic alignment
