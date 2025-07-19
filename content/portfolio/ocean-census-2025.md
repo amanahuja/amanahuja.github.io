@@ -16,12 +16,12 @@ layout: single-sidebar
 draft: false
 ---
 
-Fenris partnered with the [Intertidal Agency](https://www.intertidalagency.org/) to provide technical consulting support for the Ocean Census Biodiversity Data Platform, a critical component of the world's largest collaborative effort to accelerate the discovery of marine life. Working alongside Kate Wing and Rachael Blake from Intertidal, we provided strategic guidance during a pivotal phase of this ambitious five-year initiative.
+Fenris partnered with the [Intertidal Agency](https://www.intertidalagency.org/) to provide technical consulting support for the Ocean Census Biodiversity Data Platform, a critical component of the world's largest collaborative effort to accelerate the discovery of marine life. We provided strategic guidance during a pivotal phase of this multi-year initiative.
 
 The Ocean Census, launched by The Nippon Foundation and Nekton, aims to transform species discovery by accelerating the identification of marine life to close critical knowledge gaps. With only around 10% of marine life discovered so far, the project addresses the urgent need to document an estimated 1-2 million undiscovered species before they potentially go extinct.
 
 **Key Contributions:**
-- **Technical Evaluation**: Assessed progress against planned milestones in Year 2 of the five-year program, identifying areas where technical work needed realignment
+- **Technical Evaluation**: Assessed progress against planned milestones in Year 2 of the program, identifying areas where technical work needed realignment
 - **Vendor Management**: Provided guidance on navigating complex vendor relationships and technical challenges
 - **Strategic Planning**: Helped the team develop long-term vision for the platform's impact and scope beyond the current project timeline
 - **Data Platform Architecture**: Advised on optimization of data pathways and processes connecting new species data to global repositories like WoRMS
@@ -41,6 +41,13 @@ This project exemplified how technical consulting can support transformative sci
 Our work helped ensure the Ocean Census Biodiversity Data Platform remained on track to support the discovery and documentation of marine species at unprecedented scale. The guidance provided during this critical phase positioned the platform to better serve the global scientific community and advance marine conservation goals.
 
 The Ocean Census has already announced the discovery of 866 new marine species, demonstrating the vital importance of robust data infrastructure in supporting this groundbreaking scientific collaboration.
+
+#### About Intertidal Agency
+
+[Intertidal Agency]() 
+> Intertidal Agency is a nonprofit that works with governments, tribes, scientists, nonprofits, and industry to unlock data for ocean sustainability.
+
+Aman had the pleasure of working closely with Kate Wing and Rachael Blake on this project. 
 
 #### About Ocean Census
 
