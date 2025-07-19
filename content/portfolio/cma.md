@@ -5,15 +5,15 @@ excerpt: "Fenris partnered with the Society for Medical Decision Making (SMDM) a
 date: 2021-03-31
 author: Aman Ahuja
 images:
-  - /images/cma_splash.png
+    - /images/cma_splash.png
 slug: "covid-modeling-accelerator"
 tags:
-  - "Civil Society"
-  - "Public Sector"
+    - civil-society
+    - public-sector
 series:
-  - "Fenris"
+    - "Fenris"
 categories: 
-  - "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 highlights: "\

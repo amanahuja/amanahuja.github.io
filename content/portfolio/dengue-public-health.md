@@ -6,15 +6,18 @@ excerpt: >
 date: 2023-01-15
 author: Aman Ahuja
 images:
-  - /images/dengue.png
+    - /images/dengue.png
 tags:
-  - "Civil Society"
-  - "public health"
+    - civil-society
+    - government
+    - public-health
+    - policy
+    - product
+    - epidemiology
 series:
-- "Fenris"
-- "epidemiology"
+    - "Fenris"
 categories: 
-  - "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---

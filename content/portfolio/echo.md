@@ -5,15 +5,16 @@ excerpt: "Fenris worked with Project ECHO to provide mentorship on product strat
 date: 2020-02-01
 author: Aman Ahuja
 images: 
-  - /images/echo_02.png
+    - /images/echo_02.png
 slug: "project ECHO"
 tags:
-  - "civil society"
-  - "DataKind"
+    - civil-society
+    - product
 series:
-  - "Fenris"
+    - "Fenris"
+    - "DataKind"
 categories: 
-  - "Projects"
+    - "Projects"
 draft: false
 layout: single-sidebar
 ---

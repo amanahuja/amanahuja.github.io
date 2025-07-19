@@ -6,14 +6,14 @@ excerpt: >
 date: 2019-05-01
 author: Aman Ahuja
 images:
-  - images/sketches/panel_ideas_AA_04.jpg
+    - images/sketches/panel_ideas_AA_04.jpg
 tags:
-  - "public health"
-  - "civil society"
+    - public-health
+    - civil-society
 series:
-  - "Aman"
+    - "Aman"
 categories: 
-  - "Talks"
+    - "Talks"
 layout: single-sidebar
 draft: false
 ---

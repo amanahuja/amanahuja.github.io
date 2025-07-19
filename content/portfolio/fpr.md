@@ -4,14 +4,16 @@ excerpt: "I helped a US public policy think tank to define objectives and roadma
 date: 2020-06-01
 author: Aman Ahuja
 images: 
-  - /images/logos/new-america.png
+    - /images/logos/new-america.png
 slug: "future-property-rights"
 tags:
-  - "civil society"
+    - civil-society
+    - policy
+    - research
 series: 
-  - "Fenris"
+    - "Fenris"
 categories: 
-  - "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---

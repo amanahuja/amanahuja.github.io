@@ -5,12 +5,13 @@ subtitle: "Responsible data stewardship and strategic alignment for social impac
 date: 2024-10-15
 author: Aman Ahuja
 tags:
-- "civil society"
-- "data strategy"
+    - civil-society
+    - data-strategy
+    - policy
 series:
-- "Fenris"
+    - "Fenris"
 categories:
-- "Projects"
+    - "Projects"
 layout: single-sidebar
 ---
 

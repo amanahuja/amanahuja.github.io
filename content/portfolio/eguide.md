@@ -5,14 +5,15 @@ slug: "eguide-api"
 date: 2020-06-01
 author: Aman Ahuja
 images:
-  - /images/logos/eguide.png
+    - /images/logos/eguide.png
 tags:
-  - "Energy"
-  - "Civil Society"
+    - energy
+    - civil-society
+    - product
 series:
-  - "Fenris"
+    - "Fenris"
 categories: 
-  - "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---

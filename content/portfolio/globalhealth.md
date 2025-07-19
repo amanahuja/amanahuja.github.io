@@ -6,15 +6,16 @@ excerpt: >
 date: 2022-01-01
 author: Aman Ahuja
 images:
-- /images/logos/gh-logo-alt.png
+    - /images/logos/gh-logo-alt.png
 tags:
-- "Civil Society"
-- "healthcare and lifesciences"
-- "epidemiology"
+    - civil-society
+    - product
+    - lifesciences
+    - epidemiology
 series:
-- "Fenris"
+    - "Fenris"
 categories: 
-- "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---

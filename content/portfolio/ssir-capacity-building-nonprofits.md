@@ -8,8 +8,8 @@ author: Aman Ahuja
 images:
   - images/panel_03_nonprofits.png
 tags:
-  - "nonprofit"
-  - "civil society"
+    - nonprofit
+    - civil society
 series:
   - "Aman"
 categories: 

@@ -5,14 +5,14 @@ subtitle: "Reflecting on our work in 2024 to support Litterati's pioneering effo
 date: 2025-01-10
 author: Aman Ahuja
 images:
- - "images/waste_around_the_world.webp"
+     - "images/waste_around_the_world.webp"
 tags:
-- "Policy"
-- "litter"
+    - policy
+    - litter
 series:
-- "Fenris"
+    - "Fenris"
 categories: 
-- "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: true
 ---

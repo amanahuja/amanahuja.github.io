@@ -5,14 +5,14 @@ subtitle: "Quantifying litter distribution across three continents to inform was
 date: 2024-01-15
 author: Aman Ahuja
 images:
- - "images/waste_around_the_world.webp"
+     - "images/waste_around_the_world.webp"
 tags:
-- "Policy"
-- "litter"
+    - policy
+    - litter
 series:
-- "Fenris"
+    - "Fenris"
 categories: 
-- "Projects"
+    - "Projects"
 layout: single-sidebar
 ---
 Fenris partnered with Litterati in 2023 to conduct comprehensive geospatial analysis of litter patterns across Europe, Africa, and South America. Working with stakeholders including the World Bank and Keep Britain Tidy, we transformed real-world litter observations into actionable data for environmental policy and waste management initiatives.

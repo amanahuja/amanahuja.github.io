@@ -5,8 +5,8 @@ excerpt: "The Data Guild consulted on the development of a malfunction and theft
 date: 2013-01-01
 author: Aman Ahuja
 tags:
-  - "energy"
-  - "Private Sector"
+  - energy
+  - machine-learning
 series:
   - "The Data Guild"
 categories: 

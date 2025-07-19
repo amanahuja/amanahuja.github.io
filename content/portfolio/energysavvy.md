@@ -5,12 +5,12 @@ excerpt: "The Data Guild helped develop and assess models and key performance in
 date: 2014-01-01
 author: Aman Ahuja
 tags:
-  - "energy"
-  - "Public Sector"
+    - energy
+    - government
 series:
-  - "The Data Guild"
+    - "The Data Guild"
 categories: 
-  - "Projects"
+    - "Projects"
 layout: single-sidebar
 ---
 
