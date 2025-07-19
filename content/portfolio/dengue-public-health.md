@@ -10,6 +10,7 @@ images:
 tags:
     - civil-society
     - government
+    - climate
     - public-health
     - policy
     - product
