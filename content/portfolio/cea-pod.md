@@ -6,13 +6,12 @@ excerpt: >
 date: 2018-12-14
 author: Aman Ahuja
 images:
-  - /images/cea_facility_01.png
+      - /images/cea_facility_01.png
 slug: "tdg-cea-pod"
 tags:
-  - agriculture
-  - research
+    - agriculture
 series:
-  - "The Data Guild"
+    - "The Data Guild"
 categories: 
   - "Projects"
 layout: single-sidebar

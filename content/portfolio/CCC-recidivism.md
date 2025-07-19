@@ -8,12 +8,12 @@ images:
   - https://assets.propublica.org/legacy/images/articles/wk_doj_080707.jpg
 slug: "recidivism-data-sharing"
 tags:
-  - "Public Sector"
-  - "Data Governance"
+    - government
+    - data-governance
 series: 
-  - "Fenris"
+    - "Fenris"
 categories: 
-  - "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---
@@ -24,4 +24,4 @@ We partnered with the Office of Recidivism and Justice (ORJ) under the County Ad
 
 Our recommendations were developed to advance the County's ability to understand and improve criminal justice outcomes and recidivism, and to provide a technical and governance approach that could serve as a model to other counties across the state and country. The importance and timeliness of this work is emphasized by the need for California counties to improve and understand recidivism programs under AB109. 
 
-Our small execution team consisted of Aman and Louis Potok from Fenris, our sponsor at Tetra Tech DPK, and a technical writer. We engaged [Ethical Resolve](https://ethicalresolve.com/) to conduct and provide an independent ethical review of our data governance approach.
+Our team consisted of Aman and Louis Potok from Fenris, our sponsor at Tetra Tech DPK, and a technical writer. We engaged [Ethical Resolve](https://ethicalresolve.com/) to conduct and provide an independent ethical review of our data governance approach.

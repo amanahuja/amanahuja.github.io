@@ -6,15 +6,14 @@ excerpt: >
 date: 2015-10-23
 author: Aman Ahuja
 images:
-  - images/talk_03_history-02.png
+    - images/talk_03_history-02.png
 tags:
-  - "pedagogy"
-  - "ethics"
-  - "history"
+    - ethics
+    - education
 series:
-  - "Aman"
+    - "Aman"
 categories: 
-  - "Talks"
+    - "Talks"
 layout: single-sidebar
 draft: false
 ---

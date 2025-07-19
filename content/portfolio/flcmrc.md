@@ -6,12 +6,11 @@ date: 2002-08-01
 author: Aman Ahuja
 slug: "liquid-crystals"
 tags:
-  - "academic"
-  - "physics"
+    - physics
 series:
-  - "academic"
+    - "Aman"
 categories: 
-  - "Projects"
+    - "Academic"
 draft: true
 layout: single-sidebar
 ---

@@ -6,14 +6,14 @@ excerpt: >
 date: 2018-10-18
 author: Aman Ahuja
 images:
-  - images/denver-design-week-s1.png
+    - images/denver-design-week-s1.png
 tags:
-  - "design"
-  - "product"
+    - design
+    - product
 series:
-  - "Aman"
+    - "Aman"
 categories: 
-  - "Talks"
+    - "Talks"
 layout: single-sidebar
 draft: false
 ---

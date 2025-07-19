@@ -6,15 +6,14 @@ date: 2017-09-15
 author: Aman Ahuja
 slug: "p2p-energy-trading"
 images: 
-  - "https://www.australiansolarquotes.com.au/wp-content/uploads/2015/09/8193261049_b1b871542f_k.jpg"
+    - "https://www.australiansolarquotes.com.au/wp-content/uploads/2015/09/8193261049_b1b871542f_k.jpg"
 tags:
-  - "product"
-  - "energy"
-  - "The Data Guild"
+    - product
+    - energy
 series: 
-  - "The Data Guild"
+    - "The Data Guild"
 categories: 
-  - "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---

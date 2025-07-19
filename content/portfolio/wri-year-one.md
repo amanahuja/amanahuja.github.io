@@ -5,15 +5,15 @@ excerpt: "Supporting the World Resources Institute's Data Lab as advisor and con
 date: 2025-03-15
 author: Aman Ahuja
 tags:
-- "product"
-- "policy"
-- "energy"
-- "climate"
-- "LLM"
+    - product
+    - policy
+    - energy
+    - climate
+    - LLM
 series:
-- "Fenris"
+    - "Fenris"
 categories:
-- "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---

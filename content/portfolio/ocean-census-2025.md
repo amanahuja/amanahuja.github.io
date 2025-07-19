@@ -5,13 +5,13 @@ excerpt: "Fenris partnered with the Intertidal Agency to provide technical consu
 date: 2025-06-30
 author: Aman Ahuja
 tags:
-- "climate"
-- "data platform"
-- "research"
+    - climate
+    - data-platform
+    - research
 series:
-- "Fenris"
+    - "Fenris"
 categories:
-- "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---

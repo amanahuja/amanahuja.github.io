@@ -3,8 +3,8 @@ title: Portfolio
 description: "Discover more projects, talks, and initiatives in my portfolio here."
 author: Aman
 images:
-  - /images/bubble_landscape_010.jpg
-  - https://via.placeholder.com/960x480?text=SECTION+IMAGE
+    - /images/bubble_landscape_010.jpg
+    - https://via.placeholder.com/960x480?text=SECTION+IMAGE
 date: 1900-01-01
 blogo_date: 2019-02-20T09:31:27-06:00
 blogo_publishDate: 2019-02-20T09:31:27-06:00

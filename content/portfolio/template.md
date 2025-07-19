@@ -5,15 +5,40 @@ excerpt: "Fenris partnered with the Society of Medical Decision Making (SMDM) an
 date: 2025-01-01
 author: Aman Ahuja
 images:
-- /images/some_images.png
+    - /images/some_images.png
 slug: "change-this-slug"
 tags:
-- "Civil Society"
-- "Public Sector"
+    - academic
+    - agriculture
+    - civil-society
+    - climate
+    - data-governance
+    - data-strategy
+    - development
+    - education
+    - energy
+    - epidemiology
+    - ethics
+    - finance
+    - government
+    - lifesciences
+    - llm
+    - machine-learning
+    - nonprofit
+    - policy
+    - product
+    - public-health
+    - research
 series:
-- "Fenris"
+    - "Fenris"
+    - "Aman"
+    - "DataKind"
+    - "The Data Guild"
 categories: 
-- "Projects"
+    - "Academic"
+    - "Projects"
+    - "Talks"
+    - "Advisor"
 layout: single-sidebar
 draft: true
 ---

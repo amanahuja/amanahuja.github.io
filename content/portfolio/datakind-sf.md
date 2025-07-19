@@ -4,14 +4,16 @@ excerpt: "I founded the San Francisco Bay Area chapter of DataKind and helped de
 date: 2016-01-01
 author: Aman Ahuja
 images:
-  - images/logos/datakind_logo_orange.png
+    - images/logos/datakind_logo_orange.png
 slug: "datakind-sf"
 tags:
-  - "Civil Society"
-  - "Non Profit"
-  - "Public Sector"
+    - "Civil Society"
+    - "Non Profit"
+    - "Public Sector"
+series: 
+    - "Aman"
 categories: 
-  - "Roles"
+    - "Roles"
 layout: single-sidebar
 draft: false
 ---

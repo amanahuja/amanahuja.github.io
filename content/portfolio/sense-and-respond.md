@@ -6,11 +6,11 @@ excerpt: >
 date: 2017-02-04
 author: Aman Ahuja
 images:
-  - images/sense_and_respond_01.png
+    - images/sense_and_respond_01.png
 tags:
-  - "ethics"
+    - ethics
 categories: 
-  - "Papers"
+    - "Papers"
 layout: single-sidebar
 draft: False
 ---

@@ -6,12 +6,14 @@ excerpt: >
 date: 2016-01-01
 author: Aman Ahuja
 images:
-  - /images/mobile_retention_02.png
+    - /images/mobile_retention_02.png
 tags:
-  - "development"
-  - "financial"
+    - "development"
+    - "financial"
+series:
+    - "Aman"
 categories: 
-  - "Papers"
+    - "Papers"
 layout: single-sidebar
 draft: False
 ---

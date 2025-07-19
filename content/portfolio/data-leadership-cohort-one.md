@@ -5,10 +5,10 @@ date: 2022-08-02
 author: Aman Ahuja
 slug: "data-leadership-cohort"
 images:
-  - /images/peer_learning_03.png
+    - /images/peer_learning_03.png
 tags:
-  - "Civil Society"
-  - "DPCS"
+    - civil-society
+    - data-governance
 categories: 
   - "Projects"
 layout: single-sidebar

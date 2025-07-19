@@ -8,13 +8,14 @@ author: Aman Ahuja
 images:
 - /images/globe_dots_1.svg
 tags:
-- "epidemiology"
-- "civil society"
-- "public health"
+    - epidemiology
+    - civil-society
+    - product
+    - public-health
 series:
-- "Fenris"
+    - "Fenris"
 categories: 
-- "Projects"
+    - "Projects"
 layout: single-sidebar
 draft: false
 ---

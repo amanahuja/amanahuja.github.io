@@ -5,15 +5,13 @@ excerpt: "The Data Guild advised on strategic approach to develop new market opp
 date: 2015-01-01
 author: Aman Ahuja
 images: 
-  - "images/proteus_device_image_01.jpg"
+    - "images/proteus_device_image_01.jpg"
 tags:
-  - "health care"
-  - "Private Sector"
-  - "start up"
+    - healthcare
 series:
-  - "The Data Guild"
+    - "The Data Guild"
 categories: 
-  - "Projects"
+    - "Projects"
 layout: single-sidebar
 ---
 ### Overview
