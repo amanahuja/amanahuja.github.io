@@ -38,11 +38,12 @@ draft: false
       <p class="f6 lh-copy measure">First and foremost, my family...
       </p>
       <ul class="list pl0 f6">
-        <li class="pv1"><a class="link dim mid-gray b" href="https://anyakandel.com">Anya</a></li>
+        <li class="pv1"><a class="link dim mid-gray b" href="https://anyakandel.com">Anya</a><span class="pv1 mid-gray b"> and Naya</span></li>
+</li>
         <li class="pv1 mid-gray b">Veena and Nand</li>
         <li class="pv1 mid-gray b">Asheesh, Payal, Anushri</li>
         <li class="pv1 mid-gray b">Donna, Herb, Zosha, Kevin</li>
-        <li class="pv1 mid-gray b">My grand-parents and great-grand-parents</li>
+        <li class="pv1 mid-gray b">My grandparents & great-grandparents</li>
       </ul>
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
@@ -65,7 +66,7 @@ draft: false
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        <span class="b"><a class="link dim mid-gray" target="new" href="https://www.louispotok.com/">Louis Potok</span></br>
+        <span class="b"><a class="link dim mid-gray" target="new" href="https://www.louispotok.com/">Louis Potok</a></span></br>
        A long time colleague, Louis has been a thought-partner and accountability buddy for many years. He inspires me by <i>doing</i> where others talk. 
       </p>
     </div>
