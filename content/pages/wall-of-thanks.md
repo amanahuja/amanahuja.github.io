@@ -127,6 +127,7 @@ I must include a few influences that are not personal connections, but whose wri
       <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Karl Popper</a></li>
       <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Donella Meadows</a></li>
       <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Amartya Sen</a></li>
+      <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Rabindranath Tagore</a></li>
       <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Jen Lowe</a></li>
     </ul>
   </div>
