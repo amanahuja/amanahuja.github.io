@@ -1,8 +1,8 @@
 ---
 title: "Global.health"
-subtitle: "Aligning product development with strategic objectives."
+subtitle: "Developing a multi-year strategy and product roadmap for a global health initiative"
 excerpt: >
-  Fenris worked with the Global.health leadership team to help align product development with long-term strategic objectives and to deliver value for the sector. 
+  Fenris created a phased, fundable execution plan that translated Global.health's ambitious mission into a strategic product roadmap with a clear path from pilot to durable civic asset.
 date: 2022-01-01
 author: Aman Ahuja
 images:
@@ -20,9 +20,11 @@ layout: single-sidebar
 draft: false
 ---
 
-Fenris worked with the Global.health leadership team to help align product development with long-term strategic objectives and to deliver value for the sector. 
+Fenris worked with the Global.health leadership team to develop a multi-year strategy and product roadmap that translated their global mission into phased, fundable execution steps.
 
-Our team helped G.h leaders refine a vision through a series of workshops. With the product team, we co-developed programs and objectives that were consistent with this vision and with constraints. Inviting input from advisors and stakeholders, a *strategic product roadmap* with a three-year horizon was drafted for G.h, and aligned with funding opportunities.
+Our team helped G.h leaders refine a vision through a series of workshops. With the product team, we co-developed programs and objectives that were consistent with this vision and with constraints. The sequencing was carefully designed based on data readiness, governance requirements, and operating capacity of the organization.
+
+Inviting input from advisors and stakeholders, we created a *strategic product roadmap* with a three-year horizon that served as both an alignment tool and an investment signal for funders. This roadmap demonstrated Fenris's experience in developing a credible path from pilot project to durable civic asset.
 
 These assets were developed over a 17-week engagement to be carried forward by product leads starting in 2022.
 
