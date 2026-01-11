@@ -1,6 +1,6 @@
 ---
 title: "Future of Property Rights"
-excerpt: "I helped a US public policy think tank to define objectives and roadmaps for a multi-stakeholder initiative that advances public discourse surrounding property rights insecurity and loss in the United States."
+excerpt: "I provided advisory work to help a US public policy think tank develop regional indicators for housing, land, and displacement, working on politically sensitive and methodologically challenging economic indicators."
 date: 2020-06-01
 author: Aman Ahuja
 images: 
@@ -17,7 +17,9 @@ categories:
 layout: single-sidebar
 draft: false
 ---
-I helped a New America, a US public policy think tank, to define objectives and roadmaps for a multi-stakeholder initiative that advances public discourse surrounding property rights insecurity and loss in the United States. 
+I helped New America, a US public policy think tank, to define objectives and roadmaps for a multi-stakeholder initiative that advances public discourse surrounding property rights insecurity and loss in the United States. My advisory work focused on helping the team scope and plan an initiative to develop regional indicators related to housing, land, and displacement.
+
+The project involved extensive data collection and indicator development work focused on housing, evictions, and housing loss. We obtained consultations from experts throughout the country to ensure methodological rigor in addressing these politically sensitive and methodologically challenging economic indicators.
 
 ### About the organizations
 
