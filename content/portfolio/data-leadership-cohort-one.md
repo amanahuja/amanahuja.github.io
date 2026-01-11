@@ -1,6 +1,6 @@
 ---
 title: "Data Leadership Cohort"
-excerpt: "The first-ever Data Leadership Cohort was designed to provide an opportunity for emerging data leaders to meet, learn, and build connections with each other as they work through challenges and opportunities in governing data resources, designing data-intensive platforms, and procuring data systems."
+excerpt: "Fenris co-organized and led the first-ever Data Leadership Cohort, bringing together emerging data leaders to workshop real governance models focused on long-term stewardship of digital public goods."
 date: 2022-08-02
 author: Aman Ahuja
 slug: "data-leadership-cohort"
@@ -15,10 +15,18 @@ layout: single-sidebar
 draft: false
 ---
 In 2022, Fenris, along with Aspiration and Digital Public, launched a new
-program on data leadership and governance. The Data Leadership Cohort was
-designed to create opportunities for leaders to learn from peers about
-governance, stewardship and long-term responsible leadership in data-centric
-missions and ventures.
+program on data leadership and governance. As part of our thought leadership in
+sustainable digital public goods, The Data Leadership Cohort was designed to
+create opportunities for leaders to learn from peers about governance,
+stewardship and long-term responsible leadership in data-centric missions and
+ventures.
+
+Rather than focusing on theory, the cohort workshopped real governance issues
+the participants were facing. Our approach centered peer learning rather 
+than advice from experts, and created a safe and highly engaged environment
+to center our participants' own voices. This approach n approach that reflects
+Fenris's aspirations to support community leaders and justice-focused
+organizations. 
 
 The Data Leadership Cohort brought together Aspiration’s field-leading and
 tested frameworks for peer learning, Digital Public’s expertise in public
@@ -69,8 +77,8 @@ interested in participating in future cohorts!
 
 ### About the Organizers
 
-[Digital Public](https://www.digitalpublic.io/) is a public interest data governance firm. We help communities, companies, and institutions realize rights in, against, and through digital systems. 
+[Digital Public](https://www.digitalpublic.io/) is a public interest data governance firm that helps communities, companies, and institutions realize rights in, against, and through digital systems. They are an extremely well-respected organization in the field of data governance.
 
-[Aspiration](https://aspirationtech.org/) connects nonprofit organizations, free and open source projects, philanthropic funders and activists with strategic frameworks, technology solutions, data skills that help them realize their missions.
+[Aspiration](https://aspirationtech.org/) connects nonprofit organizations, free and open source projects, philanthropic funders and activists with strategic frameworks, technology solutions, and data skills that help them realize their missions. They are widely recognized for their expertise in facilitating peer learning.
 
-[Fenris](https://gofenris.com) supports teams developing responsible data systems for public benefit through collaborative co-design of product strategy, equitable data governance, and targeted technical assistance.
+[Fenris](https://gofenris.com) supports teams developing responsible data systems for public benefit through collaborative co-design of product strategy, equitable data governance, and targeted technical assistance. Fenris is invested in responsible data governance and in supporting community leaders and justice-focused organizational leaders.
