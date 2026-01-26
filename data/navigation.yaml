@@ -11,6 +11,9 @@ header:
   - name: Portfolio
     title: Projects and other work
     url: /portfolio/
+  - name: Posts
+    title: Polished writing and essays
+    url: /posts/
   - name: 🔗-Garden
     title: Civil Society Garden (🔗)
     url: /civil-society-garden/
