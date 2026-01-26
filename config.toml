@@ -11,6 +11,7 @@ relativeURLs = false
 enableRobotsTXT = false
 
 ignoreFiles = [
+  "_scraps\\.md$"
 ]
 
 [pagination]
