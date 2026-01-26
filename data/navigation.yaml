@@ -5,9 +5,6 @@ header:
   - name: About
     title: About Aman Ahuja
     url: /about/
-  - name: Contact
-    title: Contact Information
-    url: /contact/
   - name: Portfolio
     title: Projects and other work
     url: /portfolio/
