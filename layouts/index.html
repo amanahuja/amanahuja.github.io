@@ -16,5 +16,22 @@
       </div>
     </div>
   </section>
+  
+  <section class="page-content mw9 center">
+    <div class="mh5-l">
+      <h6 class="f7 fw7 ttu tracked black-40 pb0 pt3 mb0">RECENT POSTS</h6>
+      <div class="w-100 mt1">
+        {{ $posts := where site.RegularPages "Section" "posts" }}
+        {{ range first 5 $posts.ByDate.Reverse }}
+          <div class="pv1">
+            <a href="{{ .RelPermalink }}" class="link black hover-blue">
+              <h3 class="f5 fw6 mb0">{{ .Title }}</h3>
+            </a>
+            <time class="f7 ttu tracked gray">{{ .Date.Format "January 2, 2006" }}</time>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
 </main>
 {{ end }}

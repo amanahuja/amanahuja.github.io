@@ -1,6 +1,5 @@
 # Posts Scraps & Ideas
 
-
 ### Content for POSTS
 
 Client-adjacent posts related to evaluating LLM-based products (companion pieces to 4-6 posts published with client editorial/PR)
@@ -12,7 +11,6 @@ Posts must *mean something* - artifacts and narratives serve a claim, not the ot
 
 
 ## Scraps
-
 
 ## coauthoring with WRI 
 
