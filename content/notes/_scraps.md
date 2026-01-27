@@ -33,6 +33,8 @@ Experiments
 	
 Responsible AI
 * language around “Responsible AI” -- effort usually missed
+* regenerative digital public good -- see monolith note
+
 
 Old Notes from a Previous Life on the Internet
 * old pafnuty posts

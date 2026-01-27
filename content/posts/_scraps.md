@@ -25,6 +25,22 @@ See list of idea with WRI
 
 Anything above that doesn't make the cut for copublishing with WRI is a potential for notes/
 
+## past projects
+
+I had these side projects. Just putting something into the world is a good practice. It's okay that it's small and ephemeral. 
+* codewars.com -- battle.io.  This was actually used in a classroom at CU boulder. What year? 2011? This predated other algorithmic competition websites. Our "chess" variant of the site predated lichess.org . We had a great idea, I think. Why is it not relevant anymore? 
+    * recall we implemented the undercut game, the tanks game for the classroom, and worked on "bullshit". 
+    * we also intentionally implemented a "solved" game - connect4 and a "unsolved" game chess.
+    * project is archived but still downloadable at https://drive.google.com/drive/folders/0B2nx5D5BUn8RUi1ET3g3ZkxacUU?resourcekey=0-i-Q5FsPTf6QcZRuGEItpWw&usp=drive_link
+* thesexyshampoo.com -- this was a generative algorithm! It wasn't AI. It was just an implememtation of something we saw on GEB. But it started on a TI-89 calculator and made it online to pablosays.com at one point, which was at that time in the vein of those sites that just did one thing. 
+    * https://github.com/amanahuja/Pablo <-- might be able get it up and running locally to see how it looks
+    * https://docs.google.com/document/d/1fwzC5ZszkZzCfQ8eqy7cPMpWRGHAwV4mbXKhHm_qgHo/edit?hl=en&tab=t.0#heading=h.t4uld1-ruu6sb
+* for both of these: can I find screenshots or snapshots on web.archive.org?
+
+
+More academic explorations
+* Causal Theory of Perception.  This has interesting implications today with AI, doesn't it? 
+* 
 
 ## Garden-Adjacent (DPCS)  
 
