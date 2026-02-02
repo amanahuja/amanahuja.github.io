@@ -42,10 +42,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-// added aa
-// .alink {
-// 	@extend .#{$bodyLinkColor};
-// }
+// link is for links generally, and might make the "alink" unnecessary #AA
+.link { @extend .dim };
+.link { @extend .#{$bodyLinkColor}; }
+
+// alink was used outside of the page-main content, if those need to be different #AA
 .alink { @extend .link, .dim  ;} 
 .alink { @extend .#{$bodyLinkColor}; }
 
