@@ -1,14 +1,8 @@
 ---
-title: "Notes"
-description: "Quick thoughts and observations"
+title: "Welcome to 'Notes'"
+date: 2022-03-01
 author: Aman Ahuja
-images:
-  - https://via.placeholder.com/960x480?text=NOTES+SECTION
-layout: list-grid
-date: 2019-02-20T09:31:27-06:00
-publishDate: 2019-02-20T09:31:27-06:00
-show_post_date: true
-draft: true
+draft: false
 ---
 
 A new section of my website, experimentally different from regular "Posts". 
