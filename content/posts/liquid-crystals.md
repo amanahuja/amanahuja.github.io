@@ -19,6 +19,13 @@ draft: false
 
 [Part of a series of posts [reflecting on past projects](/series/project-learnings/)].
 
+post -- Liquid Crystals
+* lab
+* Life-cycle
+* career
+* personal
+* some photos from my lab notebook
+
 This was an early and formative experience of the relationship between academic instutions and their spin-offs, and between research and development, scientific study and engineering applications. Although the experience was very positive, I also saw the limits and inefficiencies in the ways these things worked. These observations helped me realized what I did not want to be doing with my career. 
 
 ## The science and the lab work

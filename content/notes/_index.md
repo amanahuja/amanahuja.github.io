@@ -17,3 +17,11 @@ A new section of my website, experimentally different from regular "Posts".
 * Content may not be as pertinent to business clients.
 
 My objective is to reduce self-imposed editorial pressure and enable myself to write more frequently. 
+
+Why write to publish
+* writing practice
+* building some confidence
+* refine ideas to publish
+* articulate rather than implied ideas
+* put this into your blog <-- why do you have a blog
+* "give yourself permission" in the description of the blog, 
