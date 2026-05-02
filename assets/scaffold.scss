@@ -73,12 +73,12 @@ h1, h2, h3, h4, h5, h6 {
 // apply tachyons classes to blog post markdown
 .post-body {
 
-  h1, h2, h3, h4, h5, h6 { @extend .lh-title ; }
-  h1 { @extend .f1 ; }
-  h2 { @extend .f2 ; }
-  h3 { @extend .f3 ; }
-  h4 { @extend .f4 ; }
-  h5 { @extend .f5 ; }
+  h1, h2, h3, h4, h5, h6 { @extend .lh-title ; color: inherit ; }
+  h1 { @extend .f2 ; }
+  h2 { @extend .f3 ; }
+  h3 { @extend .f4 ; }
+  h4 { @extend .f5 ; }
+  h5 { @extend .f6 ; }
   h6 { @extend .f6 ; }
 
   > p { @extend .lh-copy ; }
