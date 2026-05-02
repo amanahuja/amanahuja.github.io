@@ -10,6 +10,7 @@ slug: "recidivism-data-sharing"
 tags:
     - government
     - data-governance
+    - ethics
 series: 
     - "Fenris"
 categories: 

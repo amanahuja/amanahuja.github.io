@@ -12,6 +12,8 @@ log/
 /public/
 /resources/_gen/
 tags
+.llm/ 
+.agents/
 
 # Specific files #
 ##################
