@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header">
+        <h1 class="f2 lh-solid measure-narrow mb0 dark-gray">{{ .Title }}</h1>
+        {{ if .Params.subtitle }}<p class="f4 fw4 mt3 mb3 lh-title measure dark-gray">{{ .Params.subtitle }}</p>{{ end }}
+        {{ if .CurrentSection.Params.show_post_date }}<time class="f6 dark-gray db mt1 mb0">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
+        {{ if .CurrentSection.Params.show_author_byline }}<p class="f6 measure lh-copy mv1">{{ if .Params.author }}By {{ .Params.author }}{{ end }}{{ with .Params.categories }} in{{ range . }} <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}{{ end }}</p>{{ end }}
+      </header>
+      <section class="post-body pt4 pb4">
+        <div class="nested-copy-line-height lh-copy f4 nested-links nested-img dark-gray">
+          {{ .Content }}
+        </div>
+      </section>
+      <footer class="post-footer pt3">
+        {{ partial "shared/post-pagination.html" . }}
+      </footer>
+    </article>
+  </section>
+</main>
+{{ end }}
