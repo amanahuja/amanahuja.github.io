@@ -1,0 +1,29 @@
+{{- $target := .Permalink -}}
+{{- $apiURL := printf "https://webmention.io/api/mentions.jf2?target=%s&per-page=100" $target -}}
+{{- $mentions := resources.GetRemote $apiURL -}}
+{{- if $mentions -}}
+  {{- $data := $mentions | transform.Unmarshal -}}
+  {{- $children := $data.children | default slice -}}
+
+  {{- $likes := 0 -}}
+  {{- $reposts := 0 -}}
+  {{- $replies := 0 -}}
+
+  {{- range $children -}}
+    {{- $type := .wm_property | default "" -}}
+    {{- if eq $type "like-of" }}{{- $likes = add $likes 1 -}}{{- end -}}
+    {{- if eq $type "repost-of" }}{{- $reposts = add $reposts 1 -}}{{- end -}}
+    {{- if or (eq $type "in-reply-to") (eq $type "mention-of") }}{{- $replies = add $replies 1 -}}{{- end -}}
+  {{- end -}}
+
+  {{- $total := add $likes (add $reposts $replies) -}}
+  {{- if gt $total 0 -}}
+  <div class="webmentions f6 gray pt3 pb2 mt3 bt b--light-gray">
+    <a href="https://fed.brid.gy/r/{{ $target }}" class="link dark-green">Reactions on the fediverse</a>
+    {{- if gt $likes 0 }} · {{ $likes }} {{ if eq $likes 1 }}like{{ else }}likes{{ end }}{{- end -}}
+    {{- if gt $reposts 0 }} · {{ $reposts }} {{ if eq $reposts 1 }}repost{{ else }}reposts{{ end }}{{- end -}}
+    {{- if gt $replies 0 }} · {{ $replies }} {{ if eq $replies 1 }}reply{{ else }}replies{{ end }}{{- end }}
+    · <span class="i">updated ~ daily</span>
+  </div>
+  {{- end -}}
+{{- end -}}
