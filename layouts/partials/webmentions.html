@@ -18,12 +18,14 @@
 
   {{- $total := add $likes (add $reposts $replies) -}}
   {{- if gt $total 0 -}}
-  <div class="webmentions f6 gray pt3 pb2 mt3 bt b--light-gray">
-    <a href="https://fed.brid.gy/r/{{ $target }}" class="link dark-green">Reactions on the fediverse</a>
-    {{- if gt $likes 0 }} · {{ $likes }} {{ if eq $likes 1 }}like{{ else }}likes{{ end }}{{- end -}}
-    {{- if gt $reposts 0 }} · {{ $reposts }} {{ if eq $reposts 1 }}repost{{ else }}reposts{{ end }}{{- end -}}
-    {{- if gt $replies 0 }} · {{ $replies }} {{ if eq $replies 1 }}reply{{ else }}replies{{ end }}{{- end }}
-    · <span class="i">updated ~ daily</span>
+  <div class="webmentions f6 gray pt3 pb2 mt3 bt b--light-gray"><span class="b">Reactions:</span>
+    <a href="https://fed.brid.gy/r/{{ $target }}" class="link dark-green">
+    {{- $parts := slice -}}
+    {{- if gt $likes 0 }}{{- $parts = $parts | append (printf "%d %s" $likes (cond (eq $likes 1) "like" "likes")) -}}{{- end -}}
+    {{- if gt $reposts 0 }}{{- $parts = $parts | append (printf "%d %s" $reposts (cond (eq $reposts 1) "repost" "reposts")) -}}{{- end -}}
+    {{- if gt $replies 0 }}{{- $parts = $parts | append (printf "%d %s" $replies (cond (eq $replies 1) "reply" "replies")) -}}{{- end -}}
+    {{ delimit $parts " · " }}</a>
+    <span class="i">(updated daily)</span>
   </div>
   {{- end -}}
 {{- end -}}
