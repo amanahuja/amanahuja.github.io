@@ -1,11 +1,8 @@
 ---
 title: "Wall of Thanks"
 subtitle: "A possibly ill-advised move to add acknowledgements to this website"
-excerpt: ""
 date: 2024-06-28
 author: "Aman Ahuja"
-images:
-- 
 series:
 tags:
 categories:
