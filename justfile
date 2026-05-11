@@ -10,3 +10,8 @@ _default:
 newpost title:
     hugo new posts/{{title}}.md
     nvim content/posts/{{title}}.md
+
+# Create a new portfolio entry and open in nvim. Usage: just newportfolio my-entry-title
+newportfolio title:
+    hugo new portfolio/{{title}}.md
+    nvim content/portfolio/{{title}}.md
