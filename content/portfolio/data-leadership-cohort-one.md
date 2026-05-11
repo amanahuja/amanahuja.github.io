@@ -10,7 +10,7 @@ tags:
     - civil-society
     - data-governance
 categories: 
-  - "Projects"
+  - Projects
 layout: single-sidebar
 draft: false
 ---

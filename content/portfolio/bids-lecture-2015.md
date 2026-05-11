@@ -11,9 +11,9 @@ tags:
     - ethics
     - education
 series:
-    - "Aman"
+    - Aman
 categories: 
-    - "Talks"
+    - Talks
 layout: single-sidebar
 draft: false
 ---

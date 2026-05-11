@@ -11,9 +11,9 @@ tags:
     - civil-society
     - public-sector
 series:
-    - "Fenris"
+    - Fenris
 categories: 
-    - "Projects"
+    - Projects
 layout: single-sidebar
 draft: false
 highlights: "\

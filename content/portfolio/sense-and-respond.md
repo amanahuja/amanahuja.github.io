@@ -10,7 +10,7 @@ images:
 tags:
     - ethics
 categories: 
-    - "Papers"
+    - Papers
 layout: single-sidebar
 draft: False
 ---

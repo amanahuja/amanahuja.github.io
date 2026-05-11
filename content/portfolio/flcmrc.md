@@ -8,9 +8,9 @@ slug: "liquid-crystals"
 tags:
     - physics
 series:
-    - "Aman"
+    - Aman
 categories: 
-    - "Academic"
+    - Academic
 draft: true
 layout: single-sidebar
 ---

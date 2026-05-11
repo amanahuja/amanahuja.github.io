@@ -11,9 +11,9 @@ tags:
     - product
     - energy
 series: 
-    - "The Data Guild"
+    - The Data Guild
 categories: 
-    - "Projects"
+    - Projects
 layout: single-sidebar
 draft: false
 ---

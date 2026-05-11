@@ -11,10 +11,10 @@ tags:
     - civil-society
     - product
 series:
-    - "Fenris"
-    - "DataKind"
+    - Fenris
+    - DataKind
 categories: 
-    - "Projects"
+    - Projects
 draft: false
 layout: single-sidebar
 ---

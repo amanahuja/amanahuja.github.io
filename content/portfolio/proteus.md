@@ -9,9 +9,9 @@ images:
 tags:
     - healthcare
 series:
-    - "The Data Guild"
+    - The Data Guild
 categories: 
-    - "Projects"
+    - Projects
 layout: single-sidebar
 ---
 ### Overview

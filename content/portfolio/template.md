@@ -21,7 +21,7 @@ tags:
     - ethics
     - finance
     - government
-    - lifesciences
+    - life-sciences
     - llm
     - machine-learning
     - nonprofit
@@ -30,15 +30,16 @@ tags:
     - public-health
     - research
 series:
-    - "Fenris"
-    - "Aman"
-    - "DataKind"
-    - "The Data Guild"
+    - Fenris
+    - Aman
+    - DataKind
+    - The Data Guild
 categories: 
-    - "Academic"
-    - "Projects"
-    - "Talks"
-    - "Advisor"
+    - Academic
+    - Projects
+    - Talks
+    - Advisor
+    - Roles
 layout: single-sidebar
 draft: true
 ---

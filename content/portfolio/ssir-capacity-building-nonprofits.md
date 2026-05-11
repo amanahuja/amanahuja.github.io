@@ -9,11 +9,11 @@ images:
   - images/panel_03_nonprofits.png
 tags:
     - nonprofit
-    - civil society
+    - civil-society
 series:
-  - "Aman"
+  - Aman
 categories: 
-  - "Talks"
+  - Talks
 layout: single-sidebar
 draft: false
 ---

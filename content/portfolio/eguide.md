@@ -11,9 +11,9 @@ tags:
     - civil-society
     - product
 series:
-    - "Fenris"
+    - Fenris
 categories: 
-    - "Projects"
+    - Projects
 layout: single-sidebar
 draft: false
 ---
