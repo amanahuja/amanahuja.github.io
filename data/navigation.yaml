@@ -5,15 +5,18 @@ header:
   - name: About
     title: About Aman Ahuja
     url: /about/
-  - name: Contact
-    title: Contact Information
-    url: /contact/
   - name: Portfolio
     title: Projects and other work
     url: /portfolio/
+  - name: Posts
+    title: Polished writing and essays
+    url: /posts/
   - name: 🔗-Garden
     title: Civil Society Garden (🔗)
     url: /civil-society-garden/
+  - name: Contact
+    title: Contact Aman
+    url: /contact/
 
 footer:
   - name: Privacy

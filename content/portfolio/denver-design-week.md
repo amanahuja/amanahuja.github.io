@@ -11,9 +11,9 @@ tags:
     - design
     - product
 series:
-    - "Aman"
+    - Aman
 categories: 
-    - "Talks"
+    - Talks
 layout: single-sidebar
 draft: false
 ---

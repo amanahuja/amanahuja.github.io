@@ -7,13 +7,13 @@ images:
     - images/logos/datakind_logo_orange.png
 slug: "datakind-sf"
 tags:
-    - "Civil Society"
-    - "Non Profit"
-    - "Public Sector"
+    - civil-society
+    - nonprofit
+    - public-sector
 series: 
-    - "Aman"
+    - Aman
 categories: 
-    - "Roles"
+    - Roles
 layout: single-sidebar
 draft: false
 ---
@@ -26,6 +26,6 @@ I continue to advise and consult with DataKind Global and the Bay Area chapter.
 
 {{< figure class="db mh0 w-third" src="/images/logos/datakind_logo_orange.png" alt="DataKind logo" >}}
 
-[DataKind](https://www.datakind.org/) brings together data scientists with leading social change organizations for pro-bono collaborations to improve social impact. The [DataKindSF chapter](https://www.datakind.org/chapters/datakind-sf) supports goverment, non profits, and other social change organizations with a presence in San Francisco, Alameda, San Mateo, Santa Clara, and other counties in the SF Bay Area. 
+[DataKind](https://www.datakind.org/) brings together data scientists with leading social change organizations for pro-bono collaborations to improve social impact. The [DataKindSF chapter](https://www.datakind.org/chapters/datakind-sf) supports goverment, nonprofits, and other social change organizations with a presence in San Francisco, Alameda, San Mateo, Santa Clara, and other counties in the SF Bay Area. 
 
 

@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="blog-intro mw7 center mb5">
+    <h2 class="f2 f1-ns lh-solid tc center">{{ .Title }}</h2>
+    <p class="f6 f5-ns measure lh-copy tc center">{{ .Description }}</p>
+  </section>
+  <section class="blog-content mw7 center">
+    {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+    {{ range $paginator.Pages }}
+    <div class="post-list-item pv3 bb b--light-gray">
+      <a href="{{ .RelPermalink }}" class="link near-black hover-dark-green">
+        <h3 class="f4 fw6 mv0 lh-title">{{ .Title }}</h3>
+      </a>
+      {{ if .Params.subtitle }}<p class="f5 fw4 dark-gray mt1 mb0 lh-title">{{ .Params.subtitle }}</p>{{ end }}
+      <time class="f6 dark-gray db mt2">{{ .Date.Format "January 2, 2006" }}</time>
+    </div>
+    {{ end }}
+    {{ partial "shared/list-pagination.html" . }}
+  </section>
+</main>
+{{ end }}

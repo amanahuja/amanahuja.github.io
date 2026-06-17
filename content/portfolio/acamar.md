@@ -8,12 +8,12 @@ images:
       - "https://c2.staticflickr.com/4/3805/10193364234_530ccacdb6_b.jpg"
 slug: "acamar-platform"
 tags:
-    - lifesciences
+    - life-sciences
     - data-governance
 series: 
-    - "The Data Guild"
+    - The Data Guild
 categories:
-    - "Projects"
+    - Projects
 layout: single-sidebar
 draft: false
 ---

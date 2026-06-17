@@ -10,9 +10,9 @@ tags:
     - policy
     - litter
 series:
-    - "Fenris"
+    - Fenris
 categories: 
-    - "Projects"
+    - Projects
 layout: single-sidebar
 ---
 Fenris partnered with Litterati in 2023 to conduct comprehensive geospatial analysis of litter patterns across Europe, Africa, and South America. Working with stakeholders including the World Bank and Keep Britain Tidy, we transformed real-world litter observations into actionable data for environmental policy and waste management initiatives.
@@ -39,7 +39,7 @@ Litterati ([Litterati.org](https://litterati.org)): Providing The World’s Litt
 
 > Empowering people to create a cleaner planet by turning information into actionable insight.
 
-Fenris is a proud partner and we continue to work with Litterati beyond 2023. Follow this thread across the years: [series/litter](/series/litter)
+Fenris is a proud partner and we continue to work with Litterati beyond 2023. Follow this thread across the years: [tags/litter](/tags/litter)
 
 <!-- 
 Technologies Used

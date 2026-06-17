@@ -16,9 +16,9 @@ tags:
     - product
     - epidemiology
 series:
-    - "Fenris"
+    - Fenris
 categories: 
-    - "Projects"
+    - Projects
 layout: single-sidebar
 draft: false
 ---

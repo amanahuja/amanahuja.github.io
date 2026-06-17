@@ -1,11 +1,8 @@
 ---
 title: "Eticas Report on VioGén"
 subtitle: "The first report published by Eticas that explores independent and external audits of an algorithm. The subject is VioGén, a domestic violence risk calculation tool used by law enforcement in Spain."
-excerpt: "The first report published by Eticas that explores independent and external audits of an algorithm. The subject is VioGén, a domestic violence risk calculation tool used by law enforcement in Spain."
 date: 2021-03-18
 author: "Aman Ahuja"
-images:
-- 
 series:
 - 
 tags:
@@ -14,7 +11,7 @@ categories:
 - 
 # layout options: single or single-sidebar
 layout: single
-draft: false
+draft: true
 ---
 
 ## Overview

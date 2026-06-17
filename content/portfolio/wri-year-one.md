@@ -9,11 +9,11 @@ tags:
     - policy
     - energy
     - climate
-    - LLM
+    - llm
 series:
-    - "Fenris"
+    - Fenris
 categories:
-    - "Projects"
+    - Projects
 layout: single-sidebar
 draft: false
 ---

@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  <section class="page-content mw6 center">
+    <p class="f6 fw7 ttu tracked dark-green mb1 mt5">404</p>
+    <h1 class="f1 fw7 lh-solid near-black mt0 mb3">No Such Page</h1>
+    <p class="f4 lh-copy black-70 measure mb2">The requested URI could not be found.</p>
+    <p class="f4 lh-copy black-50 measure mb5">This resource may have moved or been relocated. If you followed a link from another site, it may be out of date.</p>
+    <div class="flex flex-wrap">
+      <a href="/"
+         class="dib ph3 pv2 mr3 mb3 f7 ttu tracked b bw1 ba br0 b--transparent dark-green bg-moon-gray hover-moon-gray hover-bg-dark-green bg-animate link pointer no-underline">
+        &larr; Back to amanahuja.me
+      </a>
+      <a id="report-link"
+         href="https://github.com/amanahuja/amanahuja.github.io/issues/new?title=Broken+link+report&body=I+found+a+broken+link+on+amanahuja.me"
+         class="dib ph3 pv2 mb3 f7 ttu tracked b bw1 ba br0 b--dark-green dark-green bg-transparent hover-bg-dark-green hover-near-white bg-animate link pointer no-underline"
+         target="_blank" rel="noopener">
+        Report this broken link &rarr;
+      </a>
+    </div>
+  </section>
+</main>
+
+<script>
+  (function() {
+    var link = document.getElementById('report-link');
+    if (link) {
+      var url = window.location.href;
+      link.href = 'https://github.com/amanahuja/amanahuja.github.io/issues/new?title=Broken+link+report&body=' + encodeURIComponent('I found a broken link at: ' + url);
+    }
+  })();
+</script>
+{{ end }}

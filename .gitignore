@@ -6,6 +6,7 @@
 
 # Directories #
 ###############
+llm/
 logs/
 log/
 /public/

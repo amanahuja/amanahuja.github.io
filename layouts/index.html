@@ -16,5 +16,28 @@
       </div>
     </div>
   </section>
+  
+  <section class="page-content mw9 center">
+    <div class="mh5-l">
+      <h6 class="f7 fw7 ttu tracked black-40 pb0 pt3 mb0">RECENT POSTS</h6>
+      <div class="w-100 mt1">
+        {{ $posts := where site.RegularPages "Section" "posts" }}
+        {{ range first 5 $posts.ByDate.Reverse }}
+          <div class="pv1">
+            <a href="{{ .RelPermalink }}" class="link black hover-blue">
+              <h3 class="f5 fw6 mb0">{{ .Title }}</h3>
+            </a>
+            <time class="f7 ttu tracked gray">{{ .Date.Format "January 2, 2006" }}</time>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- h-card: IndieWeb identity for Bridgy Fed / fediverse profile -->
+  <span class="h-card" hidden>
+    <a class="u-url u-uid p-name" rel="me" href="https://amanahuja.me">Aman Ahuja</a>
+    <img class="u-photo" src="/images/logos/amanahuja_me.png" alt="Aman Ahuja" />
+    <a class="u-url" href="acct:amanqa@amanahuja.me"></a>
+  </span>
 </main>
 {{ end }}

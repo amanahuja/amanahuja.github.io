@@ -10,12 +10,12 @@ images:
 tags:
     - civil-society
     - product
-    - lifesciences
+    - life-sciences
     - epidemiology
 series:
-    - "Fenris"
+    - Fenris
 categories: 
-    - "Projects"
+    - Projects
 layout: single-sidebar
 draft: false
 ---

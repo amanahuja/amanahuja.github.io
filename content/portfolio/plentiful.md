@@ -9,9 +9,9 @@ tags:
     - data-strategy
     - policy
 series:
-    - "Fenris"
+    - Fenris
 categories:
-    - "Projects"
+    - Projects
 layout: single-sidebar
 ---
 

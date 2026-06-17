@@ -38,8 +38,7 @@ draft: false
       <p class="f6 lh-copy measure">First and foremost, my family...
       </p>
       <ul class="list pl0 f6">
-        <li class="pv1"><a class="link dim mid-gray b" href="https://anyakandel.com">Anya</a><span class="pv1 mid-gray b"> and Naya</span></li>
-</li>
+        <li class="pv1 mid-gray b">Anya and Naya</span></li>
         <li class="pv1 mid-gray b">Veena and Nand</li>
         <li class="pv1 mid-gray b">Asheesh, Payal, Anushri</li>
         <li class="pv1 mid-gray b">Donna, Herb, Zosha, Kevin</li>
@@ -66,14 +65,14 @@ draft: false
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        <span class="b"><a class="link dim mid-gray" target="new" href="https://www.louispotok.com/">Louis Potok</a></span></br>
-       A long time colleague, Louis has been a thought-partner and accountability buddy for many years. He inspires me by <i>doing</i> where others talk. 
+        <a class="link dim mid-gray b" target="new" href="https://allengunn.com/">Gunner</a></br>
+        Gunner challenges my notions about what is important and what is possible. I am privileged to collaborate and converse regularly with him, and to be associated with AspirationTech.
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
       <p class="f6 lh-copy measure">
-        <a class="link dim mid-gray b" target="new" href="https://allengunn.com/">Gunner</a></br>
-        Gunner challenges my notions about what is important and what is possible. I am privileged to collaborate and converse regularly with him, and to be associated with AspirationTech.
+        <span class="b"><a class="link dim mid-gray" target="new" href="https://www.louispotok.com/">Louis Potok</a></span></br>
+       A long time colleague, Louis has been a thought-partner and accountability buddy for many years. He inspires me by <i>doing</i> where others talk. 
       </p>
     </div>
     <div class="fl w-100 w-50-m w-25-l pv3 pa3-m pa4-l">
@@ -105,7 +104,6 @@ draft: false
         <li class="pv1 link dim mid-gray"><a class="link dim mid-gray b" target="new" href="https://etachov.io/">Evan Tachovsky</a></li>
         <li class="pv1 link dim mid-gray b"><a class="link dim mid-gray" target="new" href="https://www.linkedin.com/in/jakeporway/">Jake Porway</a></li>
         <li class="pv1 link dim mid-gray b"><a class="link dim mid-gray" target="new" href="https://www.thinktwice.consulting/">Gabi Fitz</a></li>
-        <li class="pv1 link mid-gray b">Mohit Arora</a></li>
         <li class="pv1 mid-gray b">Arian Lalezari</li>
       </ul>
       </p>
@@ -123,11 +121,10 @@ I must include a few influences that are not personal connections, but whose wri
 
   <div class="fl w-two-thirds pv1">
     <ul class="list ph3 ph5-ns">
+      <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Amartya Sen</a></li>
+      <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Donella Meadows</a></li>
       <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Stephen J Gould</a></li>
       <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Karl Popper</a></li>
-      <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Donella Meadows</a></li>
-      <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Amartya Sen</a></li>
-      <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Rabindranath Tagore</a></li>
       <li class="dib mr2"><span class="f6 b db pa2 mid-gray">Jen Lowe</a></li>
     </ul>
   </div>

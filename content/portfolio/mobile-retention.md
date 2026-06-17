@@ -8,12 +8,12 @@ author: Aman Ahuja
 images:
     - /images/mobile_retention_02.png
 tags:
-    - "development"
-    - "financial"
+    - development
+    - finance
 series:
-    - "Aman"
+    - Aman
 categories: 
-    - "Papers"
+    - Papers
 layout: single-sidebar
 draft: False
 ---

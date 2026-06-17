@@ -1,11 +1,8 @@
 ---
 title: "Liquid Crystals and display R&D"
 subtitle: "I began to see the limits of scientific research and development (R&D) and to revise my own aspirations. I loved the lab and the thrill of discovery, and yet recognized where I didn't want my career to lead."
-excerpt: "This was an early and formative experience of the relationship between academic instutions and their spin-offs, and between research and development, scientific study and engineering applications."
 date: 2022-08-30
 author: "Aman Ahuja"
-images:
-- 
 series:
 - project-learnings
 tags:
@@ -14,10 +11,17 @@ categories:
 - reflections
 # layout options: single or single-sidebar
 layout: single
-draft: false
+draft: true
 ---
 
 [Part of a series of posts [reflecting on past projects](/series/project-learnings/)].
+
+post -- Liquid Crystals
+* lab
+* Life-cycle
+* career
+* personal
+* some photos from my lab notebook
 
 This was an early and formative experience of the relationship between academic instutions and their spin-offs, and between research and development, scientific study and engineering applications. Although the experience was very positive, I also saw the limits and inefficiencies in the ways these things worked. These observations helped me realized what I did not want to be doing with my career. 
 
