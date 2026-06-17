@@ -4,7 +4,7 @@ subtitle: "A possibly ill-advised move to add acknowledgements to this website"
 date: 2024-06-28
 author: "Aman Ahuja"
 categories:
-    - website-meta
+    - meta
 tags:
   - values
 layout: single
