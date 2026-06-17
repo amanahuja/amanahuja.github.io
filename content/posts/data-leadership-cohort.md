@@ -6,6 +6,32 @@ author: "Aman Ahuja"
 draft: true
 ---
 
+In 2022, I worked with Gunner at Aspiration to create a peer-learning group
+around data governance challenges. This writeup of that experience is much
+belated. 
+
+-- 
+
+Gunner is master facilitator ... 
+
+
+thoughts
+* the call for participation
+* working with Sean
+* centering peer learning, and why that's important
+* That's what makes Gunner the perfect partner
+* providing support and frameworks for thinking without lecturing. 
+* knowing the content really well. That's what makes Sean a great partner. 
+* types of participants, and the categories of questions they brought forth 
+* what they might have learned
+* key learnings for me personally
+* failure: staying connected with these individuals
+
+links: 
+Fenris link(s): announcement, wrap up. 
+Aspiration link: CFP, cohort page. 
+
+
 ### Overview
 
 The Data Leadership Cohort 
