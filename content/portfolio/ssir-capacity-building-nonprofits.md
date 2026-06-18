@@ -21,7 +21,7 @@ This panel discussion explored themes of building capacity for advanced data ski
 
 The panel, incorporating experts from diverse sectors, was moderated by Kevin Miller from the Microsoft Cities Team, alongside Kauser Razvi from Strategic Urban Solutions, Kathryn Pettit from The Urban Institute, and Aman Ahuja from Fenris. 
 
-The discussion delved into:
+The discussion explored: 
 * **Roles Across Sectors**: Exploring the distinct yet complementary roles of private sector entities, foundations, government bodies, and other civic actors in fostering data capacity.
 * **Capacity Building Elements**: Identifying key factors that contribute to successful capacity building, particularly in the context of advanced technologies like ML and AI.
 * **Scalability Challenges**: Discussing strategies to effectively scale up capacity-building initiatives for substantial, system-wide impact.
