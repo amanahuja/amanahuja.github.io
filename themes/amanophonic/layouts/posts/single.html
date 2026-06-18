@@ -8,7 +8,8 @@
         {{ if .CurrentSection.Params.show_post_date }}<time class="f6 dark-gray db mt1 mb0 dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
         {{ if .CurrentSection.Params.show_author_byline }}<p class="f6 measure lh-copy mv1">{{ if .Params.author }}By {{ .Params.author }}{{ end }}{{ with .Params.categories }} in{{ range . }} <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}{{ end }}</p>{{ end }}
         <a class="u-url" href="{{ .Permalink }}" hidden></a>
-        {{ if .Params.author }}<span class="p-author" hidden>{{ .Params.author }}</span>{{ end }}
+        {{ if .Params.author }}<a class="p-author h-card" href="{{ .Site.BaseURL }}" hidden>{{ .Params.author }}</a>{{ end }}
+        {{ range .Params.tags }}<a class="p-category" href="{{ "tags/" | absURL }}{{ . | urlize }}" hidden>{{ . }}</a>{{ end }}
       </header>
       <section class="post-body pt4 pb4">
         <div class="nested-copy-line-height lh-copy f4 nested-links nested-img dark-gray e-content">
