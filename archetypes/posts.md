@@ -9,7 +9,9 @@ categories:
   - project-learnings
 tags:
 # Use many. Have AI suggest tags based on draft content.
+# will show up in fediverse bridged post header as "p-category"
 # - origins
+# - footag
 series:
 # For sequences with a defined order. Used rarely. Only one.
 # - "LLM Evaluations" 
