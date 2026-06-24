@@ -16,7 +16,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on [pafnuty.wordpress.com](https://pafnuty.wordpress.com/2010/03/25/anelkas-dilemma/) in March 2010. Reposted here as part of pulling old writing into one place.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/03/25/anelkas-dilemma/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 25, 2010.*
 
 ---
 

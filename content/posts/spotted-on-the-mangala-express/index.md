@@ -17,12 +17,12 @@ layout: single
 draft: false
 ---
 
-*Originally published on [pafnuty.wordpress.com](https://pafnuty.wordpress.com/2011/12/30/spotted-on-the-mangala-express/) in December 2011. Reposted here as part of pulling old writing into one place.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/12/30/spotted-on-the-mangala-express/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 30, 2011.*
 
 ---
 
 Spotted while traveling on the [Mangala Express](http://en.wikipedia.org/wiki/Mangala_Lakshadweep_Express), from Ernakulum in Kerala to Panvel near Mumbai.
-[caption id="attachment\_641" align="aligncenter" width="300" caption="Mangala Lakshadweep Express"][![Mangala Express](img_34951.jpg?w=300 "Mangala Express")](img_34951.jpg)[/caption]
+{{< figure src="img_34951.jpg" alt="Mangala Express" caption="Mangala Lakshadweep Express" link="img_34951.jpg" >}}
 
 ### From the window
 
@@ -41,4 +41,4 @@ Vendors running with good to load onto the train; groups of men stretching their
 [![](img_35011.jpg?w=119 "Book vendor on the Mangala Express train, Kerala")](img_35011.jpg)Salesmen walking the isles, hawking their goods: vada, daal vada, chai, coffee, samosa, pakora, break pakora, water, soda, an omelette lunch, egg biryani dinner, pav-wara, bhel masala, cheap necklaces and trinkets. A man with a tall stack of books: children's coloring books, political books, religious books, mostly in Malayalam -- he leaves a pile in each area, and comes back a long while later after they've been perused, hoping for a sale. A man selling large cloth sheets, for use as bedsheets or perhaps even dhotis.
 A young woman struggling awkwardly with the climb down from the top berth, facing the wrong way but finds footholds with her husband's help. A couple in a berth: the woman's head on his lap, his head nodding rhythmically in sleep, their fingers intertwined. A lady with the air of academia, reading a book in Malayalam with stern gold spectacles low on her nose. A smelly young boy mildly escorted out of sleeper class to coach chair.
 Observed entire conversations held in hand gestures and head motions, and then, eventually, joined in.
-[caption id="attachment\_644" align="alignright" width="1024" caption="(Click to view complete gallery)"][![](india-mangala-express.jpg?w=1024 "India - Mangala Express Collage")](https://picasaweb.google.com/111290390897615585418/IndiaMangalaExpress)[/caption]
+{{< figure src="india-mangala-express.jpg" alt="India - Mangala Express Collage" caption="(Click to view complete gallery)" link="https://picasaweb.google.com/111290390897615585418/IndiaMangalaExpress" >}}

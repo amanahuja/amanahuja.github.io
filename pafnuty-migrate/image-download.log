@@ -1,9 +1,9 @@
 SKIP (external)  textual-discourse  http://infosthetics.com/archives/emergence_project.jpg
 OK               aggregates-and-crystals  dla21.png  (8094 bytes)
-OK               aggregates-and-crystals  coral.png  (8757 bytes)
-OK               greateincreased-diversity-through-evolutionary-algorithms  countryresidence12.jpg  (3988 bytes)
-OK               greateincreased-diversity-through-evolutionary-algorithms  voyage-moscou-b12.jpg  (12048 bytes)
-OK               greateincreased-diversity-through-evolutionary-algorithms  helix-hotel-abudhabi1.jpg  (3697 bytes)
+OK               aggregates-and-crystals  coral.png  (22616 bytes)
+OK               greateincreased-diversity-through-evolutionary-algorithms  countryresidence12.jpg  (61679 bytes)
+OK               greateincreased-diversity-through-evolutionary-algorithms  voyage-moscou-b12.jpg  (16256 bytes)
+OK               greateincreased-diversity-through-evolutionary-algorithms  helix-hotel-abudhabi1.jpg  (29694 bytes)
 OK               explanation-of-lenet-jargon  ann_layers.png  (12269 bytes)
 OK               queen-problems  puzzle-5bq-3wq1.jpg  (11019 bytes)
 OK               queen-problems  queen-triangles.png  (13133 bytes)
@@ -28,7 +28,7 @@ SKIP (external)  a-sculpture-that-perpetually-sells-itself-on-ebay  http://farm3
 SKIP (external)  a-sculpture-that-perpetually-sells-itself-on-ebay  http://www.gravatar.com/avatar/4d79d5109431cf16f7cd4e1c05791afb?s=60&amp;d=http://laughingsquid.com/wordpress/wp-includes/images/blank.gif
 SKIP (external)  from-bering-in-mind-if-darwin-were-a-sports-psychologist-evolution-and-athletics  http://www.scientificamerican.com/media/inline/blog/Image/chimp_with_soccer_ball.jpg
 SKIP (external)  anelkas-dilemma  http://posterous.com/getfile/files.posterous.com/pafnuty/RWLiC3tAM0jTkqdXDZszpVX5ELd0wUeXNBXArkcq2G7OS9PCT9ewR55y6uNy/AnelkaDilemma-Ignacio.jpg
-OK               anelkas-dilemma  anelkadilemma-ignacio-scaled-500.jpg  (25974 bytes)
+OK               anelkas-dilemma  anelkadilemma-ignacio-scaled-500.jpg  (77737 bytes)
 OK               anelkas-dilemma  anelkadilemma.jpg  (64271 bytes)
 SKIP (external)  frankenphone  http://library.ucf.edu/Exhibits/Frankenstein/images/Frankenstein.gif
 SKIP (external)  frankenphone  http://www.calllet.com/wp-content/uploads/2009/05/motorola-razr-v3.jpg
@@ -68,9 +68,9 @@ OK               spotted-on-the-mangala-express  img_34951.jpg  (2283032 bytes)
 OK               spotted-on-the-mangala-express  img_3496.jpg  (1425540 bytes)
 OK               spotted-on-the-mangala-express  img_3497.jpg  (1109158 bytes)
 OK               spotted-on-the-mangala-express  img_35011.jpg  (1232892 bytes)
-OK               spotted-on-the-mangala-express  india-mangala-express.jpg  (188100 bytes)
-OK               acer-nic-mystery-and-a-short-panic  img_4246.jpg  (21454 bytes)
-OK               acer-nic-mystery-and-a-short-panic  img_4248.jpg  (14540 bytes)
+OK               spotted-on-the-mangala-express  india-mangala-express.jpg  (3264236 bytes)
+OK               acer-nic-mystery-and-a-short-panic  img_4246.jpg  (1461675 bytes)
+OK               acer-nic-mystery-and-a-short-panic  img_4248.jpg  (1931782 bytes)
 SKIP (external)  the-mgnrega-program  http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Indian_Rupee_symbol.svg/7px-Indian_Rupee_symbol.svg.png
 OK               the-mgnrega-program  nrega_budget1.png  (27479 bytes)
 OK               the-mgnrega-program  mahatma-gandhi-nrega_final-logo.jpg  (311291 bytes)
@@ -114,11 +114,11 @@ OK               andrews-curves-now-free-with-python-pandas-reading-log  andrews
 OK               google-search-definitions-upgrade-is-amazing  incorrigible-google-search.png  (34648 bytes)
 SKIP (external)  uc-berkeley-bids-launch-and-conscilience  http://commons.wikipedia.org/wiki/File:Berkeley_Horizontal_Logo.PNG
 SKIP (external)  uc-berkeley-bids-launch-and-conscilience  http://upload.wikimedia.org/wikipedia/commons/1/13/Berkeley_Horizontal_Logo.PNG
-OK               uc-berkeley-bids-launch-and-conscilience  bbtpcj8cyaatgpk.jpg  (11914 bytes)
-OK               change-detection-tutorial  example_signal_01.png  (5277 bytes)
+OK               uc-berkeley-bids-launch-and-conscilience  bbtpcj8cyaatgpk.jpg  (87637 bytes)
+OK               change-detection-tutorial  example_signal_01.png  (9525 bytes)
 OK               change-detection-tutorial  online_detection_01.png  (12033 bytes)
-OK               change-detection-tutorial  seasonal_signal_01.png  (5423 bytes)
-OK               change-detection-tutorial  noise_outliers_01.png  (5134 bytes)
-OK               change-detection-tutorial  ekg_plot_01.png  (12429 bytes)
-OK               change-detection-tutorial  ekg_basis_dictionary_01.png  (13727 bytes)
-OK               change-detection-tutorial  reconstructed_ekg_01.png  (14034 bytes)
+OK               change-detection-tutorial  seasonal_signal_01.png  (15896 bytes)
+OK               change-detection-tutorial  noise_outliers_01.png  (17543 bytes)
+OK               change-detection-tutorial  ekg_plot_01.png  (37986 bytes)
+OK               change-detection-tutorial  ekg_basis_dictionary_01.png  (59615 bytes)
+OK               change-detection-tutorial  reconstructed_ekg_01.png  (104109 bytes)

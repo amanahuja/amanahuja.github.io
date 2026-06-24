@@ -19,7 +19,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on [pafnuty.wordpress.com](https://pafnuty.wordpress.com/2011/04/01/sigmoid-function-fail/) in April 2011. Reposted here as part of pulling old writing into one place.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/04/01/sigmoid-function-fail/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: April 1, 2011.*
 
 ---
 
@@ -27,7 +27,7 @@ Plot the sigmoid function.
 
 $latex sig(u)=\frac{1}{1+e^{-u}}$
 
-[caption id="attachment\_445" align="aligncenter" width="640"][![](sigmoid_fail.png "sigmoid_fail")](sigmoid_fail.png) Does this look sigmoidal to you?[/caption]
+{{< figure src="sigmoid_fail.png" alt="sigmoid_fail" caption="Does this look sigmoidal to you?" link="sigmoid_fail.png" >}}
 A result that confused me until [Thanks, Sasha] I noticed the tick values on my x-axis, which matplotlib selected unintelligently.  If we simply correct the plot domain.
 `xs = [0.01*x for x in range(-1000,1000)]`
 [![](win-sigmoid.png?w=300 "win-sigmoid")](win-sigmoid.png)

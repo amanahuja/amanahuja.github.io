@@ -14,11 +14,12 @@ layout: single
 draft: false
 ---
 
-*Originally published on [pafnuty.wordpress.com](https://pafnuty.wordpress.com/2011/03/11/guest-post-pun-habit/) in March 2011. Reposted here as part of pulling old writing into one place.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/03/11/guest-post-pun-habit/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 11, 2011.*
 
 ---
 
 **Guest Post by Adam Tornheim**
 > My habit: pointing out puns made unwittingly by other people.
 
-[caption id="attachment\_411" align="aligncenter" width="1024" caption="My habit: pointing out puns made unwittingly by other people."][![](pun-cartoon1.jpg?w=1024 "Pun habit cartoon")](pun-cartoon1.jpg)[/caption]
+
+{{< figure src="pun-cartoon1.jpg" alt="Pun habit cartoon" caption="My habit: pointing out puns made unwittingly by other people." link="pun-cartoon1.jpg" >}}

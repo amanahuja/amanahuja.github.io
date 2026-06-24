@@ -20,7 +20,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on [pafnuty.wordpress.com](https://pafnuty.wordpress.com/2012/02/14/acer-nic-mystery-and-a-short-panic/) in February 2012. Reposted here as part of pulling old writing into one place.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/02/14/acer-nic-mystery-and-a-short-panic/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: February 14, 2012.*
 
 ---
 

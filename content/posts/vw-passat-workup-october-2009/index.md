@@ -16,7 +16,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on [pafnuty.wordpress.com](https://pafnuty.wordpress.com/2009/10/22/vw-passat-workup-october-2009/) in October 2009. Reposted here as part of pulling old writing into one place.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/10/22/vw-passat-workup-october-2009/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 22, 2009.*
 
 ---
 

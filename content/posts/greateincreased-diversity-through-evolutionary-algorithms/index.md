@@ -17,7 +17,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on [pafnuty.wordpress.com](https://pafnuty.wordpress.com/2009/05/10/greateincreased-diversity-through-evolutionary-algorithms/) in May 2009. Reposted here as part of pulling old writing into one place.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/05/10/greateincreased-diversity-through-evolutionary-algorithms/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: May 10, 2009.*
 
 ---
 
