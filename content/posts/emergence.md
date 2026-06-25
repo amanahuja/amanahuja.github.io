@@ -7,7 +7,7 @@ series:
 tags:
   - emergence
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---

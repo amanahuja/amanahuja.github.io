@@ -10,7 +10,7 @@ tags:
   - information theory
   - publication
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

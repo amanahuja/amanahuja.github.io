@@ -9,7 +9,7 @@ tags:
   - shoulder
   - superspinatus
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---

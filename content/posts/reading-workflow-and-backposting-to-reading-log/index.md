@@ -16,7 +16,7 @@ tags:
   - web feed
   - workflow
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

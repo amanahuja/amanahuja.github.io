@@ -9,7 +9,7 @@ tags:
   - evolution
   - sports psychology
 categories:
-  - CHANGETHISCATEGORY
+  - observations
 layout: single
 draft: false
 ---

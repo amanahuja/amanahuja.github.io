@@ -10,7 +10,7 @@ tags:
   - genetic algorithm
   - hello world
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

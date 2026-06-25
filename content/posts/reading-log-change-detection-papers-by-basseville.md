@@ -16,7 +16,7 @@ tags:
   - stopping rule
   - time series
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

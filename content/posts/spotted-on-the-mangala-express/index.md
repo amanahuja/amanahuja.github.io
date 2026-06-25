@@ -12,7 +12,7 @@ tags:
   - malayalam
   - mangala express
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---

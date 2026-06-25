@@ -7,7 +7,7 @@ series:
 tags:
   - digression
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---

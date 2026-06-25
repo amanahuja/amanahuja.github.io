@@ -13,7 +13,7 @@ tags:
   - reading log
   - translation
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

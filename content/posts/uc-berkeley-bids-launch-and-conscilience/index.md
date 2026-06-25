@@ -17,7 +17,7 @@ tags:
   - tim o'reilly
   - university of california berkeley
 categories:
-  - CHANGETHISCATEGORY
+  - observations
 layout: single
 draft: false
 ---

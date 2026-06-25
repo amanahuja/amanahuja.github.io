@@ -14,7 +14,7 @@ tags:
   - neural networks
   - visual processing
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

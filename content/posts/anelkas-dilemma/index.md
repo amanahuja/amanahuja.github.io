@@ -11,7 +11,7 @@ tags:
   - soccer
   - sports statistics
 categories:
-  - CHANGETHISCATEGORY
+  - observations
 layout: single
 draft: false
 ---

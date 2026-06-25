@@ -12,7 +12,7 @@ tags:
   - planet
   - space
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---

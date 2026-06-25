@@ -16,7 +16,7 @@ tags:
   - ubuntu
   - wordpress
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

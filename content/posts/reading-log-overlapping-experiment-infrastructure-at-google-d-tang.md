@@ -14,7 +14,7 @@ tags:
   - testing
   - testing infrastructure
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

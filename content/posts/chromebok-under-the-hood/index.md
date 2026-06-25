@@ -13,7 +13,7 @@ tags:
   - intel nm10
   - under-the-hood
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

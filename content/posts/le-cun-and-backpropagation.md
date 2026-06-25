@@ -9,7 +9,7 @@ tags:
   - neural network
   - neural networks
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

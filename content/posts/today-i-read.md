@@ -10,7 +10,7 @@ tags:
   - reading log
   - resolution
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

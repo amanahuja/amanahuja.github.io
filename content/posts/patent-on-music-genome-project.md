@@ -13,7 +13,7 @@ tags:
   - stanford
   - tim westergren
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

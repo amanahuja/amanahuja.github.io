@@ -14,7 +14,7 @@ tags:
   - sport salaries
   - thierry henry
 categories:
-  - CHANGETHISCATEGORY
+  - observations
 layout: single
 draft: false
 ---

@@ -5,18 +5,21 @@ author: "Aman Ahuja"
 series:
   - pafnuty-blog
 tags:
-  - culinary pursuit
-  - digression
-  - hot
-  - not spicy
+  - culinary
   - spicy
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---
 
 *Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/01/17/not-hot-enough/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 17, 2011.*
+
+Reposted June 2026. I don't plan to post about food/cooking these days, although
+that's a hobby I still enjoy very much. And spiciness, well, both litterally
+and metaphorically (allegorically?), is much diminished these day. My 1.5
+year old often wants a bite of whatever I'm eating, and I like to encourage
+that, so I avoid the heat. 
 
 ---
 
@@ -28,4 +31,4 @@ This is an itch that's hard to scratch. The timing has to be right -- if you're 
 
 But the problem is that, sometimes, none of those problems exist, and the stars are aligned and night is cool and ...  and the meal just does not deliver. This is an incredibly frustrating experience that we've all had. It's the feeling you get when you're using the "nuclear" sauce like spaghetti sauce or when your side of green beans is smaller than your chili *achaar*, yet a few bites in you've already adjusted to the heat. There's no more challenge, no more rush, no more pain. You've wiped a little sweat of your brow and sniffed a bit, but the food is just ... not ... hot enough.
 
-And although this *is* just a ridiculous drawn out metaphor, it actually is also true in a literal sense. So if you have any tips for me on how to get this type of fix -- without the spiciness that requires hospitalization or that burns your lips for hours afterwards or that gives you stomach ulcers for days -- then let me know.
+And although this *is* just a ridiculous drawn out allegory, it actually is also true in a literal sense. So if you have any tips for me on how to get this type of fix -- without the spiciness that requires hospitalization or that burns your lips for hours afterwards or that gives you stomach ulcers for days -- then let me know.

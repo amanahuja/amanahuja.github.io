@@ -14,7 +14,7 @@ tags:
   - tedtalk
   - visual processing
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

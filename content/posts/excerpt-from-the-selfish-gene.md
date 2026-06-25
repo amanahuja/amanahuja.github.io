@@ -12,7 +12,7 @@ tags:
   - genetic algorithm
   - genetics
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---

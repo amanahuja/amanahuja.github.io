@@ -11,7 +11,7 @@ tags:
   - passat
   - volkswagen
 categories:
-  - CHANGETHISCATEGORY
+  - observations
 layout: single
 draft: false
 ---

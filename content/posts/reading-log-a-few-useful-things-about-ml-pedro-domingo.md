@@ -15,7 +15,7 @@ tags:
   - reading log
   - training set
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

@@ -17,7 +17,7 @@ tags:
   - k-means clustering
   - kmeans
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

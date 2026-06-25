@@ -12,7 +12,7 @@ tags:
   - reading log
   - wasps
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

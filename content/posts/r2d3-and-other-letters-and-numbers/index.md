@@ -21,7 +21,7 @@ tags:
   - raphael
   - rstats
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

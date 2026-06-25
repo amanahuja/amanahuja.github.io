@@ -1,30 +1,41 @@
 ---
-title: "Weightlifting ant is photo winner"
+title: "Weightlifting ant is photo winner"
 date: 2010-02-23
 author: "Aman Ahuja"
 series:
   - pafnuty-blog
 tags:
-  - ant
-  - ant colony
-  - digression
   - emergence
-  - evolution
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---
 
 *Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/02/23/weightlifting-ant-is-photo-winner/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: February 23, 2010.*
 
+Reposted June 2026. In the late 2000s I was pretty interested in ants. I'd
+been long interested in complexity and biological examples of emergent
+phenomenon. I read EO Wilson, was very interested in large ant and termite
+colonies, and around that time I took a trip to Costa Rica. 
+
+I found instructions to build tiny 6 legged robots with "muscle-wire"
+actuators, and had dreams of making a swarm of them. Each would have simple
+rules to follow; I'd use simulations to find the right rules. Then I could
+see emergent behavior in action. I only built a handful in the end, but the
+simulations -- those became a rabbit hole. 
+
+In this post the entire content seems to be extracted from the BBC article;
+I didn't at the time add any personal context or reactions. From what I
+chose to include from the article, seems I was interested in the ant's
+adhesive system. 
+
 ---
 
-|  |
-| --- |
-| The photograph of the Asian weaver ant carrying a 500mg weight Ants change the size of their feet to help them lift |
 
 **An amazing image of an ant lifting 100 times its body weight has won first prize in a science photography contest.**
+
+{{< figure src="endlein_weaver_ant.jpg" alt="Asian weaver ant lifting 500mg weight" caption="Photo by Dr Thomas Endlein, Cambridge University" >}}
 
 The image shows an Asian weaver ant hanging upside down on a glass-like surface and holding a 500mg (0.02oz) weight in its jaws.
 

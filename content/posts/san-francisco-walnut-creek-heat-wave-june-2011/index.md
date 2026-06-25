@@ -16,7 +16,7 @@ tags:
   - temperature data
   - walnut creek
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---

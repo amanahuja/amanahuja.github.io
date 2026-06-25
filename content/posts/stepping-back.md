@@ -7,12 +7,16 @@ series:
 tags:
   - digression
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---
 
 *Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/10/26/stepping-back/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 26, 2011.*
+
+Reposted June 2026. This post from the old blog had high engagement;
+mostly via hackernews. It's interesting journal-like post, and captures a 
+particular and important moment in my career. 
 
 ---
 

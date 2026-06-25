@@ -10,7 +10,7 @@ tags:
   - food
   - porter
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---
@@ -19,7 +19,7 @@ draft: false
 
 ---
 
-Know your drink, and drink what you know.
+Know what you drink, and drink what you know.
 
 This is the time of year we turn to the darker beers like Porters.
 > The style known as 'Porter' has changed every generation during its three year history. At first it was a beer made largely from a moderately kilned "brown" malt, which gave it a rich toastiness and full body. When brewers working with a hydrometer discovered how inefficient this was, they switched over to the more extract-rich pale malt, in about 1780. This left them with a problem of how to achieve the former dark brown color, and various preparations of burnt sugar, though largely illegal, were employed. This dramatically changed the taste of the beer.

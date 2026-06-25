@@ -7,12 +7,16 @@ series:
 tags:
   - digression
 categories:
-  - CHANGETHISCATEGORY
+  - observations
 layout: single
 draft: false
 ---
 
 *Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2013/10/31/google-search-definitions-upgrade-is-amazing/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 31, 2013.*
+
+Reposted June 2026.  Ahh, back when Google's updates to Search were
+improvements that actually benefitted the user. Seems in 2013 I still 
+liked Google. 
 
 ---
 

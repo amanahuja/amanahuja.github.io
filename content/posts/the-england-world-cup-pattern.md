@@ -12,7 +12,7 @@ tags:
   - south africa 2010
   - world cup
 categories:
-  - CHANGETHISCATEGORY
+  - reflections
 layout: single
 draft: false
 ---

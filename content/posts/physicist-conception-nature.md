@@ -13,7 +13,7 @@ tags:
   - physics in nature
   - reading log
 categories:
-  - CHANGETHISCATEGORY
+  - reading-log
 layout: single
 draft: false
 ---

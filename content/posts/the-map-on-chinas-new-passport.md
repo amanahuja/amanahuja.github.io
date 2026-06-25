@@ -7,14 +7,12 @@ series:
 tags:
   - china
   - controversial map
-  - controversy
   - foreign policy
   - india
-  - indian subcontinent
   - map
   - passport
 categories:
-  - CHANGETHISCATEGORY
+  - observations
 layout: single
 draft: false
 ---

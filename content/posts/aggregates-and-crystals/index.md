@@ -14,7 +14,7 @@ tags:
   - nature
   - simple
 categories:
-  - CHANGETHISCATEGORY
+  - experiments
 layout: single
 draft: false
 ---
