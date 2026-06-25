@@ -4,9 +4,14 @@ subtitle: "This shows up in previews (homepage and listing)"
 date: {{ .Date | dateFormat "2006-01-02" }}
 author: "Aman Ahuja"
 categories:
-# Apply 1-3 per post.
-# Keep total to ~5. Add to archetype when new.
-  - project-learnings
+# Apply 1-3 per post. Available categories:
+#   meta             — posts about this site or writing itself
+#   reflections      — personal essays, observations, travel, culture
+#   project-learnings — lessons from consulting/advisory engagements
+#   reading-log      — reading notes and summaries
+#   experiments      — technical explorations, algorithms, tinkering
+#   observations     — commentary on things noticed in the world
+  - 
 tags:
 # Use many. Have AI suggest tags based on draft content.
 # will show up in fediverse bridged post header as "p-category"
