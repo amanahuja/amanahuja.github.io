@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "BARAC: Rank Aware Interval Based Clustering "
 date: 2012-10-19
 author: "Aman Ahuja"

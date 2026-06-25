@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Self-serve Yogurt"
 date: 2010-09-14
 author: "Aman Ahuja"

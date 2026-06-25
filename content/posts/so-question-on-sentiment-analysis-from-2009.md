@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "SO question on sentiment analysis -- from 2009"
 date: 2012-08-13
 author: "Aman Ahuja"

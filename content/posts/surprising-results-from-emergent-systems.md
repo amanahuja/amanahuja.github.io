@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Surprising Results from Emergent Systems"
 date: 2008-12-15
 author: "Aman Ahuja"

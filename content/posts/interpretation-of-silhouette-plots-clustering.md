@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Interpretation of Silhouette Plots (Clustering)"
 date: 2013-02-04
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Spotted on the Mangala Express"
 date: 2011-12-30
 author: "Aman Ahuja"

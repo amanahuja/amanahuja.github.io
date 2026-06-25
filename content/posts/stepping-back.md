@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Stepping back"
 date: 2011-10-26
 author: "Aman Ahuja"

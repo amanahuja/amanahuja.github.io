@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Le Cun and Backpropagation"
 date: 2009-06-14
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Reading Log: \"MAD Skills: New Analysis Practices for Big Data\", Cohen"
 date: 2013-03-15
 author: "Aman Ahuja"

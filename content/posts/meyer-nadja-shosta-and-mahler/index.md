@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Meyer, Nadja, Shosta, and Mahler"
 date: 2010-09-27
 author: "Aman Ahuja"

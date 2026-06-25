@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "The England-World Cup Pattern"
 date: 2010-06-27
 author: "Aman Ahuja"

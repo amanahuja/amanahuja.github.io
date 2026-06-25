@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Google challenge: Xalim Oakflower"
 date: 2012-08-15
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Reading Log: Tasting Beer"
 date: 2011-01-12
 author: "Aman Ahuja"

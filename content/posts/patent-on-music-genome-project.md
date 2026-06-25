@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Patent on Music Genome Project"
 date: 2012-03-16
 author: "Aman Ahuja"

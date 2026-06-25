@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Change Detection Tutorial"
 date: 2014-05-29
 author: "Aman Ahuja"

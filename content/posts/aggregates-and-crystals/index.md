@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Aggregates, Crystals and a simple algorithm to explore."
 date: 2009-02-18
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Detached HEAD -- a git discovery"
 date: 2013-04-11
 author: "Aman Ahuja"

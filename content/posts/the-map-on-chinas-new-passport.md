@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "The map on China's new passport"
 date: 2012-11-26
 author: "Aman Ahuja"

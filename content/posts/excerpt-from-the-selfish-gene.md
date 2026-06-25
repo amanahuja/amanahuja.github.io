@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Excerpt from The Selfish Gene"
 date: 2009-06-09
 author: "Aman Ahuja"

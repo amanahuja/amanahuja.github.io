@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Yann Le Cun"
 date: 2009-06-13
 author: "Aman Ahuja"

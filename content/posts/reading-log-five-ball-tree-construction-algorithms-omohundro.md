@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Reading Log: \"Five Ball-Tree Construction Algorithms\", Omohundro"
 date: 2013-06-19
 author: "Aman Ahuja"

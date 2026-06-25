@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "MRI Imaging (with Video)"
 date: 2010-05-07
 author: "Aman Ahuja"

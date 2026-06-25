@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Haikus from the EuroCup"
 date: 2012-06-19
 author: "Aman Ahuja"

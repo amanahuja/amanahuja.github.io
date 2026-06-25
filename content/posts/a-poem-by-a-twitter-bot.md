@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "A poem by a twitter bot"
 date: 2012-11-27
 author: "Aman Ahuja"

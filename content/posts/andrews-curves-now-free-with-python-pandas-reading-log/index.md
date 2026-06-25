@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Andrew's Curves now free with python pandas (Reading log)"
 date: 2013-10-30
 author: "Aman Ahuja"

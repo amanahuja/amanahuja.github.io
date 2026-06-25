@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Reading workflow and backposting to reading-log"
 date: 2013-08-06
 author: "Aman Ahuja"

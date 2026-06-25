@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Mean absolute percentage error (MAPE) in Scikit-learn"
 date: 2013-06-26
 author: "Aman Ahuja"

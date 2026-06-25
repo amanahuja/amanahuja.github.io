@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "R2D3 and other letters and numbers"
 date: 2012-12-08
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Queen Problems"
 date: 2009-07-17
 author: "Aman Ahuja"

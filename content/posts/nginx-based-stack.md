@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Nginx - based stack"
 date: 2011-06-14
 author: "Aman Ahuja"

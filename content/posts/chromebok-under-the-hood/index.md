@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Chromebook: Under the Hood"
 date: 2011-05-26
 author: "Aman Ahuja"

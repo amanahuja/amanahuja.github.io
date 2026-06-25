@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Swai fish and Hindi spices"
 date: 2011-06-28
 author: "Aman Ahuja"

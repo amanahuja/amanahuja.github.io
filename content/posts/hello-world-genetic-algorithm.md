@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Link: 'Hello World' genetic algorithm"
 date: 2009-08-13
 author: "Aman Ahuja"

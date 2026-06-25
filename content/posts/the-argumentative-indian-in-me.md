@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Discovering the 'Argumentative Indian' in me"
 date: 2011-09-27
 author: "Aman Ahuja"

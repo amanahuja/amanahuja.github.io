@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Accidental Paste"
 date: 2011-03-07
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "From Bering in Mind: “If Darwin were a sports psychologist: Evolution and athletics”"
 date: 2010-03-15
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "San Francisco / Walnut Creek Heat Wave June 2011"
 date: 2011-06-23
 author: "Aman Ahuja"

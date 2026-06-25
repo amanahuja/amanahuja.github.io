@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Consilience"
 date: 2011-03-01
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Emergence"
 date: 2008-12-12
 author: "Aman Ahuja"

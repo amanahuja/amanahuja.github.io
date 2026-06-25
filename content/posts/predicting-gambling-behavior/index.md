@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Predicting Gambling behavior (Reading log)"
 date: 2009-07-21
 author: "Aman Ahuja"

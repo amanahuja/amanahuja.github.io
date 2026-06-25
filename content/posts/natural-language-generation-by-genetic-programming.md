@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Reading Log: Natural Language Generation by Genetic Programming"
 date: 2010-11-12
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Anelka’s dilemma"
 date: 2010-03-25
 author: "Aman Ahuja"

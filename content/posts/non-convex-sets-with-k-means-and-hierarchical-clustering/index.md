@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Non-convex sets with k-means and hierarchical clustering"
 date: 2013-08-14
 author: "Aman Ahuja"

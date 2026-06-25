@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Acquisition of Drink Me magazine"
 date: 2013-01-23
 author: "Aman Ahuja"

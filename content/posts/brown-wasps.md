@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Brown Wasps"
 date: 2010-08-01
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Emergence Project: Representing a Textual Discourse"
 date: 2009-01-15
 author: "Aman Ahuja"

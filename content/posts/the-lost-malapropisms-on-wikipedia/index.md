@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "The Lost Malapropisms of Wikipedia"
 date: 2012-10-12
 author: "Aman Ahuja"

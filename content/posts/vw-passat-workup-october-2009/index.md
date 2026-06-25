@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "VW Passat workup October 2009"
 date: 2009-10-22
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Thomas Davenport on Creativity in Quantitative Analysis"
 date: 2013-06-21
 author: "Aman Ahuja"

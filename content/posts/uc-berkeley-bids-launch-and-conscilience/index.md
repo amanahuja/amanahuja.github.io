@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "UC Berkeley BIDS Launch and Conscilience"
 date: 2013-12-13
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Explanation of \"multi-layer backpropagation Neural network called a Convolution Neural Network\""
 date: 2009-06-13
 author: "Aman Ahuja"

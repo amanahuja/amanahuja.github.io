@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "A Sculpture That Perpetually Sells Itself On eBay"
 date: 2010-02-23
 author: "Aman Ahuja"

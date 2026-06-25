@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Development of the Physicist’s Conception of Nature"
 date: 2010-05-04
 author: "Aman Ahuja"

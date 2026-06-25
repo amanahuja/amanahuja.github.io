@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Kibana, Disqus at SF Python Project Night"
 date: 2013-09-26
 author: "Aman Ahuja"

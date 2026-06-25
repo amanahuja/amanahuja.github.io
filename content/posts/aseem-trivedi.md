@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Aseem Trivedi"
 date: 2012-09-10
 author: "Aman Ahuja"

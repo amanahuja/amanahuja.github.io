@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Tagore on Translations"
 date: 2012-01-03
 author: "Aman Ahuja"

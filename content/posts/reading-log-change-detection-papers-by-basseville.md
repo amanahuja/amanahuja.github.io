@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Reading log: Change Detection papers by Basseville"
 date: 2013-02-05
 author: "Aman Ahuja"

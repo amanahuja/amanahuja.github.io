@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Reading log: \"A few useful things about ML\", Pedro Domingo"
 date: 2012-11-23
 author: "Aman Ahuja"

@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Acer NIC mystery and a short panic"
 date: 2012-02-14
 author: "Aman Ahuja"

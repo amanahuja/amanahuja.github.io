@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Greater Diversity through Evolutionary Algorithms"
 date: 2009-05-10
 author: "Aman Ahuja"

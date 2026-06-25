@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Tukey's bits"
 date: 2009-08-09
 author: "Aman Ahuja"

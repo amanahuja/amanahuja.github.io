@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "The MGNREGA program"
 date: 2012-02-20
 author: "Aman Ahuja"

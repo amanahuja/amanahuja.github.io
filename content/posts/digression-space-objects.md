@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Digression: Space Objects"
 date: 2009-06-11
 author: "Aman Ahuja"

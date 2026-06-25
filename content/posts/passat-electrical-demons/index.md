@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Passat electrical demons"
 date: 2010-11-22
 author: "Aman Ahuja"

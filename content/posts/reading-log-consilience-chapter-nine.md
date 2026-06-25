@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Reading Log: Consilience, Chapter nine"
 date: 2010-11-16
 author: "Aman Ahuja"

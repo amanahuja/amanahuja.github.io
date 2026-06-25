@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "virtualenv for a nltk project with ipython configuration"
 date: 2012-02-13
 author: "Aman Ahuja"

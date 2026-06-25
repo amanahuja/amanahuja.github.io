@@ -1,4 +1,5 @@
 ---
+subtitle: "Reposted: originally published on my Pafnuty blog (2008–2014)"
 title: "Guest Post: Pun Habit"
 date: 2011-03-11
 author: "Aman Ahuja"
