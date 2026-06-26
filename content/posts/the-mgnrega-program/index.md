@@ -24,7 +24,7 @@ draft: false
 
 ---
 
-The National Rural Employment Guarantee Act (NREGA) is one of the largest programs of its kind in the world. It is a flagship program of the Indian government, and a major talking point for the UPA (center-left) political parties. It makes frequent appearances on rallying cries during political campaigns, and is a significant portion of the Indian annual budget. NREGA's annual spend is about ![INR](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Indian_Rupee_symbol.svg/7px-Indian_Rupee_symbol.svg.png)48,000 crore (~$9 Billion US dollars) -- amounting to more than 11% of the 2011 Union budget expenditure.
+The National Rural Employment Guarantee Act (NREGA) is one of the largest programs of its kind in the world. It is a flagship program of the Indian government, and a major talking point for the UPA (center-left) political parties. It makes frequent appearances on rallying cries during political campaigns, and is a significant portion of the Indian annual budget. NREGA's annual spend is about ₹48,000 crore (~$9 Billion US dollars) -- amounting to more than 11% of the 2011 Union budget expenditure.
 
 {{< figure src="nrega_budget1.png" alt="NREGA_budget" caption="Annual spend on NREGA in US Dollars." link="http://en.wikipedia.org/wiki/Mahatma_Gandhi_National_Rural_Employment_Guarantee_Act#Funding" >}}
 
@@ -49,7 +49,9 @@ These and other checks-and-balances are meant to make sure that NREGA functions 
 ### Corruption and unintended consequences
 
 
-![](http://www.thehindu.com/multimedia/dynamic/00832/IN10_LABOUR_832929f.jpg "India Rural Labor")While traveling in India, I got into several discussions on this topic. Everyone seemed to have an opinion about NREGA. Some admire an ambitious plan to make changes, others disagree with the principle of guaranteed labor. But everyone I spoke to agreed that in execution, the plan has countless problems.
+*(Image unavailable)*
+
+While traveling in India, I got into several discussions on this topic. Everyone seemed to have an opinion about NREGA. Some admire an ambitious plan to make changes, others disagree with the principle of guaranteed labor. But everyone I spoke to agreed that in execution, the plan has countless problems.
 
 A big feature of these problems, of course, is corruption. Corruption in India is a scourge that takes countless smart ideas and good intentions, and renders them useless. It holds back progress in the country in order to provide immediate perquisites to people who are sometimes rotten souls, but often just ordinary people who eventually succumbed to a seemingly inescapable system.
 
@@ -59,7 +61,7 @@ Okay, yes, corruption ruins everything, and everybody I spoke to about NREGA rig
 
 For example, the productivity of workers that are provided guaranteed labor is very low -- no surprise there. And the desirability of a government-paid and low-stress employment trumps that of any competing options, and so laborers previously employed at other projects (like private construction and agricultural labor) have an incentive to quit their jobs in favor of this more attractive option. Consequently, the government has to actually suspend the program during peak farming periods to counteract resulting labor shortages.
 
-I heard one person argue that, as little as it sounds (![INR](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Indian_Rupee_symbol.svg/7px-Indian_Rupee_symbol.svg.png)120 or about $2 a day), getting paid at about minimum wage for 100 days each year is pretty decent for many households. So decent, in fact, that some may decide that they don't need to work (or work very hard) for the remaining 265 days. That's one reason, she said, that finding people for household work is getting pretty difficult.
+I heard one person argue that, as little as it sounds (₹120 or about $2 a day), getting paid at about minimum wage for 100 days each year is pretty decent for many households. So decent, in fact, that some may decide that they don't need to work (or work very hard) for the remaining 265 days. That's one reason, she said, that finding people for household work is getting pretty difficult.
 
 **Any program as large as this will have unintended consequences like these. How significant are they, relative to the benefits of the project?  To what extent should they be treated like casualties of war, to be minimized, but largely unavoidable, and to what extent do they make a convincing argument against the program as a whole?**
 

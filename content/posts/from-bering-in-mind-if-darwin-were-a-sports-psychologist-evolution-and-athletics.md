@@ -6,9 +6,8 @@ author: "Aman Ahuja"
 series:
   - pafnuty-blog
 tags:
-  - darwin
   - evolution
-  - sports psychology
+  - sports
 categories:
   - observations
 layout: single
@@ -17,11 +16,17 @@ draft: false
 
 *Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/03/15/from-bering-in-mind-if-darwin-were-a-sports-psychologist-evolution-and-athletics/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 15, 2010.*
 
+Reposted 2026. Today I would take a different tone with such an
+observation. The value of sports lies also in its participation, in
+community, in mental health, and more. As a sports coach today, and someone
+who is both competitive and doesn't care at all about winning, I wouldn't
+be as flippant about sports that are not "popular". 
+
 ---
 
 via [scientificamerican.com](http://www.scientificamerican.com/blog/post.cfm?id=if-darwin-were-a-sports-psychologis-2010-03-11)
 
-![](http://www.scientificamerican.com/media/inline/blog/Image/chimp_with_soccer_ball.jpg)
+*(Image unavailable)*
 
 Surprisingly little evolutionarily informed research has been done on our species’ strange love affair with sports. Why do we care so much about such arbitrary and ostensibly functionless displays of physical and mental prowess? Although data derived directly from evolutionary hypotheses are scant, theories abound. In a [recent issue](http://muse.jhu.edu/journals/perspectives_in_biology_and_medicine/summary/v052/52.1.de-block.html) of *Perspectives in Biology and Medicine* , for example, Andreas de Block and Siegfried Dewitte from the University of Leuven in Belgium seek to explain why our obsession with competitive athletics is such a predictable expression of human nature.
 

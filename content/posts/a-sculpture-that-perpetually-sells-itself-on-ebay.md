@@ -20,7 +20,7 @@ draft: false
 
 ---
 
-![A Tool To Deceive And Slaughter](http://farm3.static.flickr.com/2736/4295492347_979fd8ee36.jpg)
+*(Image unavailable)*
 
 Artist [Caleb Larsen](http://www.caleblarsen.com/) has created an art sculpture which, when connected to the Internet, [perpetually attempts to sell itself on eBay](http://www.caleblarsen.com/projects/a-tool-to-deceive-and-slaughter/).
 
@@ -36,8 +36,4 @@ Writer Andrew Sargus Klein offers some additional context for the sculpture in [
 
 > “A Tool to Deceive and Slaughter” is tangibly linked, via Ethernet, to the intangible world of taste, aesthetics and worth. It doesn’t matter if the work becomes astronomically valuable—you’re legally required to keep putting it up on eBay once a week until someone else buys it. The argument is you can’t own anything conceptual, neither in copyright or theoretical terms, and the artwork’s logistics ensure that no third party—the highly ridiculous art market—can change that.
 
-![](http://www.gravatar.com/avatar/4d79d5109431cf16f7cd4e1c05791afb?s=60&d=http://laughingsquid.com/wordpress/wp-includes/images/blank.gif&r=PG)
-
-Written by [Aaron Muszalski](http://www.twitter.com/sfslim/)
-
-via [feeds.laughingsquid.com](http://feeds.laughingsquid.com/~r/laughingsquid/~3/QtLHIjoqSko/)
+Written by [Aaron Muszalski](http://www.twitter.com/sfslim/), via [feeds.laughingsquid.com](http://feeds.laughingsquid.com/~r/laughingsquid/~3/QtLHIjoqSko/)

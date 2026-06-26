@@ -25,6 +25,6 @@ draft: false
 Interesting. [China](http://en.wikipedia.org/wiki/China "China")'s new passport design includes a country map that controversially includes disputed territory like [Taiwan](http://en.wikipedia.org/wiki/Taiwan "Taiwan") and parts of [India](http://en.wikipedia.org/wiki/India "India").
 <http://blog.foreignpolicy.com/posts/2012/11/26/china_irks_neighbors_with_new_passport_design>
 
-[![](http://www.washingtonpost.com/blogs/worldviews/files/2012/11/AP698624082433.jpg)](http://www.washingtonpost.com/blogs/worldviews/wp/2012/11/26/heres-the-chinese-passport-map-thats-infuriating-much-of-asia/) The controversial map on China's new Passort (via Washington Post)
+*(Image unavailable — the controversial map on China's new passport, via Washington Post)*
 
 India's response is clever, in my opinion -- it's impractical for India to refuse to stamp the passports like some other countries, so instead they've changed the visa stamp itself to include a modified version of the controversial map.
