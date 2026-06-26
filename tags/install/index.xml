@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Install on Aman Ahuja</title><link>https://amanahuja.me/tags/install/</link><description>Recent content in Install on Aman Ahuja</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 03 Mar 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://amanahuja.me/tags/install/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux web server setup</title><link>https://amanahuja.me/posts/linux-web-server-setup/</link><pubDate>Thu, 03 Mar 2011 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/linux-web-server-setup/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://pafnuty.wordpress.com/2011/03/03/linux-web-server-setup/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: March 3, 2011.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Another&lt;/em> server. I timed myself this time around, just for the hell of it.&lt;/p>
+&lt;p>I created an account with &lt;a href="http://www.linode.com">Linode&lt;/a> and deployed Ubuntu 10.10. I then SSH&amp;rsquo;d to the brand new server using Putty.
+`login as: root
+&lt;a href="mailto:root@13.25.20.14">root@13.25.20.14&lt;/a>&amp;rsquo;s password:
+Linux bananaserve 2.6.32.16-linode28 #1 SMP Sun Jul 25 21:32:42 UTC 2010 i686 GNU/Linux
+Ubuntu 10.10
+Welcome to Ubuntu!&lt;/p></description></item></channel></rss>
