@@ -15,7 +15,7 @@ ignoreFiles = [
 ]
 
 [pagination]
-  pagerSize = 4
+  pagerSize = 15
 
 [params]
   # General info
@@ -76,7 +76,7 @@ ignoreFiles = [
 
   # show/hide social icons in site header/footer
   # content display
-  recent_posts_number = 2
+  recent_posts_number = 3
   show_reading_time = false
 
   socialInHeader = false
