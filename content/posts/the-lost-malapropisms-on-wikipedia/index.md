@@ -24,7 +24,7 @@ draft: false
 
 Inspired by SMBC, I checked out the [Wikipedia article on malapropisms](http://en.wikipedia.org/wiki/Malapropism), which provided some history and entertaining examples of malapropisms -- "the substitution of an incorrect word for a word with a similar sound, especially with humorous results".
 
-[![](20121012.gif "SMBC: Hard Being an Angry English Major")](http://www.smbc-comics.com/index.php?db=comics&id=2762)
+{{< figure src="20121012.gif" alt="SMBC comic" caption="SMBC: Hard Being an Angry English Major" link="http://www.smbc-comics.com/index.php?db=comics&id=2762" >}}
 
 As awesome as the examples on Wikipedia were, they were so few. I checked the [Wikipedia Talk page](http://en.wikipedia.org/wiki/Talk:Malapropism) to see if there were any more there -- there were not, but I learned that there used to be more many more examples in the article that were removed because, well, you only need so many examples to explain what a malapropism is.
 That reasoning is fine for Wikipedia, but I wanted more than education. I wanted entertainment, damnit! I wanted to read more great malapropisms -- of the sort and quality, I imagined, that had been once posted on this Wikipedia article and subsequently deleted for the sake of brevity.

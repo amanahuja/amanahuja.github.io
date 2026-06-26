@@ -28,9 +28,9 @@ Recently I read a rather interesting article from a Scientific American blog whi
 In a follow-up interview, the researcher [Gordon Gallup](http://www.albany.edu/psychology/gallup.html) emphasizes that evolution occurs by selection, not by design. "The raw material for such selection consists of nothing more than random genetic accidents (mutations)." As such, two separate genetic branches cannot be expected to follow the same path of optimization, even if starting with identical initial parameters. This is, of course, very fortunate, for it leads to the great diversity of life where so many radically different methods are employed to solve the same universal problems of survival.
 In contrast, the  solutions reached by purposeful human design are far more limited in diversity. A student of architecture, for example,  might be struck by the number of radically different approaches that humans have employed.
 
-![Greco-Roman](countryresidence12.jpg?w=150 "Greco-Roman")
-![Moscou](voyage-moscou-b12.jpg?w=225 "Moscou")
-![helix-hotel-abudhabi](helix-hotel-abudhabi1.jpg?w=150 "helix-hotel-abudhabi")
+{{< figure src="countryresidence12.jpg" alt="Greco-Roman architecture" caption="Greco-Roman" >}}
+{{< figure src="voyage-moscou-b12.jpg" alt="Moscow architecture" caption="Moscou" >}}
+{{< figure src="helix-hotel-abudhabi1.jpg" alt="Helix Hotel Abu Dhabi" caption="Helix Hotel, Abu Dhabi" >}}
 
 This range of designs, however, is determined solely by human creativity and contrained by cultural, religious, and other influences. Augmenting human creativity with evolutionary computations could result in an explosion of design ideas.
 

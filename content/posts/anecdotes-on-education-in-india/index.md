@@ -19,7 +19,7 @@ draft: false
 
 Walking out of the vice-principal's office, politely but firmly rejected, I felt immensely frustrated. This was a sad, close-minded attitude for an educational institute to adopt. Visiting students, curious persons, anyone seeking to inquire or converse productively about relevant topics should be welcomed at colleges and universities. At this school of higher education in [Mumbai](http://www.mcgm.gov.in/ "Mumbai"), however, I had found the barriers insurmountable. I wasn't exactly escorted off campus, but I may as well have been.
 
-![Principal's office](principals_office.png)
+{{< figure src="principals_office.png" alt="Principal's office" >}}
 
 They are certainly situations and scenarios where visitors are not appropriate. And concerns about the security of the students and facilities -- and the visitors themselves -- understandably take priority. But these were not the reasons for which I had been asked to leave. This was a bureaucratic monster, a product of a culture of schooling that India desperately needs to overcome.
 

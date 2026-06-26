@@ -33,11 +33,11 @@ Search for 'Ignacio Palacios-Huerta' and read pages 124-127'ish.
 
 Excerpt:
 
-[[![](anelkadilemma-ignacio-scaled-500.jpg?w=281)](http://posterous.com/getfile/files.posterous.com/pafnuty/RWLiC3tAM0jTkqdXDZszpVX5ELd0wUeXNBXArkcq2G7OS9PCT9ewR55y6uNy/AnelkaDilemma-Ignacio.jpg)](http://www.amazon.com/Soccernomics-Australia-Turkey-Iraq-Are-Destined/dp/1568584253)
+{{< figure src="anelkadilemma-ignacio-scaled-500.jpg" alt="Ignacio Palacios-Huerta analysis excerpt" caption="Excerpt from Soccernomics — Ignacio Palacios-Huerta's penalty analysis" link="http://www.amazon.com/Soccernomics-Australia-Turkey-Iraq-Are-Destined/dp/1568584253" >}}
 
 And the punchline:
 
-[![](anelkadilemma.jpg?w=300)](anelkadilemma.jpg)
+{{< figure src="anelkadilemma.jpg" alt="Anelka's dilemma" >}}
 
 Here's a YouTube video (one of many) of the amazing shoot-out:
 

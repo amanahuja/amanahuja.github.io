@@ -48,7 +48,7 @@ That is, what are doing when we use k-means is constructing a mixture of k-gauss
 
 Here's a clustering example, borrowed directly from the [sklearn documentation on clustering](http://scikit-learn.org/stable/modules/clustering.html). These are two slightly entangled banana spheres. That's *two*non-convex shapes, and they are not spatially separated.
 
-![banana_shape](banana_shape.png)
+{{< figure src="banana_shape.png" alt="Two banana-shaped non-convex clusters" caption="Two entangled banana-shaped clusters — a non-convex problem for k-means" >}}
 
 When we try to use k-means on this example, it doesn't do very well. There's just no way to form these two clusters with two little circular paper cut-outs. Or three.
 
@@ -66,11 +66,11 @@ Then, we take these many clusters from k-means and then start clustering *them*
 
 Here's what that looks like:
 
-![hierarchical clustering animation](clustering_animation_01.gif)
+{{< figure src="clustering_animation_01.gif" alt="Hierarchical clustering animation" caption="Agglomerative hierarchical clustering merging k-means clusters" >}}
 
 Woah woah. Did you see that one near the end? The one where we've taken 616 data points, formed a whole bunch [I used k=51 for the animation to get lots of colorful frames] of clusters with k-means , and then agglomerated them into ... this:
 
-![clustered bananas](02.png)
+{{< figure src="02.png" alt="Clustered banana shapes" caption="Final clustering result: two banana-shaped clusters correctly identified" >}}
 
 Yup, that one. So pretty.
 

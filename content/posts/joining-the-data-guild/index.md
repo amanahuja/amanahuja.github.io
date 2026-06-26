@@ -49,7 +49,8 @@ There is plenty of money to be made forming a company or working for one in the 
 
 I would like to spend my time working on problems that are interesting not just for their own sake, but for the impact that they have on our world. On their first blog post, The Data Guild writes:
 
-![TheDataGuild](thedataguild-shield.png)
+{{< figure src="thedataguild-shield.png" alt="The Data Guild shield" >}}
+
 > "We shouldn’t have been surprised; the best and brightest people we know want a chance to make a difference in the world, and to work creatively on teams where they can reach their full potential.  We wanted to create a space where these incredible teams could tackle the most significant global challenges we face – but also make a living doing it.  We wanted to challenge the idea that there’s a necessary tradeoff between making a difference and making a living."
 
 People who think like this are people I can be proud to work with. That is the reason I'm excited about working The Data Guild.

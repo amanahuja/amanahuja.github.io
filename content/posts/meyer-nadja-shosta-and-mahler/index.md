@@ -48,7 +48,9 @@ Nadja playing Shostakovich! It was perfect. Her hair flew all over the place. Sh
 
 If I had to choose one form of music that I love most, it would be chamber music, and if I had to choose just one composer, there's a good chance it'd be Shostakovich. I especially love his quartets. The piece tonight was (paradoxically) entitled 'Chamber Symphony', and I had never heard of it. It was only at intermission that I found out that it was an orchestral arrangement of **Shosta's eighth string quartet**.
 
-[![Opening measures of SQ#8 by Shostakovich](shosta_sq8_3_mus.jpg?w=207 "Shosta_sq8_3_mus")](shosta_sq8_3_mus.jpg)Now this string quartet is real music. It's not a piece that you'd listen to over dinner. It's not romantic to make out to. Shostakovich dedicated it to the "victims of fascism and war". He composed it after visiting Dresden, the site of one of the worst bombings in history. It will grab you and transfix you and leave you shattered.
+{{< figure src="shosta_sq8_3_mus.jpg" alt="Opening measures of SQ#8 by Shostakovich" caption="Opening measures of Shostakovich's String Quartet No. 8" >}}
+
+Now this string quartet is real music. It's not a piece that you'd listen to over dinner. It's not romantic to make out to. Shostakovich dedicated it to the "victims of fascism and war". He composed it after visiting Dresden, the site of one of the worst bombings in history. It will grab you and transfix you and leave you shattered.
 
 I finished finally reading Vonnegut's [Slaughterhouse Five](http://en.wikipedia.org/wiki/Bombing_of_Dresden_in_World_War_II#Kurt_Vonnegut) just this past week, so the story and intense images of the bombing of Dresden were quite fresh in my mind as I listened to the Chamber Symphony. Performed by the New Century Chamber Orchestra (who, by the way, were nominated for the Grammy for [their recording](http://www.amazon.com/Written-Director-Century-Chamber-Orchestra/dp/B000000R4C) of this very piece!). And with Nadja Salerno-Sonnenberg's insanity. I don't know if it was better than the original, but it was one hell of a performance.
 

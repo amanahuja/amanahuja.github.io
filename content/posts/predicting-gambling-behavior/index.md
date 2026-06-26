@@ -33,7 +33,9 @@ A system is written that utilizes a back-propagation [neural network](http://en.
 
 The full article is [available on Scribd.](http://www.scribd.com/doc/17472377/Using-Neural-Networks-to-Model-the-Behavior-and-Decisions-of-Gamblers-in-Particular-CyberGamblers)
 
-[![Gambler-ANNstructure-M1](gambler-annstructure-m1.jpg?w=300 "Gambler-ANNstructure-M1")](gambler-annstructure-m1.jpg)The above diagrams shows the structure utilized for one of the two neural networks developed for the paper. This one, dubbed "M1", attempts to predict the bet amounts laid by each individual Texas Holdem gambler, based on winnings and losses in immediately preceding games, and the gambler's current account balance.
+{{< figure src="gambler-annstructure-m1.jpg" alt="Gambler-ANNstructure-M1" caption="Neural network structure (M1) for predicting successive bet amounts" >}}
+
+The above diagrams shows the structure utilized for one of the two neural networks developed for the paper. This one, dubbed "M1", attempts to predict the bet amounts laid by each individual Texas Holdem gambler, based on winnings and losses in immediately preceding games, and the gambler's current account balance.
 
 M1: the model for successive bet amounts, which longitudinally models and thus
 

@@ -25,7 +25,7 @@ draft: false
 
 ---
 
-![Acer NIC](img_4246.jpg?w=300 "Acer NIC")
+{{< figure src="img_4246.jpg" alt="Acer NIC" caption="The Acer wireless NIC" >}}
 
 This morning as I was chatting with @skepticalcowboy my internet failed. After some struggle (in vain) trying to get my wireless network adapter back up and running and encountering some very strange behavior, I went through the litany of steps everybody who depends on their computer goes through when they fear the worst:
 
@@ -42,4 +42,4 @@ Afterwards I tried the usual things, and a few Google searches (waters heavily p
 Which was useless. Friendly. But useless.
 I was about to start shopping for a new NIC, but at this point I got my head back. I popped out the NIC, blew on it, and snapped it back in.
 Which fixed everything. Of course. A great reminder of my youthful days of electrical engineering and the hardware equivalent of "just ... restart."
-![Acer laptop wireless card](img_4248.jpg?w=300 "Acer laptop wireless card")
+{{< figure src="img_4248.jpg" alt="Acer laptop wireless card" caption="Acer laptop wireless card" >}}

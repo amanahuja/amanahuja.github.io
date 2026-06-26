@@ -27,4 +27,4 @@ For a long while now, Google has returned a definition from some online dictiona
 
 I'd love to find out more about how that etymology visual is being generated!
 
-![incorrigible - Google Search](incorrigible-google-search.png)
+{{< figure src="incorrigible-google-search.png" alt="incorrigible - Google Search" caption="Google Search definition panel for 'incorrigible', with etymology and n-gram usage over time" >}}

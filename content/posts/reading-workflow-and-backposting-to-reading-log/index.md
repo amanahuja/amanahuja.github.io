@@ -32,7 +32,7 @@ I keep notes (on [Evernote](http://evernote.com/)) with the date that I read the
 
 I've been reading a lot these days. My reading workflow is always evolving, but I've got a system that seems to be working pretty well, and as a result I find it easier to read more and be efficient.
 
-[![Image](reading-workflow.png?w=650)](reading-workflow.png)
+{{< figure src="reading-workflow.png" alt="Reading workflow diagram" caption="My reading workflow" >}}
 
 I use [Feedly](http://feedly.com "feedly"), to which I switched after the days of [Google Reader](http://www.google.com/reader "Google Reader"). I currently have 120+ sources ([web feeds](http://en.wikipedia.org/wiki/Web_feed "Web feed")) in six or seven categories. I am picky with my subscriptions, and feeds that feel like clutter are weeded out (I have a separate category for feeds "on probation", and I'll skip those articles on busy days). After years of this, I find that a lot of value and entertainment in my feeds.
 

@@ -28,7 +28,9 @@ This is the time of year we turn to the darker beers like Porters.
 In 1817 a man named Daniel Wheeler invented a roasting kiln for making black malt, which solved the coloring problem, but changed porter once again. Throughout the nineteenth century, stout flourished at the expense of plain old porter, and the gravity, bitterness, and color were largely stripped out of it. By World War I it was barely breathing.
 Thanks God it made a comeback. Here's one I enjoyed recently.
 
-[![Speakeasy Payback Porter](54913.jpg "Payback Porter")](54913.jpg)**Speakeasy Payback Porter.**
+{{< figure src="54913.jpg" alt="Speakeasy Payback Porter" caption="Speakeasy Payback Porter" >}}
+
+**Speakeasy Payback Porter.**
 
 Speakeasy Ales and Lagers is a microbrewery located in the Hunter's Point neighborhood of San Francisco, California.
 

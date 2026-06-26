@@ -32,7 +32,7 @@ I gave in this week. I turned on the air conditioner at my apartment.
 
 Not only did I use my A/C, I actually left it on 'economy mode' while I was at work. This resulted in the dramatic spike in the graph above, where my energy consumption shot up to about 13 kilo-Watt-hours, compared to my average of ~3 KwH in May and ~4 kWH in the rest of June.
 
-[![](smartmeter_heatwave_hourly.png "PG&E SmartMeter graph -- hourly for June 22nd 2011")](smartmeter_heatwave_hourly.png)
+{{< figure src="smartmeter_heatwave_hourly.png" alt="PG&E SmartMeter graph -- hourly for June 22nd 2011" caption="PG&E SmartMeter — hourly consumption for June 22nd 2011" >}}
 
 Was it really all that hot? Weather underground says that it got up to 101 degrees in those two days at the nearby BART station. And if you've ever been to my apartment, you know that when you walk up to my door the temperature rises palpably with each step. I can honestly estimate it must have been 110 degrees F in my living room.
 

@@ -68,7 +68,9 @@ Intuitively, we are trying to measure the space between clusters. If cluster coh
 
 I've constructed an example here to demonstrate this graphically.
 
-![Clustering coefficient](http://i.stack.imgur.com/iAWnF.png) ![Results of clustering for nclusters = 2:5](http://i.stack.imgur.com/wqQvq.png)
+{{< figure src="http://i.stack.imgur.com/iAWnF.png" alt="Clustering coefficient" caption="Silhouette coefficient plot" >}}
+
+{{< figure src="http://i.stack.imgur.com/wqQvq.png" alt="Results of clustering for nclusters = 2:5" caption="Clustering results for k = 1 through 5" >}}
 
 In these plots the same data is plotted five times; the colors indicate the clusters created by [k-means clustering](http://en.wikipedia.org/wiki/K-means_clustering "K-means clustering"), with k = 1,2,3,4,5. That is, I've forced a clustering algorithm to divide the data into 2 clusters, then 3, and so on, and colored the graph accordingly.
 

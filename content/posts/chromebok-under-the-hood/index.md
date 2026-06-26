@@ -31,7 +31,7 @@ So if this Chromebook is not Acer and not-quite-Samsung, what is it?
 
 Peeling back the gift wrapping:
 
-[![Chromebook Disassembled](img_1617.jpg?w=1024 "IMG_1617")](img_1617.jpg)
+{{< figure src="img_1617.jpg" alt="Chromebook Disassembled" caption="CR-48 Chromebook disassembled" >}}
 
 So, what can we spot here? I googled the part numbers:
 
