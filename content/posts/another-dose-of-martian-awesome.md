@@ -15,7 +15,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/01/26/another-dose-of-martian-awesome/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 26, 2010.*
+*Originally published on my old blog, [Pafnuty blog](/posts/another-dose-of-martian-awesome/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 26, 2010.*
 
 I'm reposting this (June 2026), and wondering what had intrigued me about this
 image or the description. The external image link still works. I'll keep

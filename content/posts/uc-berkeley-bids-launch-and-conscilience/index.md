@@ -23,7 +23,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2013/12/13/uc-berkeley-bids-launch-and-conscilience/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 13, 2013.*
+*Originally published on my old blog, [Pafnuty blog](/posts/uc-berkeley-bids-launch-and-conscilience/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 13, 2013.*
 
 ---
 

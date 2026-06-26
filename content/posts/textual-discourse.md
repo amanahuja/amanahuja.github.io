@@ -14,7 +14,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/01/15/textual-discourse/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 15, 2009.*
+*Originally published on my old blog, [Pafnuty blog](/posts/textual-discourse/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 15, 2009.*
 
 Reposted June 2026. The images and links don't work anymore. But for those
 interested, see this paper from Daniel Sauter, Univ of Illinois at Chicago,

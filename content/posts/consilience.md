@@ -17,7 +17,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/03/01/consilience/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 1, 2011.*
+*Originally published on my old blog, [Pafnuty blog](/posts/consilience/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 1, 2011.*
 
 ---
 

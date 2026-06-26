@@ -22,11 +22,11 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2013/08/06/reading-workflow-and-backposting-to-reading-log/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: August 6, 2013.*
+*Originally published on my old blog, [Pafnuty blog](/posts/reading-workflow-and-backposting-to-reading-log/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: August 6, 2013.*
 
 ---
 
-One of my categories on this blog is "[reading-log](http://pafnuty.wordpress.com/category/pafnuties/reading-log/)", which I intended as a way to highlight one of the books, articles or papers that I've read recently. I've been very negligent at this, but fortunately this is one of those situations where it's not too late to do so.
+One of my categories on this blog is "[reading-log](/categories/reading-log/)", which I intended as a way to highlight one of the books, articles or papers that I've read recently. I've been very negligent at this, but fortunately this is one of those situations where it's not too late to do so.
 
 I keep notes (on [Evernote](http://evernote.com/)) with the date that I read the material and thoughts that it inspired. So I can still go back and post them retroactively. I can even artificially date the Wordpress Post. I'll be trying to do some of that over the next few days. If all goes well, subscribers will see a flurry of activity (which hopefully doesn't chase any of them away).
 

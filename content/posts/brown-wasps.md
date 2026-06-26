@@ -18,7 +18,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/08/01/brown-wasps/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: August 1, 2010.*
+*Originally published on my old blog, [Pafnuty blog](/posts/brown-wasps/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: August 1, 2010.*
 
 ---
 

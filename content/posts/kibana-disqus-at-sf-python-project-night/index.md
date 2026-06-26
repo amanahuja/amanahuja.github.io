@@ -13,7 +13,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2013/09/26/kibana-disqus-at-sf-python-project-night/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: September 26, 2013.*
+*Originally published on my old blog, [Pafnuty blog](/posts/kibana-disqus-at-sf-python-project-night/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: September 26, 2013.*
 
 ---
 

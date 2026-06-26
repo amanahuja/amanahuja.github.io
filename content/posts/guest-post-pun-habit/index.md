@@ -15,7 +15,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/03/11/guest-post-pun-habit/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 11, 2011.*
+*Originally published on my old blog, [Pafnuty blog](/posts/guest-post-pun-habit/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 11, 2011.*
 
 ---
 

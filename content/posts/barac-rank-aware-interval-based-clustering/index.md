@@ -19,7 +19,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/10/19/barac-rank-aware-interval-based-clustering/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 19, 2012.*
+*Originally published on my old blog, [Pafnuty blog](/posts/barac-rank-aware-interval-based-clustering/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 19, 2012.*
 
 ---
 

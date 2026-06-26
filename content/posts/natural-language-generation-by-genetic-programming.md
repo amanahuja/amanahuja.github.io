@@ -21,11 +21,11 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/11/12/natural-language-generation-by-genetic-programming/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 12, 2010.*
+*Originally published on my old blog, [Pafnuty blog](/posts/natural-language-generation-by-genetic-programming/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 12, 2010.*
 
 ---
 
-Part of the "[Today I read](http://pafnuty.wordpress.com/category/today-i-read/)" series.
+Part of the "Today I read" series.
 
 **Today I read** this paper:
 

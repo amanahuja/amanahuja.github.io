@@ -14,7 +14,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/01/17/not-hot-enough/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 17, 2011.*
+*Originally published on my old blog, [Pafnuty blog](/posts/not-hot-enough/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 17, 2011.*
 
 Reposted June 2026. I don't plan to post about food/cooking these days, although
 that's a hobby I still enjoy very much. And spiciness, well, both litterally

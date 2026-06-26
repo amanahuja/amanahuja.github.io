@@ -18,7 +18,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/10/12/the-lost-malapropisms-on-wikipedia/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 12, 2012.*
+*Originally published on my old blog, [Pafnuty blog](/posts/the-lost-malapropisms-on-wikipedia/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 12, 2012.*
 
 ---
 

@@ -16,11 +16,11 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/11/16/reading-log-consilience-chapter-nine/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 16, 2010.*
+*Originally published on my old blog, [Pafnuty blog](/posts/reading-log-consilience-chapter-nine/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 16, 2010.*
 
 ---
 
-[Update: I finished reading this book. [Read the post here.](http://pafnuty.wordpress.com/2011/03/01/consilience/ "Consilience")]
+[Update: I finished reading this book. [Read the post here.](/posts/consilience/ "Consilience")]
 
 I finally finished the ninth chapter of Consilience, in which EO Wilson discusses the social sciences, which should correctly, he says, be the ones referred to as the 'hard sciences,' because they require expanding upon the relatively simpl﻿e natural sciences and applying them on a broader scale. While neuroscience and neurobiology require chemistry and physics to understand the functions of the brain, psychology requires a student to understand all of them. Economics requires yet another level of understanding and application.
 

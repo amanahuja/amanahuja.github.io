@@ -20,11 +20,11 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/06/13/explanation-of-lenet-jargon/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 13, 2009.*
+*Originally published on my old blog, [Pafnuty blog](/posts/explanation-of-lenet-jargon/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 13, 2009.*
 
 ---
 
-In my [last post](http://pafnuty.wordpress.com/2009/06/13/yann-lecun/) I said:
+In my [last post](/posts/yann-lecun/) I said:
 > The technology behind the ATMs was developed by LeCun and others almost 10 years ago, at AT&T Bell Labs... The algorithm they developed goes under the name LeNet, and is a multi-layer backpropagation Neural network called a Convolution Neural Network.  I will explain this terminology in my next post.
 
 
@@ -50,4 +50,4 @@ A **convolution neural network** is special architecture (arrangement of layers,
 
 Put together, LeCun tells us that LeNet is a "multi-layer backpropagation Neural network called a Convolution Neural Network".
 
-[Return to the post about LeCun's visual processing algorithm.](http://pafnuty.wordpress.com/2009/06/13/yann-lecun/ "Yan LeCun post")
+[Return to the post about LeCun's visual processing algorithm.](/posts/yann-lecun/ "Yan LeCun post")

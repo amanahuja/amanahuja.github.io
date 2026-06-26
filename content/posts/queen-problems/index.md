@@ -20,7 +20,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/07/17/queen-problems/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: July 17, 2009.*
+*Originally published on my old blog, [Pafnuty blog](/posts/queen-problems/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: July 17, 2009.*
 
 ---
 

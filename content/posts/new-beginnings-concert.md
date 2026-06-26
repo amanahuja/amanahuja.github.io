@@ -13,7 +13,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/05/03/new-beginnings-concert/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: May 3, 2011.*
+*Originally published on my old blog, [Pafnuty blog](/posts/new-beginnings-concert/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: May 3, 2011.*
 
 ---
 
@@ -23,7 +23,7 @@ Sunday's concert (SF Symphony):
 > Shostakovich, Symphony No. 5 in d minor
 
 
-It looks like a great programme, and I purchased tickets to it (on Groupon) not long after a [pretty great experience](http://pafnuty.wordpress.com/2010/09/27/meyer-nadja-shosta-and-mahler/ "Meyer, Nadja, Shosta, and Mahler") with Shosta. My high hopes were not met, but the experience was, I think, an important one.
+It looks like a great programme, and I purchased tickets to it (on Groupon) not long after a [pretty great experience](/posts/meyer-nadja-shosta-and-mahler/ "Meyer, Nadja, Shosta, and Mahler") with Shosta. My high hopes were not met, but the experience was, I think, an important one.
 
 The couple sitting next to me frequent the symphony, and from their conversations I realized that they look for very different things when picking a performance to attend. I myself want to know the composers and pieces on the programme and I sort of just assume that the performers will do a decent job of reconstructing the pieces close to the original intent of the composer. When I do my 'homework' before a concert, I tend to Google the music, not the musicians.
 

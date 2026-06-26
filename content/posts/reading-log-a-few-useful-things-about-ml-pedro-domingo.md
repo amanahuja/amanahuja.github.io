@@ -21,7 +21,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/11/23/reading-log-a-few-useful-things-about-ml-pedro-domingo/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 23, 2012.*
+*Originally published on my old blog, [Pafnuty blog](/posts/reading-log-a-few-useful-things-about-ml-pedro-domingo/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 23, 2012.*
 
 ---
 

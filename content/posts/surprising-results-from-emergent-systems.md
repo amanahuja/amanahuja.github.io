@@ -16,7 +16,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2008/12/15/surprising-results-from-emergent-systems/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 15, 2008.*
+*Originally published on my old blog, [Pafnuty blog](/posts/surprising-results-from-emergent-systems/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 15, 2008.*
 
 ---
 

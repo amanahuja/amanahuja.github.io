@@ -20,13 +20,13 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/06/13/yann-lecun/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 13, 2009.*
+*Originally published on my old blog, [Pafnuty blog](/posts/yann-lecun/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 13, 2009.*
 
 ---
 
 Yann Le Cun was recently featured on NYAS's [Science and the City](http://www.nyas.org/snc/podcasts.asp "Science and the City Podcasts") podcast. He spoke about visual processing using Artificial Neural Networks (ANNs) and in particular his work on the system that reads the amounts on your cheques at the ATM.  The host, Alana Range, notes that her ATM has never gotten her cheque amounts wrong. I myself no longer bother to check.
 
-The technology behind the ATMs was developed by Le Cun and others almost 10 years ago, at AT&T Bell Labs [which, tragically, has been closed down]. The algorithm they developed [now] goes under the name LeNet, and is a multi-layer backpropagation Neural network called a Convolution Neural Network.  I will explain this terminology in my next post. [Update: [explanation now posted.](http://pafnuty.wordpress.com/2009/06/13/explanation-of-lenet-jargon/ "Explanation of LeNet jargon")]
+The technology behind the ATMs was developed by Le Cun and others almost 10 years ago, at AT&T Bell Labs [which, tragically, has been closed down]. The algorithm they developed [now] goes under the name LeNet, and is a multi-layer backpropagation Neural network called a Convolution Neural Network.  I will explain this terminology in my next post. [Update: [explanation now posted.](/posts/explanation-of-lenet-jargon/ "Explanation of LeNet jargon")]
 
 In the object recognition demonstration, Yann Le Cun describes four output interpretations in the LeNet algorithm: 1) edges and contours, 2) motifs, 3) categories, and finally 4) objects. By narrowing down options in several steps LeNet can arrive at the final outputn (identifying the object) far more rapidly -- the demonstration on the podcast proceses 4-5 pictures each second, and can recognize five different objects.  There are also [demonstrations online](http://yann.lecun.com/exdb/lenet/index.html "LeNet-5 demonstrations") on Yann Le Cun's website.
 

@@ -19,7 +19,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/09/27/the-argumentative-indian-in-me/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: September 27, 2011.*
+*Originally published on my old blog, [Pafnuty blog](/posts/the-argumentative-indian-in-me/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: September 27, 2011.*
 
 ---
 

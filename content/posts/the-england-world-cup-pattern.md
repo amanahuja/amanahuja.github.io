@@ -18,7 +18,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/06/27/the-england-world-cup-pattern/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 27, 2010.*
+*Originally published on my old blog, [Pafnuty blog](/posts/the-england-world-cup-pattern/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 27, 2010.*
 
 ---
 

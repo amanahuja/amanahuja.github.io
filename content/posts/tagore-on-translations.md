@@ -19,7 +19,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/01/03/tagore-on-translations/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 3, 2012.*
+*Originally published on my old blog, [Pafnuty blog](/posts/tagore-on-translations/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 3, 2012.*
 
 ---
 

@@ -20,7 +20,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/04/20/exploring-mls-salaries-2011/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: April 20, 2012.*
+*Originally published on my old blog, [Pafnuty blog](/posts/exploring-mls-salaries-2011/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: April 20, 2012.*
 
 ---
 
@@ -127,6 +127,6 @@ There's more to explore with the existing data set, but I would be interested in
 
 ### Downloads:
 
-- [MLS\_Salaries [PDF]](http://pafnuty.wordpress.com/2012/04/20/exploring-mls-salaries-2011/mls_salaries_ipy03/)
+- MLS\_Salaries [PDF]
 - [MLS\_Salaries [ZIP with PDF, IPYNB, and data in CSV]](https://dl.dropbox.com/u/30953532/MLS-Salaries.zip)
 - Data source: <http://www.mlsplayers.org/salary_info.html>

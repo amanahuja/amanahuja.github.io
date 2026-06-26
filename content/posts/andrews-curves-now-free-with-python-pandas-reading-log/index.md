@@ -14,7 +14,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2013/10/30/andrews-curves-now-free-with-python-pandas-reading-log/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 30, 2013.*
+*Originally published on my old blog, [Pafnuty blog](/posts/andrews-curves-now-free-with-python-pandas-reading-log/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: October 30, 2013.*
 
 ---
 

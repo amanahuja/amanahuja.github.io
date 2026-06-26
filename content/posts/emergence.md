@@ -13,7 +13,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2008/12/12/emergence/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 12, 2008.*
+*Originally published on my old blog, [Pafnuty blog](/posts/emergence/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 12, 2008.*
 
 ---
 

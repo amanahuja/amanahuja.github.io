@@ -14,7 +14,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/11/22/passat-electrical-demons/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 22, 2010.*
+*Originally published on my old blog, [Pafnuty blog](/posts/passat-electrical-demons/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 22, 2010.*
 
 Reposted June 2026: This kind of post doesn't fit my intentions for my blog
 anymore, but I'm keeping a few examples anyway. I used to post generally

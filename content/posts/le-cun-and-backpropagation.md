@@ -15,11 +15,11 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/06/14/le-cun-and-backpropagation/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 14, 2009.*
+*Originally published on my old blog, [Pafnuty blog](/posts/le-cun-and-backpropagation/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 14, 2009.*
 
 ---
 
-A [couple of posts ago](http://pafnuty.wordpress.com/2009/06/13/yann-lecun/) I wrote about an interview with Yann Le Cun. I subsequently found this interesting note in Smith's **Neural Networks for Statistical Modeling**:
+A [couple of posts ago](/posts/yann-lecun/) I wrote about an interview with Yann Le Cun. I subsequently found this interesting note in Smith's **Neural Networks for Statistical Modeling**:
 
 "Backpropagation is an example of multiple invention. David Parker (1982,1985) and Yann LeCun (1986) working independently of each other and of the Rumelhard group, published similar discoveries. But none of these workers made the first discovery of backpropagation. that honor goes, belatedly, to Paul Werbos, whose 1974 Harvard Ph.D. thesis, \_Beyond Regression\_ contains the earliest exposition of the techniques involved (Werbos 1974).
 

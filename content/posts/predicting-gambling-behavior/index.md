@@ -21,7 +21,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/07/21/predicting-gambling-behavior/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: July 21, 2009.*
+*Originally published on my old blog, [Pafnuty blog](/posts/predicting-gambling-behavior/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: July 21, 2009.*
 
 ---
 

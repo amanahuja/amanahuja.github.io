@@ -23,7 +23,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2014/05/29/change-detection-tutorial/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: May 29, 2014.*
+*Originally published on my old blog, [Pafnuty blog](/posts/change-detection-tutorial/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: May 29, 2014.*
 
 ---
 

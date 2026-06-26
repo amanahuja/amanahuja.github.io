@@ -27,7 +27,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/12/08/r2d3-and-other-letters-and-numbers/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 8, 2012.*
+*Originally published on my old blog, [Pafnuty blog](/posts/r2d3-and-other-letters-and-numbers/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: December 8, 2012.*
 
 ---
 

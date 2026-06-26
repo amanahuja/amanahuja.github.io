@@ -16,7 +16,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/02/23/a-sculpture-that-perpetually-sells-itself-on-ebay/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: February 23, 2010.*
+*Originally published on my old blog, [Pafnuty blog](/posts/a-sculpture-that-perpetually-sells-itself-on-ebay/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: February 23, 2010.*
 
 ---
 

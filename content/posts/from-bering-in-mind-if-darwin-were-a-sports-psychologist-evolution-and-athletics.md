@@ -14,7 +14,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2010/03/15/from-bering-in-mind-if-darwin-were-a-sports-psychologist-evolution-and-athletics/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 15, 2010.*
+*Originally published on my old blog, [Pafnuty blog](/posts/from-bering-in-mind-if-darwin-were-a-sports-psychologist-evolution-and-athletics/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 15, 2010.*
 
 Reposted 2026. Today I would take a different tone with such an
 observation. The value of sports lies also in its participation, in

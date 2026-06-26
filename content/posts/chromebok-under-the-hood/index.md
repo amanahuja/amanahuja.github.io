@@ -19,11 +19,11 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/05/26/chromebok-under-the-hood/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: May 26, 2011.*
+*Originally published on my old blog, [Pafnuty blog](/posts/chromebok-under-the-hood/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: May 26, 2011.*
 
 ---
 
-[(A second post about my chromebook).](http://pafnuty.wordpress.com/2011/05/23/nothing-but-the-web/ "Nothing but the web?")
+[(A second post about my chromebook).](/posts/nothing-but-the-web/ "Nothing but the web?")
 
 Chromebooks are known to come in [two different hardware configurations](http://www.winmatrix.com/forums/index.php?/topic/31598-google-chromebooks-hardware-specifications/ "Chromebook hardware configurations"), one by Acer and the other by Samsung. Based on display size (I have a 12.1" screen) and built-in 3G modem, my unlabeled device seemed at first to be the Samsung type. But not quite: I have standard VGA, not mini-VGA like the Samsung Chromebook. And I have only one USB port.
 

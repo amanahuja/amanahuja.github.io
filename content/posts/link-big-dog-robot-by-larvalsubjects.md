@@ -16,7 +16,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2009/07/29/link-big-dog-robot-by-larvalsubjects/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: July 29, 2009.*
+*Originally published on my old blog, [Pafnuty blog](/posts/link-big-dog-robot-by-larvalsubjects/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: July 29, 2009.*
 
 Reposted June 2026. In 2009 I noted that the author was impressed at how
 "biological" the robot's movements looked. I wouldn't have the same

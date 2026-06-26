@@ -17,7 +17,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/11/27/a-poem-by-a-twitter-bot/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 27, 2012.*
+*Originally published on my old blog, [Pafnuty blog](/posts/a-poem-by-a-twitter-bot/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 27, 2012.*
 
 Reposted June 2026. This twitter bot "Pentametron" would collect
 tweets that were (usually accidentally) in the right meter, and 

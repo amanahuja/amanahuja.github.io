@@ -19,7 +19,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2012/01/23/quora-must-hear-rahman-song/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 23, 2012.*
+*Originally published on my old blog, [Pafnuty blog](/posts/quora-must-hear-rahman-song/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: January 23, 2012.*
 
 ---
 

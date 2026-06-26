@@ -23,7 +23,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2013/08/14/non-convex-sets-with-k-means-and-hierarchical-clustering/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: August 14, 2013.*
+*Originally published on my old blog, [Pafnuty blog](/posts/non-convex-sets-with-k-means-and-hierarchical-clustering/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: August 14, 2013.*
 
 ---
 
@@ -38,7 +38,8 @@ It started to get quite lengthy, so I'm breaking it up into pieces and maybe I'l
 
 "K-means can't handle non-convex sets".
 
-{{< figure src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Convex_polygon_illustration2.png/220px-Convex_polygon_illustration2.png" alt="Non-Convex set" caption="A non-convex set" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Convex_polygon_illustration2.svg"
+alt="Non-Convex set" caption="A non-convex set, courtesy wikipedia" >}}
 
 *Convex sets: In Euclidean space, an object is convex if for every pair of points within the object, every point on the straight line segment that joins them is also within the object. [[Source: Wikipedia.](http://en.wikipedia.org/wiki/Convex_set)]*
 
@@ -83,9 +84,4 @@ K-means and single-link clustering. Combining the two algorithms is a pretty ro
 
 There are many additional problems with k-means: sensitivity to initialization, the need to pick k, poor performance in high-dimensions. Today we looked at those damn non-convex sets. I'll dive into some of the others in future posts.
 
-By the way, in the banana shapes solution today, note that we don't have to specify ahead of time the expected final number of clusters. We specified some arbitrary large number for k, but we finished up with hierarchical clustering. We could use one of many well-studied techniques to decide when to stop clustering. For example, we could automate a stopping rule using concepts of separation and cohesion -- [see this post](http://pafnuty.wordpress.com/2013/02/04/interpretation-of-silhouette-plots-clustering/ "Interpretation of Silhouette Plots (Clustering)") for a hint.
-
-Related posts:
-
-
-- [Interpretation of Silhouette Plots (Clustering)](http://pafnuty.wordpress.com/2013/02/04/interpretation-of-silhouette-plots-clustering/ "Interpretation of Silhouette Plots (Clustering)")
+By the way, in the banana shapes solution today, note that we don't have to specify ahead of time the expected final number of clusters. We specified some arbitrary large number for k, but we finished up with hierarchical clustering. We could use one of many well-studied techniques to decide when to stop clustering. For example, we could automate a stopping rule using concepts of separation and cohesion -- [see this post](/posts/interpretation-of-silhouette-plots-clustering/ "Interpretation of Silhouette Plots (Clustering)") for a hint.

@@ -17,7 +17,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/03/07/accidental-paste/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 7, 2011.*
+*Originally published on my old blog, [Pafnuty blog](/posts/accidental-paste/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 7, 2011.*
 
 Reposted June 2026. Another of the cooking posts I decided to keep in this
 migration. I find it interesting to see my writing style in this Pafnuty

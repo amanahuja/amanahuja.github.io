@@ -19,7 +19,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com/2011/03/03/linux-web-server-setup/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 3, 2011.*
+*Originally published on my old blog, [Pafnuty blog](/posts/linux-web-server-setup/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: March 3, 2011.*
 
 ---
 
