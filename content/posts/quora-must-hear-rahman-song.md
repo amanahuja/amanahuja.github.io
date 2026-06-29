@@ -42,23 +42,18 @@ The movie Bombay is the story of the love between a Hindu man and a Muslim woman
 The song carefully uses language (Urdu-esque) and invokes images (like the veil in the excerpt below) that the audience associates with Muslim culture, but without any actual religious content. The images themselves are beautiful and passionate.
 
 Excerpt:
-> Sharm thodi thodi humko aaye to nazarein jhuk jaayen
-> Sitam thoda thoda humpe shok hawa bhi kar jaaye
-> Aisi chali, aanchal ude, dil mein ek toofaan uthe
-> Hum to lut gaye khade hi khade
-
+> Sharm thodi thodi humko aaye to nazarein jhuk jaayen/<br/>  
+> Sitam thoda thoda humpe shok hawa bhi kar jaaye/<br/> 
+> Aisi chali, aanchal ude, dil mein ek toofaan uthe/<br/>  
+> Hum to lut gaye khade hi khade<br/>
 
 Translated (my own translation; I'm no language scholar but I disliked others I found):
-> A little shyness came and caused my eyes/gaze to fall downward
-> (But) even the wind tortures/teases me,
-> Blowing in such a way as to throw off my veil,
-> -- and (likewise) a storm blows/rises in my heart,
-> Just standing there my heart was stolen.
-
+> A little shyness came and caused my gaze to drop/<br/>
+> [But] even the wind teases me/<br/>
+> Blowing such to throw off my veil, <br/>
+>    and (likewise) a storm rises in my heart,/<br/>
+> my heart was stolen just standing there.<br/>
 
 The lyrics were written by [Mehboob Kotwal](http://en.wikipedia.org/wiki/Mehboob_Kotwal "Wikipedia entry \"Mehboob Kotwal\"").
 
-You can download the song from Amazon:
-
-
-- http://www.amazon.com/dp/B002HT3YUA/ref=cm\_sw\_r\_tw\_dp\_J4rhpb1D0SBTE
+Want to hear it? Here's a [link to download the song](http://www.amazon.com/dp/B002HT3YUA/ref=cm\_sw\_r\_tw\_dp\_J4rhpb1D0SBTE).
