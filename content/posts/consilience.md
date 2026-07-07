@@ -21,9 +21,9 @@ draft: false
 
 ---
 
-Some weeks ago I finished [Consilience, by EO Wilson](http://books.google.com/books?id=oM4bVo5dkZIC "Consilience by EO Wilson").
+Some weeks ago I finished [Consilience, by EO Wilson](https://www.goodreads.com/book/show/55981.Consilience "Consilience by EO Wilson").
 
-{{< figure src="http://bks6.books.google.com/books?id=oM4bVo5dkZIC&printsec=frontcover&img=1&zoom=1&sig=ACfU3U0uFEQmsQlLADUr4IUcFiN56WqCBg" alt="Consilience book cover" caption="Consilience by EO Wilson" >}}
+<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1403192416i/55981.jpg" style="width:150px" alt="Consilience book cover">
 
 The book is grandly ambitious, informative, critical and didactic. And while few people would agree with everything that Wilson says, fewer still could claim that they are not better off for having read the book.
 

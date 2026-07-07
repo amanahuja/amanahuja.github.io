@@ -59,7 +59,6 @@ These are the useful things Pedro chooses to highlight in this paper.
 - [Correlation is not Causation](http://en.wikipedia.org/wiki/Correlation_does_not_imply_causation "Correlation does not imply causation").
 
 
-
 **Links:**
-<http://www.cs.washington.edu/homes/pedrod/class>
-<http://www.videolectures.net>
+* <http://www.cs.washington.edu/homes/pedrod/class>
+* <http://www.videolectures.net>

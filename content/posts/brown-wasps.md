@@ -6,7 +6,6 @@ author: "Aman Ahuja"
 series:
   - pafnuty-blog
 tags:
-  - city life
   - digression
   - essays
   - loren eiseley
@@ -22,8 +21,22 @@ draft: false
 
 ---
 
-The form and style of Loren Eiseley's essay "The Brown Wasps", which I just read, were as provocative to me as the emotions that it invoked. I've been told that in beginning to write it is acceptable to model one's own style after some admired works. This one should likely be on my list.
+The form and style of Loren Eiseley's essay "The Brown Wasps", which I just read, were as provocative to me as the emotions that it invoked. 
 
-The essay is about much more than simple nostalgia; she was right to never use the word. I was frustrated at having to scroll past the dozens of surely poorly written student analyses when searching for the full text online. Since the search was fruitless I cannot include a link for you, but I can tell that I read it in the essay collection by Joyce Carol Oates. And since I'm discouraged by all the amateur commentary, I will refrain from providing my own.
+Eiseley uses aging wasps creeping on an abandoned nest to bring together
+imagery of how the elderly might return to places that hold strong memories
+and familiarity: a railway station, a schoolyard, a cottonwood tree the
+author planted with his father. 
 
-As an aside, I wonder if Eiseley's essay was the inspiration for Dave Matthews' song "The Dreaming Tree," which struck many of the same notes when I first heard it in high school.
+I was frustrated at dozens of poorly written student analyses when
+searching for this essay online, so I will refrain from adding my own. 
+
+I wasn't able to find a good link to share here, but I can tell that I read
+it in the excellent essay collection by Joyce Carol Oates.
+
+They say that when beginning to write, it is acceptable to model one's own
+style after admired works -- Loren Eiseley will be an inspiration for me. 
+
+As an aside, Eiseley's essay reminded me of Dave Matthews' song "The
+Dreaming Tree," which struck some of the same notes when I first heard it
+in high school.
