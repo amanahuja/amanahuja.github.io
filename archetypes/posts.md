@@ -36,5 +36,12 @@ If this post needs images, convert to a page bundle:
     index.md      ← rename this file
     image.png
 
-Then reference images as: ![alt](image.png)
+Then reference images as
+`![alt](image.png)`
+
+or with shortcode, this adds a caption, looks nice. 
+`{{< figure src="image.jpg" alt="Alt text" caption="Caption" >}}`
+
+Hack to control width, but losing caption
+<img src="https://URL" style="width:150px" alt="alt text">
 -->
