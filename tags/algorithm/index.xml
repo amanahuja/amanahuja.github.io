@@ -57,28 +57,28 @@ Compare this paper to many similar ones with general advice or observations on &
 These are the useful things Pedro chooses to highlight in this paper.&lt;/p></description></item><item><title>BARAC: Rank Aware Interval Based Clustering</title><link>https://amanahuja.me/posts/barac-rank-aware-interval-based-clustering/</link><pubDate>Fri, 19 Oct 2012 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/barac-rank-aware-interval-based-clustering/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/barac-rank-aware-interval-based-clustering/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: October 19, 2012.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;p>I read this paper on 10/19/2012.&lt;/p>
-&lt;p>Authors
-Julia Stoyanovich, [UPenn](&lt;a href="http://maps.google.com/maps?ll=39.953885,-75.193048&amp;amp;spn=0.01,0.01&amp;amp;q=39.953885,-75.193048">http://maps.google.com/maps?ll=39.953885,-75.193048&amp;amp;spn=0.01,0.01&amp;amp;q=39.953885,-75.193048&lt;/a> (University%20of%20Pennsylvania)&amp;amp;t=h &amp;ldquo;University of Pennsylvania&amp;rdquo;)
-Sihem Amer-Yahia, &lt;a href="http://research.yahoo.com/" title="Yahoo! Research">Yahoo! Research&lt;/a>
-Tova Milo, &lt;a href="http://www.math.tau.ac.il/~milo/">Tel Aviv Univ&lt;/a>.&lt;/p>
-&lt;p>Links
-Original paper: &lt;a href="http://www.icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/edbt/a39-stoyanovich.pdf">http://www.icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/edbt/a39-stoyanovich.pdf [PDF]&lt;/a>&lt;strong>[Updated 10/19/2012. I just found a nice slideshare from Julia Stoyanovich.]&lt;/strong>
-Slideshare: &lt;a href="http://www.slideshare.net/yandex/julia-stoyanovich-making-intervalbased-clustering-rankaware-12174065">http://www.slideshare.net/yandex/julia-stoyanovich-making-intervalbased-clustering-rankaware-12174065&lt;/a>&lt;/p>
-&lt;h3 id="bottom-up-algorithm-for-rank-aware-interval-based-clustering">Bottom-up Algorithm for Rank Aware (Interval Based) clustering.&lt;/h3>
-&lt;p>Comments&lt;/p></description></item><item><title>Patent on Music Genome Project</title><link>https://amanahuja.me/posts/patent-on-music-genome-project/</link><pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/patent-on-music-genome-project/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/patent-on-music-genome-project/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: March 16, 2012.&lt;/em>&lt;/p>
+&lt;h2 id="bottom-up-algorithm-for-rank-aware-interval-based-clustering">Bottom-up Algorithm for Rank Aware (Interval Based) clustering&lt;/h2>
+&lt;p>Authors:&lt;/p>
+&lt;ul>
+&lt;li>Julia Stoyanovich, UPenn&lt;/li>
+&lt;li>Sihem Amer-Yahia, &lt;a href="http://research.yahoo.com/" title="Yahoo! Research">Yahoo! Research&lt;/a>&lt;/li>
+&lt;li>Tova Milo, &lt;a href="http://www.math.tau.ac.il/~milo/">Tel Aviv Univ&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Links:&lt;/p>
+&lt;ul>
+&lt;li>Original paper: &lt;a href="http://www.icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/edbt/a39-stoyanovich.pdf">http://www.icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/edbt/a39-stoyanovich.pdf [PDF]&lt;/a>&lt;strong>[Updated 10/19/2012. I just found a nice slideshare from Julia Stoyanovich.]&lt;/strong>&lt;/li>
+&lt;li>Slideshare: &lt;a href="http://www.slideshare.net/yandex/julia-stoyanovich-making-intervalbased-clustering-rankaware-12174065">http://www.slideshare.net/yandex/julia-stoyanovich-making-intervalbased-clustering-rankaware-12174065&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="comments">Comments&lt;/h2>
+&lt;p>This paper argues that in some scenarios providing search results in a ranked manner is improved by grouping similar results such that the user is more easily able to access a varied set of matching responses. The proposal is to cluster results before presenting them to the user. Clustering is performed &lt;em>locally&lt;/em>, that is, after applying the filter and by taking into account the user&amp;rsquo;s selected ranking criterion.&lt;/p></description></item><item><title>Patent on Music Genome Project</title><link>https://amanahuja.me/posts/patent-on-music-genome-project/</link><pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/patent-on-music-genome-project/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/patent-on-music-genome-project/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: March 16, 2012.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;p>Reading log: Patent on &lt;a href="http://en.wikipedia.org/wiki/Music_Genome_Project" title="Music Genome Project">Music Genome Project&lt;/a>&lt;/p>
 &lt;p>Patent 7,003,515 B1, February 2006.  &lt;a href="http://en.wikipedia.org/wiki/Tim_Westergren" title="Tim Westergren">Tim Westergren&lt;/a>, Will Glaser, Stanford.&lt;/p>
 &lt;p>Also: Wikipedia and various articles&lt;/p>
 &lt;p>I was originally interested in the techniques used by this project after a discussion and project proposal in 2008. I read the patent then and these ideas have reared their head on several occasions since then, most recently for a client in March 2012, so I&amp;rsquo;ll back-date this post to around then.&lt;/p></description></item><item><title>Consilience</title><link>https://amanahuja.me/posts/consilience/</link><pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/consilience/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/consilience/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: March 1, 2011.&lt;/em>&lt;/p>
 &lt;hr>
-&lt;p>Some weeks ago I finished &lt;a href="http://books.google.com/books?id=oM4bVo5dkZIC" title="Consilience by EO Wilson">Consilience, by EO Wilson&lt;/a>.&lt;/p>
-&lt;figure>&lt;img src="http://bks6.books.google.com/books?id=oM4bVo5dkZIC&amp;amp;printsec=frontcover&amp;amp;img=1&amp;amp;zoom=1&amp;amp;sig=ACfU3U0uFEQmsQlLADUr4IUcFiN56WqCBg"
- alt="Consilience book cover">&lt;figcaption>
- &lt;p>Consilience by EO Wilson&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
-
+&lt;p>Some weeks ago I finished &lt;a href="https://www.goodreads.com/book/show/55981.Consilience" title="Consilience by EO Wilson">Consilience, by EO Wilson&lt;/a>.&lt;/p>
+&lt;img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1403192416i/55981.jpg" style="width:150px" alt="Consilience book cover">
 &lt;p>The book is grandly ambitious, informative, critical and didactic. And while few people would agree with everything that Wilson says, fewer still could claim that they are not better off for having read the book.&lt;/p></description></item><item><title>Reading Log: Natural Language Generation by Genetic Programming</title><link>https://amanahuja.me/posts/natural-language-generation-by-genetic-programming/</link><pubDate>Fri, 12 Nov 2010 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/natural-language-generation-by-genetic-programming/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/natural-language-generation-by-genetic-programming/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: November 12, 2010.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;p>Part of the &amp;ldquo;Today I read&amp;rdquo; series.&lt;/p>

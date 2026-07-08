@@ -3,12 +3,17 @@
 &lt;p>The project involved extensive data collection and indicator development work focused on housing, evictions, and housing loss. We obtained consultations from experts throughout the country to ensure methodological rigor in addressing these politically sensitive and methodologically challenging economic indicators.&lt;/p></description></item><item><title>BARAC: Rank Aware Interval Based Clustering</title><link>https://amanahuja.me/posts/barac-rank-aware-interval-based-clustering/</link><pubDate>Fri, 19 Oct 2012 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/barac-rank-aware-interval-based-clustering/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/barac-rank-aware-interval-based-clustering/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: October 19, 2012.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;p>I read this paper on 10/19/2012.&lt;/p>
-&lt;p>Authors
-Julia Stoyanovich, [UPenn](&lt;a href="http://maps.google.com/maps?ll=39.953885,-75.193048&amp;amp;spn=0.01,0.01&amp;amp;q=39.953885,-75.193048">http://maps.google.com/maps?ll=39.953885,-75.193048&amp;amp;spn=0.01,0.01&amp;amp;q=39.953885,-75.193048&lt;/a> (University%20of%20Pennsylvania)&amp;amp;t=h &amp;ldquo;University of Pennsylvania&amp;rdquo;)
-Sihem Amer-Yahia, &lt;a href="http://research.yahoo.com/" title="Yahoo! Research">Yahoo! Research&lt;/a>
-Tova Milo, &lt;a href="http://www.math.tau.ac.il/~milo/">Tel Aviv Univ&lt;/a>.&lt;/p>
-&lt;p>Links
-Original paper: &lt;a href="http://www.icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/edbt/a39-stoyanovich.pdf">http://www.icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/edbt/a39-stoyanovich.pdf [PDF]&lt;/a>&lt;strong>[Updated 10/19/2012. I just found a nice slideshare from Julia Stoyanovich.]&lt;/strong>
-Slideshare: &lt;a href="http://www.slideshare.net/yandex/julia-stoyanovich-making-intervalbased-clustering-rankaware-12174065">http://www.slideshare.net/yandex/julia-stoyanovich-making-intervalbased-clustering-rankaware-12174065&lt;/a>&lt;/p>
-&lt;h3 id="bottom-up-algorithm-for-rank-aware-interval-based-clustering">Bottom-up Algorithm for Rank Aware (Interval Based) clustering.&lt;/h3>
-&lt;p>Comments&lt;/p></description></item></channel></rss>
+&lt;h2 id="bottom-up-algorithm-for-rank-aware-interval-based-clustering">Bottom-up Algorithm for Rank Aware (Interval Based) clustering&lt;/h2>
+&lt;p>Authors:&lt;/p>
+&lt;ul>
+&lt;li>Julia Stoyanovich, UPenn&lt;/li>
+&lt;li>Sihem Amer-Yahia, &lt;a href="http://research.yahoo.com/" title="Yahoo! Research">Yahoo! Research&lt;/a>&lt;/li>
+&lt;li>Tova Milo, &lt;a href="http://www.math.tau.ac.il/~milo/">Tel Aviv Univ&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Links:&lt;/p>
+&lt;ul>
+&lt;li>Original paper: &lt;a href="http://www.icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/edbt/a39-stoyanovich.pdf">http://www.icdt.tu-dortmund.de/proceedings/edbticdt2011proc/WebProceedings/papers/edbt/a39-stoyanovich.pdf [PDF]&lt;/a>&lt;strong>[Updated 10/19/2012. I just found a nice slideshare from Julia Stoyanovich.]&lt;/strong>&lt;/li>
+&lt;li>Slideshare: &lt;a href="http://www.slideshare.net/yandex/julia-stoyanovich-making-intervalbased-clustering-rankaware-12174065">http://www.slideshare.net/yandex/julia-stoyanovich-making-intervalbased-clustering-rankaware-12174065&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="comments">Comments&lt;/h2>
+&lt;p>This paper argues that in some scenarios providing search results in a ranked manner is improved by grouping similar results such that the user is more easily able to access a varied set of matching responses. The proposal is to cluster results before presenting them to the user. Clustering is performed &lt;em>locally&lt;/em>, that is, after applying the filter and by taking into account the user&amp;rsquo;s selected ranking criterion.&lt;/p></description></item></channel></rss>
