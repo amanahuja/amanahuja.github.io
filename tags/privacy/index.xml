@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Privacy on Aman Ahuja</title><link>https://amanahuja.me/tags/privacy/</link><description>Recent content in Privacy on Aman Ahuja</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://amanahuja.me/tags/privacy/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy Review Skill</title><link>https://amanahuja.me/posts/privacy-review-skill/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/privacy-review-skill/</guid><description>&lt;p>I &amp;ldquo;published&amp;rdquo; a skill I&amp;rsquo;ve been using. Where &amp;ldquo;published&amp;rdquo; = &amp;ldquo;pushed to a public repo&amp;rdquo;.&lt;/p>
+&lt;p>It&amp;rsquo;s been a helpful tool, in case you want to try it out:&lt;/p>
+&lt;p>GitHub - &lt;a href="https://github.com/amanahuja/privacy-skills">amanahuja/privacy-skills&lt;/a>: Agent skills for privacy policy analysis.&lt;/p>
+&lt;div class="pa4">
+ &lt;div class="athelas ml0 mt0 pl4 black-90 bl bw2 b--blue">
+ &lt;p class="f5 f4-m f3-l lh-copy measure mt0">
+ 
+Review a privacy policy or terms of service against a structured scorecard.
+Combines ToS;DR's human-curated ratings with LLM analysis. &lt;br>
+&lt;br>
+Use it next time instead of just clicking "Accept"! 
+ 
+ &lt;br>
+ &lt;/p></description></item></channel></rss>

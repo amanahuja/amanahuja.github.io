@@ -13,7 +13,20 @@ spreadsheets after every game or every day of games.&lt;/p></description></item>
 wondering how to tell people about the work that I do, and he pushed back.
 Worry less about a portfolio, he said, and instead &lt;em>say provocative things,
 such that people want to reach out to you&lt;/em>. He had been talking about
-a personal manifesto, not one for Fenris, but the idea got a foothold.&lt;/p></description></item><item><title>Gathering my writings Part 1: the Pafnuty Blog</title><link>https://amanahuja.me/posts/gathering-my-writings-1/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/gathering-my-writings-1/</guid><description>&lt;p>Although this section of the site is new, there are many posts and papers
+a personal manifesto, not one for Fenris, but the idea got a foothold.&lt;/p></description></item><item><title>Privacy Review Skill</title><link>https://amanahuja.me/posts/privacy-review-skill/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/privacy-review-skill/</guid><description>&lt;p>I &amp;ldquo;published&amp;rdquo; a skill I&amp;rsquo;ve been using. Where &amp;ldquo;published&amp;rdquo; = &amp;ldquo;pushed to a public repo&amp;rdquo;.&lt;/p>
+&lt;p>It&amp;rsquo;s been a helpful tool, in case you want to try it out:&lt;/p>
+&lt;p>GitHub - &lt;a href="https://github.com/amanahuja/privacy-skills">amanahuja/privacy-skills&lt;/a>: Agent skills for privacy policy analysis.&lt;/p>
+&lt;div class="pa4">
+ &lt;div class="athelas ml0 mt0 pl4 black-90 bl bw2 b--blue">
+ &lt;p class="f5 f4-m f3-l lh-copy measure mt0">
+ 
+Review a privacy policy or terms of service against a structured scorecard.
+Combines ToS;DR's human-curated ratings with LLM analysis. &lt;br>
+&lt;br>
+Use it next time instead of just clicking "Accept"! 
+ 
+ &lt;br>
+ &lt;/p></description></item><item><title>Gathering my writings Part 1: the Pafnuty Blog</title><link>https://amanahuja.me/posts/gathering-my-writings-1/</link><pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/gathering-my-writings-1/</guid><description>&lt;p>Although this section of the site is new, there are many posts and papers
 that I&amp;rsquo;ve written elsewhere. It&amp;rsquo;s content sitting on other platforms.
 I&amp;rsquo;d like to gather some of that stuff and bring it here.&lt;/p>
 &lt;p>I &lt;a href="https://amanahuja.me/posts/rss-and-posse">posted earlier about why that might be
