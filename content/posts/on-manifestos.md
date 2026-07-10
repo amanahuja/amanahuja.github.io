@@ -13,7 +13,7 @@ draft: false
 ---
 
 Fenris recently published a Manifesto. You can read it here: 
-[gofenris.com/notes/manifesto](https://gofenris.com/notes/manifesto)
+[gofenris.com/manifesto](https://gofenris.com/manifesto)
 
 G challenged me to write a manifesto, a long time back. I had been
 wondering how to tell people about the work that I do, and he pushed back.
