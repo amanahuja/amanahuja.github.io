@@ -78,7 +78,20 @@ Here's a brief description of my vibe-coding process:
 I always attempt to use local and less-powerful models, both to reduce
 costs and to reduce environmental impact. For this project I used Kimi
 k2.6 as a main model, and Claude Haiku 4.5 for the more complex tasks, and
-when things felt stuck, I escalated to Sonnet. 
+when things felt stuck, I escalated to Sonnet 4.6. 
+
+{{< preformat >}}
+<i>[Aside]
+Some might read this and laugh: "You didn't use the latest model [Fable or
+whatever] and haha spec-driven development is so 2025! You should use this:
+[some tool]".  
+
+Okay -- fair. I really do want to hear how you would have done it, and
+maybe I'll try it out. I wasn't trying to be cutting edge with this
+experiment, and felt that it would be a pretty doable task with these
+models.  They struggled much more than I expected them to. 
+</i>
+{{< /preformat >}}
 
 Obviously this model-switching isn't great. Some parts are well-practiced
 by now and feels streamlined. But other times it's really inefficient to
@@ -111,39 +124,23 @@ All of that fits within Cloudflare's "free" tier. It'll be sufficient
 unless a whole bunch of people sign up for this bracket, but don't worry, I
 don't have that many friends. 
 
-Here's what the leaderboard looks like, a few days into the Cup
-![leaderboard](ss_20260618_01.png)
 
+Here are a few screenshots, a few days into the Cup: 
 
-This is the screen that allows users to make predictions. It shows the
-Group Stage, which is locked now -- users can't change their predictions
-now that the Cup has started. 
-![group stage predictions](ss_20260618_02.png)
+![leaderboard](leaderboard.png)
 
+![results-overlay.png](results-overlay.png)
+![predictions-overlay.png](predictions-overlay.png)
+
+![knockout stage predictions](predictions-QF.png)
+
+![picks](picks-view.png)
 
 The agent really struggled with the knockout bracket, lining up the games,
 previewing the matchups in the next phase based on the user's selection. 
-![knockout stage predictions](ss_20260618_03.png)
 
 --- 
 
-I'll update this post after the world cup is over with sceenshots of the
-winners, 'cus that's fun, and the app should display a nice little "podium"
-for 1st, 2nd, and 3rd place. We've already identified one bug that I
-haven't fixed (read: told some agent to fix). I think it's interesting
-to see what the agents were bad at, I'll report on that as well. 
-
-<!--
-Using images: SOCIAL PREVIEW IMAGE (og:image): No image means no thumbnail when shared on
-fediverse/social. To add one, use a page bundle (see below) and add the image
-path to the `images` frontmatter field. Recommended dimensions: 1200x630px.
-A site-wide fallback image (the logo) could be configured in head.html when ready.
-
-If this post needs images, convert to a page bundle:
-
-  content/posts/my-post/
-    index.md      ← rename this file
-    image.png
-
-Then reference images as: ![alt](image.png)
--->
+I'll update this post after the world cup is over with screenshot of the
+final podium with winners, 'cus that's fun. I'll also point out some of the
+more illustrative bugs and challenges I encountered in this process. 
