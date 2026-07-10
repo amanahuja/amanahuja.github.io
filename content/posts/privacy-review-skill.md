@@ -1,6 +1,6 @@
 ---
 title: "Privacy Review Skill"
-subtitle: "This shows up in previews (homepage and listing)"
+subtitle: "An agent skill to help review a privacy policy"
 date: 2026-05-01
 author: "Aman Ahuja"
 categories:
