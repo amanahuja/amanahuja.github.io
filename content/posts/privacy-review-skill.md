@@ -14,39 +14,76 @@ tags:
 layout: single
 ---
 
-I "published" a skill I've been using. Where "published" = "pushed to a public repo".
-
-It's been a helpful tool, in case you want to try it out: 
-
-GitHub - [amanahuja/privacy-skills](https://github.com/amanahuja/privacy-skills): Agent skills for privacy policy analysis. 
-
+I published an agent skill that I have found useful: [amanahuja/privacy-skills](https://github.com/amanahuja/privacy-skills)
 {{< pullquote >}}
-Review a privacy policy or terms of service against a structured scorecard.
-Combines ToS;DR's human-curated ratings with LLM analysis. <br>
+amanahuja/privacy-skills: Review a privacy policy or terms of service
+against a structured scorecard. Combines ToS;DR's human-curated ratings
+with LLM analysis. <br>
 <br>
 Use it next time instead of just clicking "Accept"! 
 {{< /pullquote >}}
 
+## Skill Design thought process
 
-## Example 
-I ran this skill against the privacy policy on my own website, for fun. I was using Sonnet 4.6. 
+ToS;DR has an excellent framework and methodology for reviewing privacy
+policies, and the community has reviewed many privacy policies by hand,
+covering many popular tools and services.  If you haven't heard of ToS;DR,
+definitely pay them a visit: https://tosdr.org .
+
+So first I wanted my agent to check if the privacy policy had already been
+reviewed, and to use ToS;DR's review when possible. It's by humans, well
+considered. They have an API that makes this easy. 
+
+When a human review from them is not available, we can still follow their
+framework, categories, and approach, all of which is well documented. 
+
+Privacy policies are updated all the time, so I was very concerned about 
+outdated analysis. 
+
+I'm in Wisconsin, USA, but as I started thinking about publishing this as
+a public agent skill, I began thinking about jusidiction. If the user is in
+the EU and GDPR applies, that should change the analysis. 
+
+I wanted the agent's review to be easy to understand for people who are not
+privacy nerds.
+
+The agent's claims should be strongly grounded.  The skill includes
+instructions to providie direct quotes from the policy document. This
+abandons brevity. While that's fine for me, I was conscious that most users
+will want something short, and if they read any details it would only be
+for a section that they felt was important. This led to a scorecoard idea
+that worked well alongside the existing ToSDR framework. 
+
+Everyone's needs are different, and vary by context or the type of tool
+they are evaluating. Such evaluations depend on one's threat model. This is
+both a challenge and the real value of having an LLM analysis. I've stared
+simple with a methodology that adjusts the review depending on the level of
+privacy concern. 
+
+General skill-building best practices should apply. 
+
+## Example : my own website. 
+
+I'll share the agent's analysis when I used this skill to review the privacy
+policy on my own website. 
 
 My query: "review this privacy policy: https://amanahuja.me/privacy-policy/"
+I was using Sonnet 4.6 in this exchange. 
 
-Agent asks:
+The agent asks:
 > "Which TOSDR result matches the service you wan reviewed?" 
 
-My website has been submitted to TOSDR and has a service ticket at :
-tosdr.org/en/service/7069 — Rating: N/A (not yet reviewed).  
+My website has been previously submitted to TOSDR and has a service ticket
+at: tosdr.org/en/service/7069 — Rating: N/A (not yet reviewed).  
 
-The agent found this ticket and asked me to confirm if it is a match. I
-said yes. There's no human review available for this ticket, so the agent
-will not actually get any information from TOSDR. 
+The agent found this and asked me to confirm if it is a match. I said
+"Yes". There's no human review available yet for this ticket, so the agent
+was not able to get any information from TOSDR. 
 
 Agent asks: 
 > "What level of review do you need?" 
 
-I chose "Standard", which was the recommended option. 
+I chose "Standard". 
 
 {{< preformat >}}
 What level of review do you need?
@@ -62,7 +99,6 @@ Full analysis including law enforcement access, sensitive data categories, and c
 
 4.Type your own answer
 {{< /preformat >}}
-
 
 
 Agent asks: 
@@ -259,8 +295,8 @@ requests. The main action item is to revisit the policy before you submit
 anything sensitive.
 {{< /preformat >}}
 
-I have found this to be really useful to review privacy policies for tools
-and apps that I'm considering.
-
-If you haven't heard of TOSDR, definitely pay them a visit:
-https://tosdr.org . 
+I have found this skill to be really useful to review privacy policies for
+tools and apps and tech services, for comparing any product that has an
+"online" component or requires signup. I also use it sometimes for those
+emails that we are all constantly getting: "our privacy policy has
+changed". 
