@@ -1,17 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experiments on Aman Ahuja</title><link>https://amanahuja.me/categories/experiments/</link><description>Recent content in Experiments on Aman Ahuja</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://amanahuja.me/categories/experiments/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy Review Skill</title><link>https://amanahuja.me/posts/privacy-review-skill/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/privacy-review-skill/</guid><description>&lt;p>I &amp;ldquo;published&amp;rdquo; a skill I&amp;rsquo;ve been using. Where &amp;ldquo;published&amp;rdquo; = &amp;ldquo;pushed to a public repo&amp;rdquo;.&lt;/p>
-&lt;p>It&amp;rsquo;s been a helpful tool, in case you want to try it out:&lt;/p>
-&lt;p>GitHub - &lt;a href="https://github.com/amanahuja/privacy-skills">amanahuja/privacy-skills&lt;/a>: Agent skills for privacy policy analysis.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experiments on Aman Ahuja</title><link>https://amanahuja.me/categories/experiments/</link><description>Recent content in Experiments on Aman Ahuja</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://amanahuja.me/categories/experiments/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy Review Skill</title><link>https://amanahuja.me/posts/privacy-review-skill/</link><pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/privacy-review-skill/</guid><description>&lt;p>I published an agent skill that I have found useful: &lt;a href="https://github.com/amanahuja/privacy-skills">amanahuja/privacy-skills&lt;/a>
 &lt;div class="pa4">
  &lt;div class="athelas ml0 mt0 pl4 black-90 bl bw2 b--blue">
  &lt;p class="f5 f4-m f3-l lh-copy measure mt0">
  
-Review a privacy policy or terms of service against a structured scorecard.
-Combines ToS;DR's human-curated ratings with LLM analysis. &lt;br>
+amanahuja/privacy-skills: Review a privacy policy or terms of service
+against a structured scorecard. Combines ToS;DR's human-curated ratings
+with LLM analysis. &lt;br>
 &lt;br>
 Use it next time instead of just clicking "Accept"! 
  
  &lt;br>
- &lt;/p></description></item><item><title>Change Detection Tutorial</title><link>https://amanahuja.me/posts/change-detection-tutorial/</link><pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/change-detection-tutorial/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/change-detection-tutorial/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: May 29, 2014.&lt;/em>&lt;/p>
+ &lt;/p>
+ 
+ &lt;/div>
+&lt;/div>
+
+&lt;/p>
+&lt;h2 id="skill-design-thought-process">Skill Design thought process&lt;/h2>
+&lt;p>ToS;DR has an excellent framework and methodology for reviewing privacy
+policies, and the community has reviewed many privacy policies by hand,
+covering many popular tools and services. If you haven&amp;rsquo;t heard of ToS;DR,
+definitely pay them a visit: &lt;a href="https://tosdr.org">https://tosdr.org&lt;/a> .&lt;/p></description></item><item><title>Change Detection Tutorial</title><link>https://amanahuja.me/posts/change-detection-tutorial/</link><pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/change-detection-tutorial/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/change-detection-tutorial/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: May 29, 2014.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;p>I&amp;rsquo;ve been working on a tutorial on change detection. This is the first time I&amp;rsquo;ve attempted to write a tutorial, and it&amp;rsquo;s been a useful learning process. I&amp;rsquo;m not &amp;ldquo;done&amp;rdquo; yet, but I feel it is at the point where I can announce that it exists.&lt;/p></description></item><item><title>Non-convex sets with k-means and hierarchical clustering</title><link>https://amanahuja.me/posts/non-convex-sets-with-k-means-and-hierarchical-clustering/</link><pubDate>Wed, 14 Aug 2013 00:00:00 +0000</pubDate><guid>https://amanahuja.me/posts/non-convex-sets-with-k-means-and-hierarchical-clustering/</guid><description>&lt;p>&lt;em>Originally published on my old blog, &lt;a href="https://amanahuja.me/posts/non-convex-sets-with-k-means-and-hierarchical-clustering/">Pafnuty blog&lt;/a>. Reposted here as an effort to &lt;a href="https://amanahuja.me/posts/consolidating-my-writing/">consolidate writing&lt;/a> into one place. The original publication date was: August 14, 2013.&lt;/em>&lt;/p>
 &lt;hr>
