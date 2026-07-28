@@ -67,9 +67,9 @@ choices. This points me towards open models, which in turn points me
 towards doing my work with smaller models and smaller contexts. 
 
 The combination of these concerns has led me to a principle of AI
-Minimization, inspired by the principle of data minimization. Applying this
-principle means having some opinions and practices about models, context,
-tokens, and more.  
+Minimization, analagous to the principle of data minimization. Applying
+this principle means having some opinions and practices about models,
+context, tokens, and more.  
 
 {{< preformat >}}
 An aside on language about "AI".
@@ -80,11 +80,10 @@ small language models, too, and "language models" would be too inclusive
 a term. 
 
 I suppose I'm referring to specific transformer architectures, especially
-the currently popular decoder-only transformer systems which have driven 
-this current cycle of artificial neural networks, but it is hard to
-know what architectures are actually being used, and how they evolve,
-and certainly by now most providers use a combination of architectures 
-anyway.
+the decoder-only transformer systems which have driven this current cycle
+of artificial neural networks, but it is hard to know what architectures
+are actually being used, and how they evolve, and certainly by now most
+providers use a combination of architectures anyway.
 
 So I guess I will use "AI" in this post for simplicity, but, just so you
 know, it's under protest. 
@@ -99,16 +98,15 @@ acceptability of the outcome and on the resources needed to get there.
 Minimization takes a different stance: start with less and add only what is
 necessary.
 
-I was inspired by the principle of data minimization. Data
-minimization encourages collecting the smallest amount of data truly needed
-for a given purpose. 
+The principle of data minimization, which motivated me, suggests collecting
+only the smallest amount of data truly needed for a given purpose. 
 
 > Data minimization is the principle that you should collect, use, retain,
 > and share only the minimum amount of data necessary to accomplish a
 > legitimate purpose.
 
-In that context, we do not strive to "optimize" the data we collect. That
-would be too weak an aspiration. We strive to _minimize_ it. 
+We do not strive to "optimize" the data we are collecting. That would be an
+aspiration with no teeth. We strive to _minimize_ it. 
 
 A similar principle applies for AI systems. 
 
@@ -161,7 +159,7 @@ whatever you put in the chat, and files that you attach. It may also
 include a system prompt and the conversation's history. Depending on
 what tool you are using, there may be other things injected into the context
 that you may not pay as much attention to: like "custom instructions" or
-"memories", and the instructions in a coding agent or "harness". 
+"memories", and the instructions in a coding agent or harness. 
 
 Controlling and understanding LLM context windows is a whole world unto
 itself, and often requires careful tool and customization and plug-in
@@ -181,23 +179,29 @@ pi coding agent (https://pi.dev/).
 take the time to think about what I'm asking and what information is
 required for the LLM to provide a quality response. 
 
-**8) I prefer small-sized skills**. I use or build small _skills_, and I
+**8) I prefer short LLM interactions over long-running agents, and small
+tasks to large tasks.** Long "conversations" (another unfortunate misnomer)
+lead to overloaded context windows that contain far more information than
+is actually needed. Note that long-running tasks and scheduled tasks are
+still possible with short LLM interactions. 
+
+**9) I prefer small-sized skills**. I use or build small _skills_, and I
 don't give an agent free reign to go fill up its context window with web
 fetches. I manually trigger almost all skills that I use, rather than
 agent-triggered skills. The latter requires consuming part of the LLM
 context window with descriptions of available skills, and when triggered
 incorrectly leads to wasted tokens and bad steering. 
 
-**9) I prefer short LLM interactions over long-running agents, and small
-tasks to large tasks.** Long "conversations" (another unfortunate misnomer)
-lead to overloaded context windows that contain far more information than
-is actually needed. Note that long-running tasks and scheduled tasks are
-still possible with short LLM interactions. 
+These efforts to minimize my context are awkward and clunky. I often have
+to start new conversations, switch between conversations, or use multiple
+running instances of a tool. These are temporary hacks that already have
+emerging tooled solutions which are getting better every time I look. 
 
-Minimizing context can be awkward and clunky. I often have to start new
-conversations, switch between conversations, or use multiple running
-instances of a tool. These are temporary hacks that already have emerging
-tooled solutions which are getting better every time I look. 
+{{< pullquote >}}
+Maintaining context control today is difficult. Many smart teams are
+working on this problem, and it will smooth many rough edges when,
+inevitably, this becomes very easy for everyone. 
+{{< /pullquote >}}
 
 Context rot is about more than just _long_ contexts. Just as a human might
 be "primed" by information to produce a biased response, LLMs produce
@@ -206,29 +210,18 @@ including, for example, skill descriptions. Thus all these minimizations
 have the added benefit of reducing the likelihood of undesired model
 behavior.
 
-{{< pullquote >}}
-Maintaining context control today is very awkward and clunky. Many smart
-teams are working on this problem, and it will smooth many rough 
-edges when, inevitably, this becomes very easy for everyone. 
-{{< /pullquote >}}
-
 ## <u>Minimizing Tokens</u>
 
-Context and Tokens are related, so we've already shared some of my thoughts about 
-minimizing tokens. But they are not identical, and it's helpful to
-keep these ideas separate despite the overlap. 
+Minimizing context often also minimizes input tokens, but we have to think
+about output tokens slightly differently. 
 
 Output tokens cost more than input tokens. When I want an LLM to give me a
-straightforward answer and it restates my query, gives me extraneous
-information along with an answer, and provides options for what I might
-want to do next, that's annoying. Not only is the model cluttering my mind,
-but the provider is also billing me for that slop. 
-
-{{< preformat >}}
-That label might seem a bit strong, but this extra output is mass-
-produced, users never asked for it, it was never reviewed by humans,
-and it is monetized. Sounds a lot like "micro-slop" to me! 
-{{< /preformat >}}
+straightforward answer and it paraphrases what I asked and provides
+extraneous information, and options for what I might want to do next, 
+that's annoying, but also generating extra output tokens. Sometimes
+it can be quite difficult to constrain the output of the model. This
+is double frustrating because the provider is billing me for this 
+output micro-slop. 
 
 In an LLM conversation, every previous message stays in the context window.
 Each exchange ("turn") is accumulating tokens. Those unnecessarily
@@ -247,62 +240,73 @@ provider or model, and many providers aren't simply taking one feed-forward
 pass through a single language model. 
 
 For example, there is another type of token, sometimes called "thinking
-tokens". These are tokens used to internally iterate on a task before
-providing a final response. Sometimes this process is called "reasoning". 
+tokens". These are tokens used to internally process a task before
+providing a final response. Sometimes this process is called "reasoning".
 Both these terms are misleading. 
 
 {{< preformat >}}
-_Needless to say, an LLM cannot think. This is still an LLM just
-probabilistically predicting "the next token". Internally, it has a set of
-instructions to iterate with a particular pattern or workflow, similar to
-how a user might in a multi-turn conversation. In any case, the net effect
-for this discussion is that even if you reduce input tokens and output 
-tokens, there might be tokens used behind the curtain to produce that
-really short output you asked for._
+Needless to say, an LLM cannot think. This is still an LLM just probabilistically predicting "the next token". Internally, it has a set of instructions to generate and use these tokens as a type of "memory" beyond its internal activations; it's still a transformer going through decoding steps. 
 {{< /preformat >}}
 
-Here's how I think about these types of tokens: If the LLM reasoning is
-visible to me, through a visible "chain-of-thought", I consider these to be
-output tokens, and that they are part of the conversation history. More
-recent models use hidden reasoning tokens that aren't exposed to the user,
-and those are not appended to the context window; those tokens are used
-once. 
+Reasoning tokens are usually priced as output tokens. Depending on the
+provider, a user might not be able to see the reasoning at all, or see
+only a summarized version. Sometimes the use of these extra tokens can have
+esoteric triggers ("think carefully", "be thorough") rather than explicit
+settings, which obfuscates user control. Furthermore, providers do not
+share architectural details so it's hard to know what's actually 
+happening behind the scenes. 
 
-To minimize compute, one also has to consider how agents and subagents are
-used. "Subagents" here refer to tool using workflows initiated by a main
-agent -- "go do this task", says the agent, "and then come back and tell me
-what you learned."
+It's clear that reasoning improves results on certain types of tasks. It is 
+valuable for longer and more complex tasks where the user is
+not concerned about control or inspecting the details. 
 
-Subagent processes also expend tokens, of course, in order to run, and
-then they produce summaries that are added to the context window of the
-spawning agent. 
+**11) I don't use reasoning and deep thinking features** because this 
+tradeoff does not meet my needs. 
 
-**11) I use subagents to create isolated contexts**. Agents are a great tool to
-keep a context window small. One can also specify tools, permissions, and
-even which model to use separately for certain subagent workflows. 
+If I do want to take on a really complex task with LLMs, I prefer
+to treat the task as a project, and break it down into smaller steps such
+that I can stay fully engaged, follow along, ask questions, and opt to
+intervene.  
 
-In Opencode, I can define a custom subagent, such that it uses a specific
-prompt, model, and has controlled permissions. It can complete a task, and
-summarize the results for my main LLM chat, without adding much to the
-main context window. 
+Agentic workflows and subagents provide one way to tackle complex tasks
+without some of those negative trade-offs. 
 
-This is a really powerful technique to shift work into isolated contexts. 
-I have to be careful about accidentally increasing the total number of
-tokens consumed, but when used well it can have benefits.
+"Subagents" refer to tool-using workflows initiated by a main agent -- "go
+do this task", says the agent, "and then come back and tell me what you
+learned." Subagent processes also expend tokens, of course, in order to
+run, and then they produce summaries that are added to the context
+window of the spawning agent. 
 
-Subagent invocation and the associated token use isn't always clear to the
-user. Often agent harnesses do not correctly or clearly display this
-information. So using such subagents can have unexpected token compute and
-token consumption. 
+This pattern is very useful as it can be leveraged to keep context windows
+small. Furthermore, in harnesses like Opencode, one can specify
+permissions, available tools, and even LLM model separately and
+specifically for each subagent. 
+
+**12) I use subagents to create isolated contexts** for common tasks.**
+This can be a powerful technique but requires some practice to get
+right. 
+
+There are some gotchas. Subagent invocation and the associated token use
+isn't always clear to the user. Often agent harnesses do not correctly or
+clearly display this information. So using such subagents can have
+unexpected token compute and token consumption. 
+
+Agents are often justifiably maligned, and the term itself is not clear.
+Many writers have described "agents" as efforts to give LLMs access to live
+data and real-world actions, and have warned us about what could go wrong.
+That is not what we are doing here. There are risks, yes, but these are
+called "agent harnesses" because they put reigns on the models, not unleash
+them. 
 
 ---
+
+## Concluding Thoughts
 
 {{< pullquote >}}                                                                                                                                                                
 When asking "What is the least amount of AI necessary?" I'm not just
 interested in keeping the number of tokens low. I try to look at the
 tokens, the model, the compute, and the data. 
 {{< /pullquote >}}                                                                                                                                                                
-
 I follow these minimization ideas for my own purposes. In the near future I
 think we will see tools and best practices emerging for minimizing, or at
 least optimizing, the use of LLMs. 
@@ -318,12 +322,11 @@ Emerging best practices might look something like this:
 * Treat context as a scarce resource, not a free resource.
 ... and so on. 
 
-An "Awesome AI Minimization" resource list might be helpful,
-although I didn't see one when searching recently. I could see tools,
-agents, skills, context management techniques, small-model workflows all
-being relevant.  I'd love to see more transparency about token usage in 
-tools, and agent harness plugins that display costs and environmental
-impacts. 
+An "Awesome AI Minimization" resource list might be helpful; I didn't see
+one when searching recently. I could see tools, agents, skills, context
+management techniques, small-model workflows all being useful categories.
+I'd love to see more transparency about token usage in tools, and agent
+harness plugins that display costs and environmental impacts. 
 
 AI Minimization might be a step too far for some: engineering time is more
 expensive than inference, after all, and premature optimization is an old
@@ -334,6 +337,6 @@ minimization improves more than merely privacy, AI minimization improves
 more than efficiency. In a moment when we offload too much to these models,
 we could use a push in the opposite direction, from de-skilling to critical
 thinking, from abdication to co-creation. I hope this idea encourages some
-to think differently about how they're using LLMs, and whether that task
-they're working on needs an AI at all. 
+to think differently about how they're using LLMs, and perhaps ask if
+that task that they're working on needs an AI at all. 
 
