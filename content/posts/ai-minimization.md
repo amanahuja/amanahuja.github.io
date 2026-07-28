@@ -50,7 +50,7 @@ large if the price of tokens rises to meet the actual cost of tokens.
 My interest in minimizing is also value-driven.
 
 Using fewer resources is, first of all, always better. (I sometimes make
-slightly absurd choices pertaining to reusing food takeout containers,
+admittedly absurd choices pertaining to reusing food takeout containers,
 avoiding car trips, or traveling light.)
 
 In the case of LLM technologies, there are many specific reasons that I
@@ -261,7 +261,7 @@ valuable for longer and more complex tasks where the user is
 not concerned about control or inspecting the details. 
 
 **11) I don't use reasoning and deep thinking features** because this 
-tradeoff does not meet my needs. 
+tradeoff does not meet my needs. At least, right now. 
 
 If I do want to take on a really complex task with LLMs, I prefer
 to treat the task as a project, and break it down into smaller steps such
@@ -307,6 +307,7 @@ When asking "What is the least amount of AI necessary?" I'm not just
 interested in keeping the number of tokens low. I try to look at the
 tokens, the model, the compute, and the data. 
 {{< /pullquote >}}                                                                                                                                                                
+
 I follow these minimization ideas for my own purposes. In the near future I
 think we will see tools and best practices emerging for minimizing, or at
 least optimizing, the use of LLMs. 
