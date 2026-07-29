@@ -21,15 +21,16 @@ When doing so, though, I've been working hard to minimize rather than
 maximize the way I invoke LLMs. 
 
 {{< pullquote >}}                                                                                                                                                                
-AI minimization is a principle that you should use only the minimal
+AI Minimization is a principle that you should use only the minimal
 amount of AI necessary to accomplish a legitimate purpose. 
 {{< /pullquote >}}      
 
 Depending on where you sit on the AI adoption and hype spectrum, you may
-find this obvious, surprising, or insufficient. I get that. If you believe
-that no one should use these technologies at all, I understand and
-respect your perspective. Just because I use these technologies doesn't
-mean I don't hate them, too.
+find this obvious, surprising, or insufficient. I get that. 
+
+If you believe that no one should use these technologies at all, I
+understand and respect your perspective. Just because I use these
+technologies doesn't mean I don't hate them, too.
 
 Until recently, most who work actively with LLM technologies would advocate
 against the "premature optimizations" of LLM systems, in favor of letting
@@ -47,7 +48,7 @@ pricing models soon in order to help recover their investments.
 That's great, in my opinion. It's good for the environment and the world at
 large if the price of tokens rises to meet the actual cost of tokens. 
 
-My interest in minimizing is also value-driven.
+My interest in minimizing is both cost-driven and also value-driven.
 
 Using fewer resources is, first of all, always better. (I sometimes make
 admittedly absurd choices pertaining to reusing food takeout containers,
