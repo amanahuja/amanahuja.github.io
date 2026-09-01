@@ -174,7 +174,7 @@ surely become commonplace.
 context**. In many mainstream tools context windows are intentionally
 obfuscated, and far from optimizing context, such tools often encourage
 workflows and user behavior that produces very large contexts. I like the
-pi coding agent (https://pi.dev/). 
+pi coding agent ([pi.dev](https://pi.dev/)). 
 
 **7) I try to use only the context necessary for the task.** This means I
 take the time to think about what I'm asking and what information is
