@@ -21,5 +21,6 @@ tags
 .vim
 .hugo_build.lock
 PROJECT_NOTE
+opencode.json
 # static/linkIndex.json
 # static/contentIndex.json
