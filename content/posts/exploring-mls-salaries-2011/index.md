@@ -24,8 +24,6 @@ draft: false
 
 ---
 
-**[I wrote this in April 2012, but never cleaned it up and posted it. Here it is, finally, back-posted.]**
-
 My friend Arian and I were conversing over Google Talk about footballer (read: soccer player) salaries, and found a source for the 2011 salaries and positions of each player in the US soccer league, MLS. I loaded this data into Pandas, and as we chatted, we poked around and had some fun with the data.
 
 Some of this might be interesting to others as well, so I cleaned it all up a little to post here on my blog. Some of the highlights are directly pasted below, and I've also included the PDF and other files below, in case anyone is interested in poking around some more.
@@ -47,60 +45,13 @@ Technical setup:
 
 Our source data consisted of 525 MLS players. The above plot shows the distribution of these players across field positions. Also plotted there is the average salary for each field position. Forward / attacking players apparently earn the most money, however that observation may be skewed by a small number of high-profile forwards that earn huge amounts of money.
 
-|
- Club |
- Last Name |
- First Name |
- Position |
- Base Salary |
- Compensation |
-
-
-
-
-|
- LA |
- Beckham |
- David |
- M |
- $5,500,000 |
- $6,500,000 |
-
-
-|
- NY |
- Henry |
- Thierry |
- F |
- $5,000,000 |
- $5,600,000 |
-
-
-|
- NY |
- Marquez |
- Rafael |
- D |
- $4,600,000 |
- $4,600,000 |
-
-
-|
- LA |
- Keane |
- Robbie |
- F |
- $2,917,241 |
- $3,417,243 |
-
-
-|
- LA |
- Donovan |
- Landon |
- F |
- $2,300,000 |
- $2,300,000 |
+| Club | Last Name | First Name | Position | Base Salary | Compensation |
+| ---- | --------- | ---------- | -------- | ----------: | -----------: |
+| LA   | Beckham   | David      | M        |  $5,500,000 |   $6,500,000 |
+| NY   | Henry     | Thierry    | F        |  $5,000,000 |   $5,600,000 |
+| NY   | Marquez   | Rafael     | D        |  $4,600,000 |   $4,600,000 |
+| LA   | Keane     | Robbie     | F        |  $2,917,241 |   $3,417,243 |
+| LA   | Donovan   | Landon     | F        |  $2,300,000 |   $2,300,000 |
 
 
 This table shows the top 5 paid players in MLS 2011. They are not all forwards. Out of the top 20 compensated players, there are 9 forwards, 9 mid-fielders, 1 defender and 1 keeper.
