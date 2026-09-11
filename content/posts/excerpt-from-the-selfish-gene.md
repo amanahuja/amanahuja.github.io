@@ -33,4 +33,4 @@ The following passage caught my eye when I read Richard Dawkin's "Selfish Genes 
 
 In the last paragraph, Dawkins is closing out his analogy between genes and computer programs.
 
-I read this in The Mind's I (Hostadter, Dennett), but it was originally published in Dawkin's *The Selfish Gene*. Read the [entire essay online [PDF]](http://philosophy.wisc.edu/shapiro/Phil523/dawkinsongenesandmemes.pdf) or you can [buy the book](http://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0192860925).
+I read this in The Mind's I (Hostadter, Dennett), but it was originally published in Dawkin's *The Selfish Gene*. Read the [entire essay online [PDF]](http://philosophy.wisc.edu/shapiro/Phil523/dawkinsongenesandmemes.pdf), or better yet, check out [the book](http://www.amazon.com/Selfish-Gene-Richard-Dawkins/dp/0192860925).
