@@ -14,7 +14,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](/posts/computers-in-my-life/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 17, 2011.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 17, 2011.*
 
 ---
 

@@ -21,7 +21,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](/posts/natural-language-generation-by-genetic-programming/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 12, 2010.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: November 12, 2010.*
 
 ---
 

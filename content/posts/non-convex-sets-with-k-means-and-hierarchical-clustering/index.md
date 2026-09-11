@@ -23,7 +23,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](/posts/non-convex-sets-with-k-means-and-hierarchical-clustering/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: August 14, 2013.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: August 14, 2013.*
 
 ---
 

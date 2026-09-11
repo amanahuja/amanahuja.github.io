@@ -20,7 +20,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](/posts/exploring-mls-salaries-2011/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: April 20, 2012.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: April 20, 2012.*
 
 ---
 

@@ -20,7 +20,7 @@ layout: single
 draft: false
 ---
 
-*Originally published on my old blog, [Pafnuty blog](/posts/explanation-of-lenet-jargon/). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 13, 2009.*
+*Originally published on my old blog, [Pafnuty blog](https://pafnuty.wordpress.com). Reposted here as an effort to [consolidate writing](/posts/consolidating-my-writing/) into one place. The original publication date was: June 13, 2009.*
 
 ---
 
