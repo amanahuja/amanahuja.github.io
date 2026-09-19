@@ -1,6 +1,6 @@
 ---
-title: "Anthropomorphising AI"
-subtitle: "Arguments pro/con about anthropomorphising today's AI systems"
+title: "Anthropomorphizing AI"
+subtitle: "Arguments pro/con about anthropomorphizing today's AI systems"
 date: 2026-09-18
 author: "Aman Ahuja"
 categories:
@@ -48,12 +48,12 @@ The authors include Emily M. Bender, Nanna Inie & Peter Zukerman. They say
 that terminology should describe system functionality while locating agency
 in the people who build, deploy, and use the systems. "Language matters.
 How we describe ‘AI’ technology influences how it is perceived, deployed,
-and trusted."It is of no surprise to anyone who has worked on governance
-that language itself is part of the governance challenge. **[Supports]**. 
+and trusted." It is of no surprise to anyone who has worked on governance
+that language itself is part of the governance challenge.
 
 **Rumman Chowdhury**
 {{< pullquote >}}
-"By using lazy language, we have already placed the responsibility of any negative outcomes on the algorithm."</br>
+"By using lazy language, we have already placed the responsibility of any negative outcomes on the algorithm."<br/>
 -- Rumman Chowdhury
 {{< /pullquote >}}
 
@@ -70,11 +70,11 @@ the age of
 AI"](https://www.ted.com/talks/rumman_chowdhury_moral_outsourcing_humanity_in_the_age_of_ai)(April
 2018) in which she remarks that this arrangement lets creators and
 deployers retain the upside of the technology while distancing themselves
-from its harms. **[Supports]**. 
+from its harms.
 
 **Peterson & Almor**
 {{< pullquote >}}
-"Linguistically framing AIs as agents … influences all people to consider the companies which create them less responsible for their mistakes." </br>
+"Linguistically framing AIs as agents … influences all people to consider the companies which create them less responsible for their mistakes." <br/>
 -- Peterson & Almor
 {{< /pullquote >}}
 
@@ -86,7 +86,7 @@ Also see Victoria Oldemburgo de Mello, Jason Plaks & Michael Inzlicht ["The Effe
 
 **Ted Chiang**
 {{< pullquote >}}
-"Whenever a person delegates a decision to an LLM, they are trying to off-load accountability for that decision."</br>
+"Whenever a person delegates a decision to an LLM, they are trying to off-load accountability for that decision."<br/>
 -- Ted Chiang
 {{< /pullquote >}}
 
@@ -104,27 +104,27 @@ their own responsibility.
 
 **Ted Chiang (again)**
 {{< pullquote >}}
-"Even if a software agent were conscious and had the best of intentions, the fact that it cannot accept responsibility for its actions disqualifies it from being a moral agent."
+"Even if a software agent were conscious and had the best of intentions, the fact that it cannot accept responsibility for its actions disqualifies it from being a moral agent."<br/>
 -- Ted Chiang
 {{< /pullquote >}}
 
 From ["No, Artificial Intelligence Is Not Conscious"](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) in *The Atlantic* (June 3, 2026). 
 
-Chiang’s point is that linguistic fluency is not evidence that an LLM can bear moral responsibility. He differentiates the ideas of moral patienthood and moral agency, using human children as an analogy. He points out that Anthropic (the org) wants Claude to be virtuous but doesn't discuss how it could be held responsible for its actions. [**Supports**].
+Chiang’s point is that linguistic fluency is not evidence that an LLM can bear moral responsibility. He differentiates the ideas of moral patienthood and moral agency, using human children as an analogy. He points out that Anthropic (the org) wants Claude to be virtuous but doesn't discuss how it could be held responsible for its actions.
 
-For a more formal expression of this idea, see Sparroy and Flenady's ["On
+For a more formal expression of this idea, see Sparrow and Flenady's ["On
 not being a robot: AI as a threat to rational agency,"
 ](https://www.tandfonline.com/doi/full/10.1080/0020174X.2026.2673086) in
 *Inquiry* (2026).
 
-*I have quotes Chiang twice already on this page, but not in relation to his
+*I have quoted Chiang twice already on this page, but not in relation to his
 titular claim that AI is not conscious. These are each separate claims, and
 the idea that they are all connected is yet another claim.* 
 
 **Joseph Keshet**
 
 {{< pullquote >}}
-"Variability introduced by stochastic sampling does not amount to choice or authorship." </br>
+"Variability introduced by stochastic sampling does not amount to choice or authorship." <br/>
 -- Joseph Keshet
 {{< /pullquote >}}
 
@@ -143,10 +143,10 @@ From ["Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsib
 "Words are made to help us reason about events happening in the world and
 make predictions about them. I don’t see the value in rejecting the frames
 of intention, motivation, and collaboration when describing systems which
-clearly exhibit behavior described by those concepts...</br></br>
+clearly exhibit behavior described by those concepts...<br/><br/>
 The best way to understand, predict, and reason about [AI] behavior is
 still to talk in terms of their desires, beliefs, and reactions to
-experience." </br>
+experience." <br/>
 -- Dwarkesh Patel
 {{< /pullquote >}}
 
@@ -160,7 +160,7 @@ duck" stance.
 **Simon Coghlan**
 
 {{< pullquote >}}
-"People can, of course, use mentalistic language to describe things without believing they are really sentient." </br>
+"People can, of course, use mentalistic language to describe things without believing they are really sentient." <br/>
 -- Simon Coghlan
 {{< /pullquote >}}
 
@@ -177,36 +177,36 @@ historical context.*
 
 From ["A Logical Calculus of the Ideas Immanent in Nervous Activity,"](https://marlin.life.utsa.edu/mcculloch-and-pitts.html) in *Bulletin of Mathematical Biophysics* (1943): 
 {{< pullquote >}}
-"Because of the ‘all-or-none’ character of nervous activity, neural events and the relations among them can be treated by means of propositional logic." </br>
+"Because of the ‘all-or-none’ character of nervous activity, neural events and the relations among them can be treated by means of propositional logic." <br/>
 -- Warren McCulloch & Walter Pitts (1943)
 {{< /pullquote >}}
 
 
 From [*The Human Use of Human Beings* (1954)](https://www.cs.ox.ac.uk/activities/ieg/e-library/bynum.pdf), a discussion of Wiener’s machine ethics: 
 {{< pullquote >}}
-"To throw the problem of his responsibility on the machine … is to cast his responsibility to the winds."</br>
+"To throw the problem of his responsibility on the machine … is to cast his responsibility to the winds."<br/>
 -- Norbert Wiener (1954)
 {{< /pullquote >}}
 
 
 From ["Rival," *The New Yorker* (November 29, 1958)](https://www.newyorker.com/magazine/1958/12/06/rival-2):
 {{< pullquote >}}
-"Our success in developing the perceptron means that for the first time a non-biological object will achieve an organization of its external environment in a meaningful way."</br>
+"Our success in developing the perceptron means that for the first time a non-biological object will achieve an organization of its external environment in a meaningful way."<br/>
 -- Frank Rosenblatt (1958)
 {{< /pullquote >}}
 
 
-From : ["Computer Power and Human Reason" (1976)](https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/106/96):
+From ["Computer Power and Human Reason" (1976)](https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/106/96):
 
 {{< pullquote >}}
-"I was startled to see how quickly and how very deeply people conversing with DOCTOR became emotionally involved with the computer and how unequivocally they anthropomorphized it."</br>
+"I was startled to see how quickly and how very deeply people conversing with DOCTOR became emotionally involved with the computer and how unequivocally they anthropomorphized it."<br/>
 -- Joseph Weizenbaum (1976)
 {{< /pullquote >}}
 
 
 From ["The Intentional Stance"](https://scilib-biology.narod.ru/Dennett/IS/Intentional_Stance.htm) (1987):
 {{< pullquote >}}
-"The intentional strategy consists of treating the object whose behavior you want to predict as a rational agent with beliefs and desires."</br>
+"The intentional strategy consists of treating the object whose behavior you want to predict as a rational agent with beliefs and desires."<br/>
 -- Daniel Dennett (1987)
 {{< /pullquote >}}
 
@@ -225,7 +225,7 @@ longer safely be applied.  <br/>
 
 *Shanahan notes that these "philosophically-loaded" terms like "knows", "believes" "thinks", etc, have been harmless in relation to past technologies. They were "harmless because no-one takes them seriously enough." But modern LLMs are now good enough that this language is now dangerous to use.*
 
-*I don't think he says it explictly, but it is also relevant that this
+*I don't think he says it explicitly, but it is also relevant that this
 terminology used to be confined to experts in the field, and is now part of
 the popular conversation. LLMs are being used and discussed by so many
 people who are not researching or creating them.*
@@ -241,7 +241,7 @@ large language models are not moral agents.
 
 Choosing to use such language is a choice. If you are a human making that
 choice, it is a moral choice. If an LLM uses such language, there are
-consequences, and the model's creators are responsibile. 
+consequences, and the model's creators are responsible. 
 
 I personally have long been frustrated by the practice of using
 human-centered language when discussing today's technologies. (I still try
@@ -272,7 +272,7 @@ All these things are simultaneously true:
   models, and the industries, and the economies around these technologies. Soon. 
 * There is no evidence that these models are conscious, in that they have
   subjective experiences, or that they self-conscious, in that they are aware of
-  themselves in the Hofstadian sense. They are not sentient, meaning that
+  themselves in the Hofstadterian sense. They are not sentient, meaning that
   they do not have felt experiences.
 * They are clearly capable of doing things we didn't ask or expect them
   to do. They are constantly doing things we don't want them to do. This
