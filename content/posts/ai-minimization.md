@@ -1,7 +1,7 @@
 ---
 title: "AI Minimization"
 subtitle: "Use no more AI than necessary." 
-date: 2026-07-07
+date: 2026-10-05
 author: "Aman Ahuja"
 categories:
 - observations
@@ -341,4 +341,3 @@ we could use a push in the opposite direction, from de-skilling to critical
 thinking, from abdication to co-creation. I hope this idea encourages some
 to think differently about how they're using LLMs, and perhaps ask if
 that task that they're working on needs an AI at all. 
-
