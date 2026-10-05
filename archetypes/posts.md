@@ -1,6 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-subtitle: "This shows up in previews (homepage and listing)"
+subtitle: "This shows up beneath the title on the post page"
+# Provide `description` for intentional SEO and social-card copy. Without it,
+# Hugo falls back to its automatic summary, normally the first 70 words.
+description: ""
 date: {{ .Date | dateFormat "2006-01-02" }}
 author: "Aman Ahuja"
 categories:

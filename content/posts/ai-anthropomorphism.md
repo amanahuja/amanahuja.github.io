@@ -1,6 +1,7 @@
 ---
 title: "Anthropomorphizing AI"
 subtitle: "Arguments pro/con about anthropomorphizing today's AI systems"
+description: "Annotated claims and arguments about anthropomorphic language for AI systems, especially pertaining to perception of responsibility."
 date: 2026-09-18
 author: "Aman Ahuja"
 categories:
