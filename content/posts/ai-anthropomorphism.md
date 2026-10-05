@@ -1,7 +1,7 @@
 ---
 title: "Anthropomorphizing AI"
 subtitle: "Arguments pro/con about anthropomorphizing today's AI systems"
-date: 2026-09-18
+date: 2026-10-05
 author: "Aman Ahuja"
 categories:
     - reading-log
@@ -280,4 +280,3 @@ All these things are simultaneously true:
 * We humans are responsible for all the small stuff and all the big stuff.
 
 This could and should be a cleaner and longer list. But I have to go make dinner. 
-
