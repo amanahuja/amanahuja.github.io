@@ -1,7 +1,7 @@
 ---
 title: "Anthropomorphizing AI"
 subtitle: "Arguments pro/con about anthropomorphizing today's AI systems"
-date: 2026-10-05
+date: 2026-09-18
 author: "Aman Ahuja"
 categories:
     - reading-log
