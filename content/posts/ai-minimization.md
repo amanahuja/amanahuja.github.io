@@ -1,7 +1,7 @@
 ---
 title: "AI Minimization"
 subtitle: "Use no more AI than necessary." 
-date: 2026-10-05
+date: 2026-07-07
 author: "Aman Ahuja"
 categories:
 - observations
