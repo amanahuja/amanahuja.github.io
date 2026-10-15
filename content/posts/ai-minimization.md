@@ -50,9 +50,10 @@ large if the price of tokens rises to meet the actual cost of tokens.
 
 My interest in minimizing is both cost-driven and also value-driven.
 
-Using fewer resources is, first of all, always better. (I sometimes make
-admittedly absurd choices pertaining to reusing food takeout containers,
-avoiding car trips, or traveling light.)
+Using fewer resources, is, generally speaking, usually better. I sometimes
+make admittedly absurd choices pertaining to reusing food takeout
+containers, avoiding car trips, or traveling light. This is arguably also
+an aesthetic preference that I'm drawn to, as much as one based on values.  
 
 In the case of LLM technologies, there are many specific reasons that I
 care about using fewer resources.
@@ -338,6 +339,10 @@ Nevertheless, it's a principle with a worthy provocation. As data
 minimization improves more than merely privacy, AI minimization improves
 more than efficiency. In a moment when we offload too much to these models,
 we could use a push in the opposite direction, from de-skilling to critical
-thinking, from abdication to co-creation. I hope this idea encourages some
-to think differently about how they're using LLMs, and perhaps ask if
-that task that they're working on needs an AI at all. 
+thinking, from abdication to co-creation. 
+
+It may not be a principle with universal application, nor one that survives
+fundamental changes in these rapidly evolving technologies, but I hope this
+idea encourages some to think differently about how they're using LLMs
+today, and perhaps question if that task that they're working on needs the
+latest frontier model at all. 
