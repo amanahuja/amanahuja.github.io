@@ -26,13 +26,11 @@ Although I'm trying to capture positions from multiple opposing and
 supporting angles, I should acknowledge my own bias against
 anthropomorphizing. I'll add a short section at the end about that. 
 
-
 ## Claim: "Anthropomorphic or agentive framing can shift perceived responsibility away from humans and institutions"
 
 *This claim is not whether anthropomorphic language is philosophically
 accurate, but whether describing the AI as the actor changes how ordinary
 people distribute responsibility.*
-
 
 **Bender, Inie, Zukerman**
 
@@ -85,58 +83,39 @@ Their experiment found that framing an AI grammatically as an agent reduced resp
 
 Also see Victoria Oldemburgo de Mello, Jason Plaks & Michael Inzlicht ["The Effects of AI Anthropomorphism on Trust and Responsibility,"](https://online.ucpress.edu/collabra/article/12/1/161757/218332/The-Effects-of-AI-Anthropomorphism-on-Trust-and) in *Collabra: Psychology* (2026). 
 
-**Ted Chiang**
+**Ted Chiang and Henry Chevlin**
 {{< pullquote >}}
-"Whenever a person delegates a decision to an LLM, they are trying to off-load accountability for that decision."<br/>
+"Whenever a person delegates a decision to an LLM, they are trying to off-load accountability for that decision, and if a company that sells an LLM portrays the product as having a moral center, it is offering a way for its customers to abdicate their responsibilities."<br/>
 -- Ted Chiang
 {{< /pullquote >}}
 
-[“No, Artificial Intelligence Is Not Conscious,” *The Atlantic* (June 3, 2026)](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/)
+From [“No, Artificial Intelligence Is Not Conscious,” *The Atlantic* (June 3, 2026)](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/)
 
-Chiang discusses another locus of responsibility: the user. His concern is not
-only that companies can shift blame to AI, but that users can experience
-delegation to an apparently moral or authoritative system as a transfer of
-their own responsibility. 
-
----
-## Claim: "LLMs are not moral agents."
-
-*The claim is not fluent or apparently reasoned output does not establish the capacities required for moral responsibility.*
-
-**Ted Chiang (again)**
-{{< pullquote >}}
-"Even if a software agent were conscious and had the best of intentions, the fact that it cannot accept responsibility for its actions disqualifies it from being a moral agent."<br/>
--- Ted Chiang
-{{< /pullquote >}}
-
-From ["No, Artificial Intelligence Is Not Conscious"](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) in *The Atlantic* (June 3, 2026). 
-
-Chiang’s point is that linguistic fluency is not evidence that an LLM can bear moral responsibility. He differentiates the ideas of moral patienthood and moral agency, using human children as an analogy. He points out that Anthropic (the org) wants Claude to be virtuous but doesn't discuss how it could be held responsible for its actions.
-
-For a more formal expression of this idea, see Sparrow and Flenady's ["On
-not being a robot: AI as a threat to rational agency,"
-](https://www.tandfonline.com/doi/full/10.1080/0020174X.2026.2673086) in
-*Inquiry* (2026).
-
-*I have quoted Chiang twice already on this page, but not in relation to his
-titular claim that AI is not conscious. These are each separate claims, and
-the idea that they are all connected is yet another claim.* 
-
-**Joseph Keshet**
+Chiang discusses another locus of responsibility: the user, or "operator".
+His concern is that operators themselves may intentionally or
+subconsciously abdicate responsibility if they have consulted an LLM that
+they believe to have its own judgement and moral center. 
 
 {{< pullquote >}}
-"Variability introduced by stochastic sampling does not amount to choice or authorship." <br/>
--- Joseph Keshet
+"There’s also of course a risk here that by holding AI systems themselves to account, we’ll find ourselves letting their operators off the hook." <br/>
+-- Henry Chevlin
 {{< /pullquote >}}
 
-From ["Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models"](https://arxiv.org/abs/2606.13441) (2026)
+In a [recent
+essay](https://www.polytropolis.com/p/contra-chiang-on-machine-consciousness),
+Henry Shevlin notes that outside observers may also hold operators less
+accountable, transferring that blame to AI systems in what Shevlin
+describes as a type of "conservation-of-blame". He notes that this has been
+observed empirically by [Kneer and
+Stuart](https://arxiv.org/abs/2102.04527). 
+
+_The Shevlin essay is a critique of Chiang's dismissal of the idea of AI consciousness, but I don't think either of them would mind that I place them together here. They seem aligned regarding these ideas of responsibilities, which are distinct from the question of AI consciousness. The quotation from Chiang is about operators' motivations, and Shevlin's is considering third-party attribution of blame._
 
 ---
 
 ## Claim: "Language about intention can be useful for predicting AI behavior, even when stronger anthropomorphic language is misleading"
 
 *The claim is that person-like vocabulary may be useful as predictive shorthand without committing us to a richer picture of the system as a humanlike subject.*
-
 
 **Dwarkesh Patel**
 
@@ -235,27 +214,30 @@ people who are not researching or creating them.*
 
 ## Aman's thoughts 
 
-These claims are not mutually exclusive, obviously. One can believe that
-speaking about agents as having intentions is useful in some contexts and
-ALSO believe that it displaces moral responsibility and ALSO believe that
-large language models are not moral agents. 
-
-Choosing to use such language is a choice. If you are a human making that
-choice, it is a moral choice. If an LLM uses such language, there are
-consequences, and the model's creators are responsible. 
+These claims are not mutually exclusive. One can believe that speaking
+about agents as if they have human-like characteristics and intentions is
+useful in some contexts and ALSO believe that it displaces moral
+responsibility. The question of whether AI systems possess moral agency is
+distinct from whether attributing agency to them changes how people assign
+responsibility.
 
 I personally have long been frustrated by the practice of using
-human-centered language when discussing today's technologies. (I still try
-to avoid saying "artificial intelligence", although that effort has been
-increasingly futile). 
+human-centered language when discussing technologies. I feel like
+marketing departments used "artificial intelligence" to describe features
+on a microwave decades ago. 
+
+It's unclear whether I will have to overcome that long-standing
+frustration. Now that it is experts and philosophers who are using
+deliberately using such language, it is certainly time to revisit these
+ideas. 
 
 When asked whether machines might think, Richard Feynman said that a
 machine will not think in the same way that human think, anymore than an
 airplane flies in the same way that a bird flies, or a fast vehicle moves
-like a cheetah. It's up to us to decide if that matters. 
+like a cheetah. It's up to us to decide what words we use. 
 
-It is doing _something_, and whether that thing it is doing should be
-considered to be "thought", and whether it is impressive, or dangerous, are
+These models are doing _something_, and whether that thing they are doing
+should be called "thought", and whether it is impressive, or dangerous, are
 all separate and important considerations. 
 
 All these things are simultaneously true: 
@@ -271,13 +253,18 @@ All these things are simultaneously true:
   and have already done so. 
 * We must govern them and regulate the models. And the systems that use these
   models, and the industries, and the economies around these technologies. Soon. 
-* There is no evidence that these models are conscious, in that they have
-  subjective experiences, or that they self-conscious, in that they are aware of
-  themselves in the Hofstadterian sense. They are not sentient, meaning that
-  they do not have felt experiences.
 * They are clearly capable of doing things we didn't ask or expect them
   to do. They are constantly doing things we don't want them to do. This
   _misalignment_ is increasing rapidly in both magnitude and consequence. 
 * We humans are responsible for all the small stuff and all the big stuff.
+
+I am not personally convinced that these models are conscious (in that they
+have subjective experiences), or that they are self-conscious (in that they
+are aware of themselves in the Hofstadterian sense). It certainly _seems_
+to me that they are not sentient (meaning that they do not have felt
+experiences). This is a  fascinating line of questions, though. It has
+intrigued me since reading Dennet in high school. I really can't even
+fathom that _everyone_, from my neighbors to the Pope, seems to be talking
+about it all these days. 
 
 This could and should be a cleaner and longer list. But I have to go make dinner. 
